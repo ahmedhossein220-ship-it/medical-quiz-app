@@ -3,7 +3,7 @@ import json
 import random
 
 st.set_page_config(
-    page_title="MCM Quiz Master",
+    page_title="MCQ Quiz Master",
     layout="centered"
 )
 
@@ -24,28 +24,41 @@ div[data-testid="stMarkdownContainer"] p {
 """, unsafe_allow_html=True)
 
 # ==========================
-# QUIZZES
+# SUBJECTS & QUIZZES
 # ==========================
 
-QUIZZES = {
-    "CVS": "quizzes/questions.json",
-    "Blood": "quizzes/blood.json",
-    "Respiration": "quizzes/respa.json",
-    "Practical": "quizzes/practical.json",
-    "Autonomic": "quizzes/autonomic.json",
-    "Nerve & Muscle": "quizzes/nervemuscle.json",
+SUBJECTS = {
+
+    "Physiology": {
+
+        "CVS": "quizzes/questions.json",
+        "Blood": "quizzes/blood.json",
+        "Respiration": "quizzes/respa.json",
+        "Practical": "quizzes/practical.json",
+        "Autonomic": "quizzes/autonomic.json",
+        "Nerve & Muscle": "quizzes/nervemuscle.json",
+    },
+
+    "Anatomy": {
+
+        "Embryology": "quizzes/embryo.json",
+        "Upper Limb": "quizzes/upperlimb.json",
+        "Lower Limb": "quizzes/lowerlimb.json",
+    }
 }
 
 
 def load_questions(file_path):
+
     with open(file_path, "r", encoding="utf-8") as f:
         questions = json.load(f)
 
     random.shuffle(questions)
+
     return questions
 
 
-st.title("📚 MCM Quiz Master")
+st.title("📚 MCQ Quiz Master")
 
 # ==========================
 # INITIALIZE STATE
@@ -57,6 +70,7 @@ defaults = {
 }
 
 for key, value in defaults.items():
+
     if key not in st.session_state:
         st.session_state[key] = value
 
@@ -66,14 +80,21 @@ for key, value in defaults.items():
 
 if not st.session_state.started:
 
+    subject = st.selectbox(
+        "Choose Subject",
+        list(SUBJECTS.keys())
+    )
+
     quiz_name = st.selectbox(
-        "Choose a topic",
-        list(QUIZZES.keys())
+        "Choose Topic",
+        list(SUBJECTS[subject].keys())
     )
 
     if st.button("Start Quiz"):
 
-        questions = load_questions(QUIZZES[quiz_name])
+        questions = load_questions(
+            SUBJECTS[subject][quiz_name]
+        )
 
         st.session_state.started = True
         st.session_state.quiz_name = quiz_name
@@ -107,7 +128,9 @@ else:
 
     if index >= total:
 
-        wrong_count = len(st.session_state.wrong_pool)
+        wrong_count = len(
+            st.session_state.wrong_pool
+        )
 
         if wrong_count > 0:
 
@@ -121,7 +144,9 @@ else:
 
             if st.button("Start Next Round"):
 
-                random.shuffle(st.session_state.wrong_pool)
+                random.shuffle(
+                    st.session_state.wrong_pool
+                )
 
                 st.session_state.questions = (
                     st.session_state.wrong_pool.copy()
@@ -146,7 +171,9 @@ else:
 
             st.balloons()
 
-            st.success("🎉 Quiz Completed!")
+            st.success(
+                "🎉 Quiz Completed!"
+            )
 
             st.write(
                 f"✅ Correct Answers: {st.session_state.correct}"
@@ -163,6 +190,7 @@ else:
             if st.button("Back To Menu"):
 
                 st.session_state.clear()
+
                 st.rerun()
 
         st.stop()
@@ -191,7 +219,9 @@ else:
     # QUESTION
     # --------------------------
 
-    st.markdown(f"### {q['q']}")
+    st.markdown(
+        f"### {q['q']}"
+    )
 
     # --------------------------
     # FEEDBACK MODE
@@ -209,11 +239,15 @@ else:
 
         if st.session_state.last_correct:
 
-            st.success("✅ Correct!")
+            st.success(
+                "✅ Correct!"
+            )
 
         else:
 
-            st.error("❌ Incorrect!")
+            st.error(
+                "❌ Incorrect!"
+            )
 
         st.markdown(
             f"""
@@ -223,7 +257,9 @@ else:
 """
         )
 
-        if st.button("Next Question"):
+        if st.button(
+            "Next Question"
+        ):
 
             st.session_state.current_index += 1
             st.session_state.show_feedback = False
@@ -242,13 +278,20 @@ else:
             key=f"q_{index}"
         )
 
-        if st.button("Submit Answer"):
+        if st.button(
+            "Submit Answer"
+        ):
 
             selected_letter = answer[0]
             correct_letter = q["a"]
 
-            st.session_state.selected_letter = selected_letter
-            st.session_state.correct_answer = correct_letter
+            st.session_state.selected_letter = (
+                selected_letter
+            )
+
+            st.session_state.correct_answer = (
+                correct_letter
+            )
 
             st.session_state.selected_option_index = (
                 q["o"].index(answer)
@@ -264,7 +307,10 @@ else:
 
                 st.session_state.streak = 0
                 st.session_state.last_correct = False
-                st.session_state.wrong_pool.append(q)
+
+                st.session_state.wrong_pool.append(
+                    q
+                )
 
             st.session_state.show_feedback = True
 
