@@ -1,0 +1,130 @@
+import random
+
+def run_quiz():
+    # VOLLSTÄNDIGE DATENBANK (1:1 Wortlaut aus dem Dokument)
+    questions = [
+        # Autonomic nervous system Midterm 23 دفعة
+        {"q": "In homeostasis which of the following is kept constant:", "o": ["A. The intracellular fluid.", "B. The extracellular fluid", "C. The transcellular fluid.", "D. The total body water."], "a": "B"},
+        {"q": "Regarding parasympathetic nervous system, all are true except;", "o": ["A. It is Anabolic.", "B. It is Secreto- motor system", "C. It is originated from Cranio- sacral regions.", "D. It causes increase of sweating and vasodilatation of skeletal muscle."], "a": "D"},
+        {"q": "Regarding noradrenaline, the incorrect statement is:", "o": ["A. It is stored in granulated vesicles", "B. It is inactivated mainly by active re-uptake", "C. It stimulates both a and B receptors", "D. It released at pre and post ganglionie sympathetic fibers"], "a": "D"},
+        {"q": "Vagus nerve is responsible for all of the following actions, except;", "o": ["A. Bronchoconstriction", "B. Pulmonary vasodilatation", "C. Coronary vasodilatation", "D. Evacuation of gall bladder"], "a": "C"},
+        {"q": "Autonomic ganglia is a collection of cell bodies of neurons inside the CNS.", "o": ["A. T", "B. F"], "a": "B"},
+        {"q": "Neurotransmitters are released by endocytosis.", "o": ["A. T", "B. F"], "a": "B"},
+        {"q": "Parasympathetic fibers of facial nerve relay at sphenopalatine and submandibular ganglia.", "o": ["A. T", "B. F"], "a": "A"},
+
+        # Final 22 دفعة
+        {"q": "A drug which blocks beta adrenergic receptors is likely to cause:", "o": ["A. Dilation of the bronchi in the respiratory tract", "B. Dilation of skeletal muscle blood vessels in response to circulating adrenaline", "C. No effect on the heart", "D. A decrease in the force of myocardial contraction"], "a": "D"},
+        {"q": "The sympathetic supply is not responsible for:", "o": ["A. Constriction of the pupil", "B. Erection of hair", "C. Watery secretion of sweat glands", "D. Blood vessels vasoconstriction"], "a": "A"},
+        {"q": "Drooping of the eyelid (ptosis) is caused by damage to:", "o": ["A. The third cranial nerve", "B. The parasympathetic supply to the eye", "C. The sympathetic supply to the eye", "D. Lesion in lumbar 2,3"], "a": "C"},
+        {"q": "A lesion in the cervical sympathetic chain (Horner’s syndrome) causes:", "o": ["A. Increased sweating", "B. Drooping of the upper eyelid (ptosis)", "C. Vasoconstriction of skin blood vessels (leading to pallor)", "D. Mydriasis (dilatation of the pupil)"], "a": "B"},
+        {"q": "The parasympathetic nervous system affects all of these organs except:", "o": ["A. Heart", "B. Pupillary smooth muscles", "C. Salivary glands", "D. Adrenal glands"], "a": "D"},
+
+        # Final 23 دفعة
+        {"q": "The cells is mainly dependent upon activity of: (Final 23 Q1)", "o": ["A. H+ pump", "B. H+-K+ pump", "C. Na+-Ca2+ exchanger", "D. Na+-K+ pump"], "a": "D"},
+        {"q": "Which of the following is an example of primary active transport?", "o": ["A. Glucose uptake into intestinal epithelial cells by Na+-glucose co-transporter 1", "B. Ca2+ sequestration in sarcoplasmic reticulum by Ca2+-ATPase", "C. Ca2+ extrusion from cells by the Na+-Ca2+ exchanger", "D. H2O flux across cell membrane through aquaporin"], "a": "B"},
+        {"q": "Acetylcholine all are true except:", "o": ["A. Acts on the same type of receptor in sympathetic and parasympathetic ganglia", "B. Acts on the same receptors at sympathetic and parasympathetic nerve endings", "C. Acts on the same receptors at autonomic ganglia and autonomic nerve terminals", "D. All are false"], "a": "B"},
+        {"q": "In the parasympathetic system:", "o": ["A. Axons of the postganglionic neurons are shorter than those of preganglionic", "B. Preganglionic neurons are more numerous than the postganglionic neurons", "C. Choline acetylase is the transmitter between the preganglionic and postganglionic neurons", "D. None of the above"], "a": "A"},
+        {"q": "Sympathetic stimulation of the iris causes:", "o": ["A. Exophthalmus", "B. Pupillary constriction", "C. Pupillary dilation", "D. Miosis"], "a": "C"},
+        {"q": "The following about sympathetic nervous system is true except:", "o": ["A. All its preganglionic fibres are cholinergic", "B. It is involved in stress & emergency conditions", "C. It has a vasodilatory effect on skeletal muscle blood vessels during rest", "D. Its stimulation increases the cardiac properties"], "a": "C"},
+
+        # Final 24 دفعة
+        {"q": "Beta adrenergic receptor stimulation does not cause:", "o": ["A. Sphincter relaxation", "B. Cardiac acceleration", "C. Bronchodilation", "D. Bladder relaxation"], "a": "A"},
+        {"q": "Stimulation of the parasympathetic nervous system leads to:", "o": ["A. Constriction of pupils", "B. Constriction of gastrointestinal sphincters", "C. Constriction of brain vessels", "D. Increased blood flow in coronary vessels"], "a": "A"},
+        {"q": "Muscarinic cholinergic receptors are found:", "o": ["A. On postganglionic sympathetic neurons", "B. On postganglionic parasympathetic neurons", "C. In the sweat glands", "D. None of the above"], "a": "C"},
+        {"q": "The termination of acetylcholine action is mainly due to:", "o": ["A. Reuptake by preganglionic neurons", "B. Irreversible combination with cholinergic receptors", "C. Uptake by postsynaptic cell", "D. Cholinesterase in cholinergic synapses"], "a": "D"},
+        {"q": "Sympathetic stimulation of the iris causes (Final 24 Q5):", "o": ["A. Exophthalmus", "B. Pupillary constriction", "C. Pupillary dilation", "D. Miosis"], "a": "C"},
+        {"q": "A lesion in the cervical sympathetic chain (Horner’s syndrome) causes (Final 24 Q6):", "o": ["A. Increased sweating", "B. Drooping of the upper eyelid (ptosis)", "C. Vasoconstriction of the skin blood vessels (leading to pallor)", "D. Mydriasis (dilatation of the pupil)"], "a": "B"},
+
+        # Final 25 دفعة
+        {"q": "Collateral ganglia of the sympathetic nervous system include the:", "o": ["A. Adrenal medullary cells", "B. Coeliac ganglion", "C. Paravertebral ganglia", "D. None of the above."], "a": "B"},
+        {"q": "Tachycardia due to sympathetic stimulation is mediated by:", "o": ["A. Beta adrenergic receptors", "B. Alpha adrenergic receptors", "C. Both Alpha and Beta receptors", "D. Nicotinic receptor"], "a": "A"},
+        {"q": "Blocking of the nicotinic ganglionic receptors in the ANS supplying the heart leads to:", "o": ["A. Inhibition of the sympathetic but not the parasympathetic", "B. Inhibition of both sympathetic and parasympathetic", "C. Decrease in the heart rate", "D. Decrease in the force of contraction"], "a": "B"},
+        {"q": "The action of acetylcholine on its receptors is terminated mainly by:", "o": ["A. Choline esterase", "B. Reuptake into the terminal buttons", "C. Diffusion to the blood", "D. Pseudocholine esterase"], "a": "A"},
+        {"q": "Sympathetic stimulation is expected to lead to:", "o": ["A. Constriction of the pupil", "B. Dilation of the bronchioles", "C. Inhibition of sweating", "D. Venodilation"], "a": "B"},
+        {"q": "Which of the following best describes autonomic innervation of the heart?", "o": ["A. The heart is only innervated by the sympathetic nervous system", "B. The heart is only innervated by the parasympathetic nervous system", "C. The heart is innervated by both and they have complementary effects", "D. The heart is innervated by both and they have opposite effects"], "a": "D"},
+        {"q": "Muscarinic effects of acetylcholine can be inhibited by:", "o": ["A. Nicotine", "B. Muscarine", "C. Cholinesterase inhibitors", "D. Atropine"], "a": "D"},
+
+        # Final 26 (Dour Awal) دفعة
+        {"q": "Regarding parasympathetic system:", "o": ["A. It has mainly very short preganglionic fibers", "B. Dopamine is released from its post-ganglionic nerve fiber", "C. It stimulates movements and secretions of the GIT", "D. It increases heart rate during exercise"], "a": "C"},
+        {"q": "Acetylcholinesterase:", "o": ["A. Produces acetylcholine", "B. Is the acetylcholine receptor in muscle tissue", "C. Degrades and terminates the action of acetylcholine", "D. None of the above"], "a": "C"},
+        {"q": "Generalized sympathetic stimulation causes all the following except:", "o": ["A. Increases the heart rate", "B. Increases sweating", "C. Relaxes bronchial smooth muscles", "D. Constriction of pupil"], "a": "D"},
+        {"q": "Among the manifestations of Horner’s syndrome is:", "o": ["A. Dilatation of the pupil", "B. Drooping of the upper eyelid", "C. Increased sweating", "D. Vasoconstriction of skin blood vessels"], "a": "B"},
+        {"q": "Beta-1 adrenergic receptor stimulation causes:", "o": ["A. Coronary vasodilation", "B. An increase in the heart rate", "C. Bronchodilation", "D. Skin vasoconstriction"], "a": "B"},
+        {"q": "Atropine:", "o": ["A. Increases GIT secretion", "B. Increases motility of GIT", "C. Increases sweating", "D. Increases heart rate"], "a": "D"},
+
+        # Final 26 (Dour Thani) دفعة
+        {"q": "Concerning the autonomic ganglia, all the following is true EXCEPT:", "o": ["A. They represent the relay site of preganglionic to postganglionic neurons", "B. They are sympathetic and parasympathetic", "C. Their chemical transmitter is acetylcholine", "D. Their receptors are muscarinic"], "a": "D"},
+        {"q": "Which transmitter will result in dilatation of the pupil?", "o": ["A. Acetylcholine", "B. Serotonin", "C. Norepinephrine", "D. All of the above"], "a": "C"},
+        {"q": "Noradrenaline is mainly removed by:", "o": ["A. Oxidation by MAO", "B. Methylation by COMT", "C. Active reuptake by nerve terminal", "D. Diffusion through surrounding tissue"], "a": "C"},
+        {"q": "Acetylcholine is formed in all the following sites EXCEPT:", "o": ["A. End of all postganglionic sympathetic fibers", "B. All autonomic ganglia", "C. Motor end plate of skeletal muscle", "D. End of all postganglionic parasympathetic fibers"], "a": "A"},
+        {"q": "Stimulation of the vagus nerve leads to:", "o": ["A. Decrease GIT motility", "B. Vasoconstriction of coronary blood vessels", "C. Pupil dilatation", "D. Bronchodilatation"], "a": "B"},
+        {"q": "Sympathetic effect on the eye:", "o": ["A. Miosis", "B. Increase the power of lens", "C. Mydriasis", "D. Ptosis"], "a": "C"},
+
+        # Final 27 (Dour Awal) دفعة
+        {"q": "Regarding the parasympathetic division of the autonomic nervous system, which statement is correct?", "o": ["A. Parasympathetic preganglionic neurons are found in all cranial nerves", "B. Parasympathetic decreases salivary secretion", "C. Parasympathetic postganglionic neurons are found in spinal segments from T1 to L2", "D. Parasympathetic postganglionic neurons secrete acetylcholine onto their target organs"], "a": "D"},
+        {"q": "Stimulation of the sympathetic system causes:", "o": ["A. Bronchoconstriction", "B. Increase intestinal motility", "C. Constriction of pupil", "D. Increase heart rate"], "a": "D"},
+        {"q": "Acetylcholine is secreted at all the following sites EXCEPT:", "o": ["A. Postganglionic sympathetic nerve terminals to blood vessels of skeletal muscles", "B. Postganglionic parasympathetic nerve terminals", "C. Preganglionic sympathetic & parasympathetic nerve terminals", "D. Postganglionic sympathetic noradrenergic nerve terminals"], "a": "D"},
+        {"q": "The alpha adrenergic receptors mediate all the following effects EXCEPT:", "o": ["A. Vasoconstriction", "B. Pupil dilatation", "C. Relaxation of the intestinal wall", "D. Increased cardiac activity"], "a": "D"},
+        {"q": "Parasympathetic preganglionic neurons:", "o": ["A. Are much shorter than the postganglionic neurons", "B. Secrete the same transmitter as the postganglionic neurons", "C. Originate from all the sacral segments of the spinal cord", "D. There are some fibers to the ventricles of the heart"], "a": "B"},
+        {"q": "Inhibitors of choline esterase enzymes:", "o": ["A. Enhance the effects of parasympathetic stimulation", "B. Inhibit the effect of parasympathetic stimulation", "C. Block the action of acetylcholine in autonomic ganglia", "D. A and C are correct"], "a": "A"},
+        {"q": "Double innervation of viscera means:", "o": ["A. Visceral organs receive both preganglionic and postganglionic autonomic nerves", "B. Visceral organs receive both autonomic and somatic nerves", "C. The sympathetic and parasympathetic nerves to viscera produce the same effect", "D. Several visceral organs are innervated from both divisions of the autonomic nervous system"], "a": "C"}, # Note: Checking Key Page 26 says C for Q7
+        {"q": "Regarding autonomic ganglia:", "o": ["A. Paravertebral sympathetic ganglia are located on the sides of the vertebral column", "B. Parasympathetic ganglia lie far away from the organ which they innervate", "C. All fibers passing through these ganglia should relay in them", "D. Adrenal medulla is a modified parasympathetic ganglion"], "a": "A"},
+        {"q": "Which of the following is NOT a symptom of Horner’s syndrome?", "o": ["A. Warm red skin", "B. Dilatation of the pupil", "C. Dryness of skin", "D. Vasodilatation of skin blood vessels"], "a": "B"},
+
+        # Final 27 (Dour Thani) دفعة
+        {"q": "Which autonomic receptor mediates an increase in heart rate?", "o": ["A. Adrenergic a receptors", "B. Adrenergic B receptors", "C. Cholinergic muscarinic receptors", "D. Both A and B"], "a": "B"},
+        {"q": "Parasympathetic nerves:", "o": ["A. Have opposite effects to sympathetic nerves on the intestine", "B. Have opposite effects to sympathetic nerves on salivary glands", "C. Have longer postganglionic fibers than preganglionic fibers", "D. None of the above is true"], "a": "A"},
+        {"q": "Alpha (a) adrenoceptors:", "o": ["A. Can be stimulated by both adrenaline and noradrenaline", "B. Are involved in heart rate response to noradrenaline", "C. Are parasympathetic system receptors", "D. Cause bronchodilation"], "a": "A"},
+        {"q": "Generalized sympathetic activity is characterized by:", "o": ["A. Glycolysis to produce sugar", "B. Lipolysis in adipose tissue", "C. Decreased heart rate", "D. A and B"], "a": "D"},
+        {"q": "Stimulation of the vagus nerve causes:", "o": ["A. Reduction in strength of ventricular contraction", "B. Secretion & vasodilatation in salivary glands", "C. Bronchoconstriction", "D. Contraction of the spleen"], "a": "C"},
+        {"q": "Acetylcholine (Final 27 Thani):", "o": ["A. Acts on same receptor type in sympathetic & parasympathetic ganglia", "B. Is hydrolyzed by cholinesterase", "C. Is secreted by cholinergic fibers", "D. All are true"], "a": "D"},
+        {"q": "Atropine (blocks muscarinic receptors) causes:", "o": ["A. Paralysis of accommodation for near vision", "B. Constriction of pupil", "C. Constriction of bronchi", "D. Diarrhea"], "a": "A"},
+        {"q": "Which of the following statements regarding the role of autonomic innervation are correct?", "o": ["A. Stimulation of sympathetic nerves to the eyes causes dilation of the pupils", "B. Activation of the sympathetic system causes vasodilatation in the skin", "C. Stimulation of the vagus nerves speeds up the heart", "D. Autonomic ganglia is the mother neuron of preganglionic fiber"], "a": "A"},
+        {"q": "Ptosis results from:", "o": ["A. Parasympathetic block", "B. Sympathetic block", "C. Oculomotor nerve block", "D. A and B"], "a": "B"},
+        {"q": "Regarding the sympathetic division of the autonomic nervous system:", "o": ["A. Acetylcholine is secreted by some sympathetic postganglionic neurons", "B. Sympathetic preganglionic neurons secrete noradrenaline (norepinephrine)", "C. Sympathetic postganglionic neurons originate from spinal segments T1–L2", "D. The sympathetic chain extends from the thoracic to sacral regions of the spinal cord"], "a": "A"}
+    ]
+
+    current_round = questions.copy()
+    round_no = 1
+    streak = 0
+
+    print("="*80)
+    print("      AUTONOMIC NERVOUS SYSTEM - COMPLETE UNABRIDGED TRAINER")
+    print("="*80)
+    print(f"Lerne alle {len(questions)} ANS-Fragen.")
+    print("Tippe 'exit' zum Beenden.\n")
+
+    while current_round:
+        print(f"\n>>> RUNDE {round_no} ({len(current_round)} verbleibende Fragen)")
+        random.shuffle(current_round)
+        wrong_pool = []
+
+        for i, item in enumerate(current_round):
+            print(f"\n[{i+1}/{len(current_round)}] {item['q']}")
+            for opt in item["o"]:
+                print(opt)
+            
+            ans = input("\nAntwort (A, B, C, D): ").strip().upper()
+            if ans == 'EXIT': return
+
+            if ans == item["a"]:
+                streak += 1
+                print(f"✅ KORREKT! | Streak: {streak}")
+            else:
+                streak = 0
+                print(f"❌ FALSCH! Die Uni-Lösung ist: {item['a']}")
+                wrong_pool.append(item)
+
+        if not wrong_pool:
+            print("\n" + "#"*80)
+            print("HERZLICHEN GLÜCKWUNSCH! Du G hast JEDE Frage des Dokuments gemeistert!")
+            print("#"*80)
+            break
+        else:
+            print(f"\nRunde {round_no} beendet. {len(wrong_pool)} Fehler werden wiederholt.")
+            current_round = wrong_pool
+            round_no += 1
+            input("Drücke Enter für die nächste Runde...")
+
+if __name__ == "__main__":
+    run_quiz()

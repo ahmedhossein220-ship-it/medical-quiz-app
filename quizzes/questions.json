@@ -1,0 +1,951 @@
+[
+  {
+    "q": "1 In the cardiac cycle normally the length of diastole is longer than systole, this is important for all the following except:",
+    "o": ["A. Proper ventricular filling", "B. Provide resting time for cardiac muscle", "C. Increasing contractility associated with tachycardia", "D. Blood supply for the subendocardial portion of the left ventricle"],
+    "a": "C"
+  },
+  {
+    "q": "2.Regarding myocardial contractility which of the following statements is incorrect:",
+    "o": ["A. Depends mainly on Ca2+-induced Ca2+ release", "B. Fever exerts negative inotropic effect by exhausting metabolic substrates", "C. Hyperkalemia exerts negative inotropic effect and may stop the heart in systole", "D. Caffeine exerts positive inotropic effect by increasing intracellular cAMP"],
+    "a": "C"
+  },
+  {
+    "q": "3.The venous return:",
+    "o": ["A. Increased by stenosis of the A-V valves", "B. Decreases during inspiration and increases during expiration", "C. Increased by severe venodilatation of anaphylactic shock", "D. Decreased when intrapericardial pressure is increased"],
+    "a": "D"
+  },
+  {
+    "q": "4.Cardiac muscle is protected against tetanization by:",
+    "o": ["A. Relatively long systole in relation to diastole", "B. Long absolute refractory period", "C. Rapid reuptake of Ca2+ into intracellular storage sites", "D. Stabilization of tropomyosin protein on actin for long time"],
+    "a": "B"
+  },
+  {
+    "q": "5.Left-sided heart failure leads to:",
+    "o": ["A. Pulmonary edema", "B. Congested veins", "C. Lower limb edema", "D. Ascites"],
+    "a": "A"
+  },
+  {
+    "q": "6.Concerning chemical control of heart rate:",
+    "o": ["A. Excessive secretion of histamine decreases HR through Marey's reflex", "B. Atropine decreases HR by stimulating M2 cholinergic receptors", "C. Moderate hypoxia decreases HR by stimulating cardiac inhibitory center", "D. Moderate hypercapnia increases HR by stimulating vasomotor center"],
+    "a": "D"
+  },
+  {
+    "q": "7.All of the following are causes of hypertension except:",
+    "o": ["A. Oral contraceptive pills", "B. Coarctation of the aorta", "C. Renal artery stenosis", "D. Aortic or mitral stenosis"],
+    "a": "D"
+  },
+  {
+    "q": "8.Regarding physiological significance of conduction velocity through autorhythmic cells which of the following is incorrect:",
+    "o": ["A. Very rapid conduction at SA node to conduct impulses rapidly into bundle of His", "B. Slow conduction at AV node to allow atrial completion of ventricular filling", "C. Faster conduction at Purkinje fibers to spread signals simultaneously", "D. Conduction starts at SA node and ends at Purkinje fibers"],
+    "a": "A"
+  },
+  {
+    "q": "9.Concerning the different types of heart block:",
+    "o": ["A. First-degree block characterized by shortening of PR interval", "B. Second-degree block characterized by complete block of impulses from atria", "C. Third-degree block characterized by appearance of P wave three times before QRS", "D. In third-degree block P wave is dissociated from QRS-T complex"],
+    "a": "D"
+  },
+  {
+    "q": "10.Ejection fraction:",
+    "o": ["A. Depends on degree of ventricular relaxation", "B. Normally averages 45% at rest", "C. Reduced in heart failure to less than 50%", "D. Measured by ECG"],
+    "a": "C"
+  },
+  {
+    "q": "11.Regarding ECG which of the following statements is incorrect:",
+    "o": ["A. Carotid sinus syndrome causes severe tachycardia", "B. Myocardial ischemia characterized by depressed T wave in angina", "C. Hyperkalemia characterized by absent P wave and peaked T wave", "D. In second-degree heart block P wave appears 2-3 times before QRS"],
+    "a": "A"
+  },
+  {
+    "q": "12.Which of the following is a vasodilator:",
+    "o": ["A. Serotonin", "B. Endothelin", "C. Nitric oxide", "D. Norepinephrine"],
+    "a": "C"
+  },
+  {
+    "q": "13.In ECG, the QRS complex represents:",
+    "o": ["A. Atrial depolarization", "B. Ventricular depolarization", "C. Ventricular repolarization", "D. AV node delay"],
+    "a": "B"
+  },
+  {
+    "q": "14.Repolarization of autorhythmic cells is due to:",
+    "o": ["A. Opening of T-type Ca2+ channels", "B. Opening of L-type Ca2+ channels", "C. Opening of K+ channels", "D. Closing of funny Na+ channels"],
+    "a": "C"
+  },
+  {
+    "q": "15.Peripheral resistance:",
+    "o": ["A. Increases in anemia", "B. Pulmonary circulation resistance is more than systemic", "C. Increases in severe vasodilatation", "D. Increased by angiotensin I"],
+    "a": "D"
+  },
+  {
+    "q": "16.Regarding murmurs:",
+    "o": ["A. Abnormal sound heard over occluded blood vessels", "B. Systolic murmur occurs due to mitral and tricuspid stenosis", "C. May occur during pregnancy due to hyperdynamic circulation", "D. Diastolic murmur occurs due to mitral and tricuspid incompetence"],
+    "a": "C"
+  },
+  {
+    "q": "17.Regarding factors controlling stroke volume:",
+    "o": ["A. SV increases in aortic stenosis and hypertension", "B. Increased venous return reduces SV", "C. Ventricular hypertrophy in athletes increases SV", "D. Beta blockers increase SV"],
+    "a": "C"
+  },
+  {
+    "q": "1.ECG is used in the diagnosis of these pathological conditions except: (Final 23)",
+    "o": ["A.Heart block", "B.Myocarditis", "C.Bradycardia", "D.Myocardial ischemia"],
+    "a": "B"
+  },
+  {
+    "q": "2 Resting potential of contractile cardiac muscle occurs due to:",
+    "o": ["A.Selective permeability of the cell membrane for Ca2+", "B.Na+ influx through voltage gated sodium channels", "C.Na+-K+ pump", "D.K+ influx from the ECF"],
+    "a": "C"
+  },
+  {
+    "q": "3.Regarding myocardial contractility which of the following statements is incorrect:",
+    "o": ["A.Depends mainly on Ca2+ induced Ca2+ release phenomenon", "B.Fever exhausts metabolic substrates in cardiac muscle and decreases its contractility", "C.Hyperkalemia exerts negative inotropic effect and causes flaccidity of the heart", "D. Cardiac glycosides exert negative inotropic effect by stimulating Na+-K+ pump"],
+    "a": "D"
+  },
+  {
+    "q": "4.In cardiac cycle, during which phase the atrial pressure is greater than ventricular pressure and the valves are open:",
+    "o": ["A.Ventricular filling (AV valves open)", "B.Isovolumetric ventricular contraction", "C.Ventricular ejection", "D.Isovolumetric ventricular relaxation"],
+    "a": "A"
+  },
+  {
+    "q": "5.Parasympathetic stimulation of the heart:",
+    "o": ["A.Increases stroke volume", "B.Increases heart rate", "C.Decreases heart rate", "D.Increases cardiac output"],
+    "a": "C"
+  },
+  {
+    "q": "6.Regarding the physiological significance of conduction velocity through autorhythmic cells, the incorrect statement is:",
+    "o": ["A.Very rapid conduction at SA node", "B.Slow conduction at AV node", "C.Faster conduction at Purkinje fibers", "D.Conduction starts at SA node and ends at Purkinje fibers"],
+    "a": "A"
+  },
+  {
+    "q": "7.Regarding factors controlling stroke volume (SV), the correct statement is",
+    "o": ["A.SV increases in aortic stenosis and hypertension", "B.Increased venous return reduces SV", "C. Ventricular hypertrophy in athletes increases SV", "D.Beta blockers increase SV"],
+    "a": "C"
+  },
+  {
+    "q": "8.Starling's law of the heart:",
+    "o": ["A. At a given end-diastolic pressure norepinephrine increases stroke volume", "B.Increased end-diastolic volume leads to increased stroke volume", "C.Independent of venous return", "D.Describes myocardial response to increased heart rate"],
+    "a": "B"
+  },
+  {
+    "q": "9.Which of the following is true of the cardiac cycle:",
+    "o": ["A.Ventricular diastole follows atrial systole", "B.Atrial diastole is the shortest phase", "C.Beginning of ventricular systole causes closure of AV valves", "D.Closure of semilunar valves causes first heart sound"],
+    "a": "C"
+  },
+  {
+    "q": "10.Ejection fraction (Final 23):",
+    "o": ["A.Depends on degree of ventricular relaxation", "B.Normally averages 45% at rest", "C.Reduced in heart failure to less than 50%", "D.Measured by ECG"],
+    "a": "C"
+  },
+  {
+    "q": "11.Left sided heart failure leads to:",
+    "o": ["A.Pulmonary edema", "B.Congested veins", "C.Lower limb edema", "D.Ascites"],
+    "a": "A"
+  },
+  {
+    "q": "12.Peripheral resistance (Final 23):",
+    "o": ["A.Increases in anemia", "B.Pulmonary resistance is more than systemic", "C.Increases in severe vasodilatation", "D.Increased by angiotensin II"],
+    "a": "D"
+  },
+  {
+    "q": "13.In cardiac cycle, diastole is longer than systole, this is important for all except:",
+    "o": ["A.Proper ventricular filling", "B.Resting time for cardiac muscle", "C.Increased contractility associated with tachycardia", "D.Subendocardial blood supply"],
+    "a": "C"
+  },
+  {
+    "q": "14.Concerning heart block:",
+    "o": ["A.First degree block shows shortened PR interval", "B.Second degree block shows complete block", "C. Third degree block shows 3 P waves before QRS", "D.In third degree block P waves are dissociated from QRS-T"],
+    "a": "D"
+  },
+  {
+    "q": "15.Which of the following will NOT increase cardiac output:",
+    "o": ["A.Increased contractility", "B.Increased parasympathetic stimulation", "C.Increased heart rate", "D.Increased venous return"],
+    "a": "B"
+  },
+  {
+    "q": "16. Regarding causes of edema, all are true except:",
+    "o": ["A.Increased capillary hydrostatic pressure", "B.Decreased capillary oncotic pressure", "C.Inflammation due to lymphatic obstruction", "D.Increased capillary permeability in allergy"],
+    "a": "C"
+  },
+  {
+    "q": "17.Immediate reactions compensating hypovolemia during acute hemorrhage include the following except:",
+    "o": ["A.Plasma volume compensated by shift of ECF into capillaries", "B.Plasma volume compensated by increased thirst and ADH secretion", "C.Plasma proteins compensated by movement from tissues into plasma", "D.RBCs compensated by bone marrow erythropoiesis"],
+    "a": "D"
+  },
+  {
+    "q": "18.Regarding shock, all are true except:",
+    "o": ["A.Hypovolemic shock is called cold shock", "B.MI and heart failure cause cardiogenic shock", "C.Anaphylactic shock requires IV fluids", "D.Management aims to restore tissue perfusion"],
+    "a": "C"
+  },
+  {
+    "q": "19.Compensatory reactions in hypovolemic shock include:",
+    "o": ["A.Vasodilatation", "B.Decreased catecholamine secretion", "C.Increased ADH, renin, aldosterone and erythropoietin", "D.Increased filtration into interstitial space"],
+    "a": "C"
+  },
+  {
+    "q": "20.One sign of acute hemorrhage is:",
+    "o": ["A.Slow strong pulse", "B.Polyuria", "C.Severe nervousness and irritability", "D.Anhydrosis"],
+    "a": "C"
+  },
+  {
+    "q": "21.All of the following are vasoconstrictors except:",
+    "o": ["A.Serotonin", "B.Endothelin", "C.Bradykinin", "D.Norepinephrine"],
+    "a": "C"
+  },
+  {
+    "q": "22.Regarding chemical control of heart rate:",
+    "o": ["A.Excessive histamine secretion decreases HR through Marey's reflex", "B.Atropine decreases HR by stimulating M2 receptors", "C.Moderate hypoxia decreases HR by stimulating cardiac inhibitory center", "D.Moderate hypercapnia increases HR by stimulating vasomotor center"],
+    "a": "C"
+  },
+  {
+    "q": "23.Regarding the renin angiotensin system, all are true except:",
+    "o": ["A.Stimulated by renal ischemia and sympathetic stimulation", "B.Causes release of aldosterone which increases blood volume and blood pressure", "C.Exerts powerful vasodilatation by angiotensin II", "D.It an intermediate and long term mechanism regulating blood pressure"],
+    "a": "C"
+  },
+
+  {
+    "q": "24.Regarding the auto-regulation of blood flow, all are true except:",
+    "o": ["A.Distension of arterial wall by high pressure causes vasodilatation and increased blood flow", "B.Increased metabolic activity causes vasodilatation and increased blood flow", "C.Increased blood flow leads to accumulation of tissue fluid and decreased blood flow", "D.Defined as maintenance of blood flow despite changes in blood pressure"],
+    "a": "A"
+  },
+  {
+    "q": "25. Regarding the baroreceptor reflex, the correct statement is:",
+    "o": ["A.Stimulated by decrease in mean pressure in carotid sinus and aortic arch", "B.Impulses from it inhibit the cardiac inhibitory center by glutamate", "C.Regarded as intermediate term mechanism for blood pressure control", "D.Decreases blood pressure by inhibiting the vasomotor center"],
+    "a": "D"
+  },
+  {
+    "q": "1.Which of the following is part of reflex response to an increase in arterial pressure? (Final 24)",
+    "o": ["A.Decreased firing of carotid sinus baroreceptors", "B.Increased sympathetic activity to the ventricles", "C.Increased parasympathetic activity to the SA node", "D.Increased parasympathetic activity to the arterioles of skeletal muscle & skin"],
+    "a": "C"
+  },
+  {
+    "q": "2.The nerve supply to the heart is as follows:",
+    "o": ["A.SA node is innervated by sympathetic only", "B.Atrial muscle is innervated by both sympathetic & parasympathetic", "C.Right vagus supplies SA node & AV node", "D.Left vagus supplies SA node"],
+    "a": "B"
+  },
+  {
+    "q": "3.The pacemaker prepotential:",
+    "o": ["A.Is due to a slow decrease in K+ influx", "B.Is a slow increase in resting membrane potential", "C.Is augmented by opening of transient Ca2+ channels", "D.Occurs only in the SA node"],
+    "a": "C"
+  },
+  {
+    "q": "5.Which of the following is not true of the ECG?",
+    "o": ["A.Needs six pairs of electrodes", "B.Is useful in detection of arrhythmias", "C.It is recorded from limb leads", "D.Its amplitude indicates the mass of cardiac muscle"],
+    "a": "A"
+  },
+  {
+    "q": "6.Which of the following is true of the cardiac cycle?",
+    "o": ["A.Ventricular diastole follows atrial systole", "B.Ventricular systole causes an immediate rise in aortic pressure", "C.The beginning of systole causes closure of AV valves", "D.Closure of semilunar valves gives rise to first heart sound"],
+    "a": "C"
+  },
+  {
+    "q": "7.The following is not correct about baroreceptors:",
+    "o": ["A.Found in the wall of carotid sinuses", "B.Found in the aortic arch", "C.Send impulses through the glossopharyngeal nerve", "D.Normally fires during late systole"],
+    "a": "D"
+  },
+  {
+    "q": "8.Blood flow through capillaries is regulated by:",
+    "o": ["A.Central channel", "B.Precapillary sphincter", "C.Vasa vasorum", "D.Arterial anastomosis"],
+    "a": "B"
+  },
+  {
+    "q": "9.The atrial contraction component of ventricular filling is:",
+    "o": ["A.5%", "B.10%", "C.30%", "D.50%"],
+    "a": "C"
+  },
+  {
+    "q": "10.The volume of blood is greatest in:",
+    "o": ["A.Systemic capillaries", "B.Veins", "C.Arteries", "D.The spleen"],
+    "a": "B"
+  },
+  {
+    "q": "11.First heart sound occurs at the beginning of:",
+    "o": ["A.Isometric relaxation", "B.Isotonic relaxation", "C.Isovolumetric contraction", "D.Isovolumetric relaxation"],
+    "a": "C"
+  },
+  {
+    "q": "12.Absolute refractory period of the heart:",
+    "o": ["A.Corresponds to the duration of relaxation", "B.Lasts till half of cardiac contraction", "C.Shorter than refractory period in skeletal muscle", "D.Lasts till cardiac contraction"],
+    "a": "D"
+  },
+  {
+    "q": "13. Stroke Volume:",
+    "o": ["A.Is the volume of blood pumped by the heart per minute", "B.Decreases by increased end-diastolic volume", "C.Is decreased by increased afterload", "D.From the left ventricle is more than from the right ventricle"],
+    "a": "C"
+  },
+  {
+    "q": "14.The ventricular muscles accept impulses directly from:",
+    "o": ["A.AV node", "B.Bundle of His", "C.Right and left bundle branches", "D.Purkinje system"],
+    "a": "D"
+  },
+  {
+    "q": "15.Increases in which of the following variables tend to decrease resistance for blood flow?",
+    "o": ["A.Radius of blood vessels", "B.Viscosity of the blood", "C.Length of the blood vessel", "D.Blood hematocrit"],
+    "a": "A"
+  },
+  {
+    "q": "16.Increases in which of the following variables would be expected to decrease venous return?",
+    "o": ["A.Cardiac output", "B.Sympathetic nervous system tone", "C.Blood volume", "D.Venous resistance"],
+    "a": "D"
+  },
+  {
+    "q": "17.“Positive inotrope” is:",
+    "o": ["A.Anything that increases vascular constriction", "B.Anything that increases blood volume", "C.Anything that increases hematocrit", "D.An agent that increases cardiac contractility"],
+    "a": "D"
+  },
+   
+  {
+    "q": "19. Which of the following will increase stroke volume?",
+    "o": ["A. Increased arterial pressure", "B.Reduced activity of cardiac sympathetic nerves", "C.Increased ventricular filling pressure", "D.Low extracellular Ca2+"],
+    "a": "C"
+  },
+  {
+    "q": "20.Which of the following would be most likely to occur if the AV node was damaged by ischemia?",
+    "o": ["A. The ability to intrinsically increase heart rate during stress (such as exercise) would be impaired", "B.Conduction of the depolarizing electrical signal from the atria to the ventricles would be delayed or blocked", "C.Spreading of the depolarizing electrical signal from the septum to the ventricular walls would be impaired", "D.Cardiac contractility would be impaired"],
+    "a": "B"
+  },
+  {
+    "q": "21.If hemorrhage causes precapillary resistance arterioles to constrict and capillary hydrostatic pressure decreases, which of the following is most likely to occur?",
+    "o": ["A.Net filtration of fluid from the capillaries will increase", "B.Net absorption of fluid in the capillaries will increase", "C.Net absorption of fluid in the capillaries will not change", "D.Capillary diameter will increase"],
+    "a": "B"
+  },
+  {
+    "q": "22.According to Starling’s Law of the heart, an increase in end diastolic volume:",
+    "o": ["A.Results in greater shortening of the ventricular muscle", "B.Increases stroke volume", "C.Is proportional to the increase in the initial length of myocardial fibers in the left ventricle", "D.All of the above"],
+    "a": "D"
+  },
+  {
+    "q": "23.What is typically required for relaxation of cardiac muscle?",
+    "o": ["A.Myosin light-chain dephosphorylation", "B.Activation of the ryanodine receptor", "C.Ca2+ uptake by the SR (sarcoplasmic reticulum)", "D.Phosphorylation of phospholipid membrane"],
+    "a": "C"
+  },
+  {
+    "q": "24.What are the only two changes which can increase mean circulatory filling pressure?",
+    "o": ["A.Increased venous compliance and increased blood volume", "B.Increased venous compliance and decreased blood volume", "C.Decreased venous compliance and increased blood volume", "D.Decreased venous compliance and decreased blood volume"],
+    "a": "C"
+  },
+  {
+    "q": "1. What is the correct pathway through the circulatory system which describes the passage of blood originating in the left leg? (Final 25)",
+    "o": ["a. Vena cava -> left atrium -> right atrium -> lungs -> left ventricle -> right ventricle -> aorta", "b. Vena cava -> right atrium -> left atrium -> lungs -> right ventricle -> left ventricle -> aorta", "c. Vena cava -> left atrium -> left ventricle -> lungs -> right atrium -> right ventricle -> aorta", "d. Vena cava -> right atrium -> right ventricle -> lungs -> left atrium -> left ventricle -> aorta"],
+    "a": "D"
+  },
+  {
+    "q": "2. Which heart valves are NOT actively closed by the contraction of muscular structures?",
+    "o": ["a. Mitral valves", "b. Semilunar valves", "c. Atrio ventricular valves", "d. Tricuspid valves"],
+    "a": "B"
+  },
+  {
+    "q": "3.In terms of being open or closed, what is the state of the mitral and tricuspid valves at the end of the first heart sound?",
+    "o": ["a. Mitral is closed, tricuspid is open", "b. Mitral is open, tricuspid is closed", "c. Both are open", "d. Both are closed"],
+    "a": "D"
+  },
+  {
+    "q": "4. At the instant following the second heart sound, which heart valves are open?",
+    "o": ["a. Both atrioventricular valves and semilunar valves", "b. Semilunar valves only", "c. Atrioventricular valves only", "d. All valves are closed"],
+    "a": "D"
+  },
+  {
+    "q": "5. What physical feature of large systemic arteries makes them relatively more responsive to changes in intracellular calcium concentrations?",
+    "o": ["a. Absent tunica intima", "b. Thick tunica media", "c. Absent tunica media", "d. Thick tunica intima"],
+    "a": "B"
+  },
+  {
+    "q": "6. This is the reason why the SA node acts as the heart’s pacemaker:",
+    "o": ["a. Because it has poor cholinergic innervation", "b. Because it has rich sympathetic innervation", "c. Because of its capability of generating impulses", "d. Because it generates impulses at the highest rate"],
+    "a": "D"
+  },
+  {
+    "q": "7. What is the normal blood pressure range value for an adult, generally?",
+    "o": ["a. 100/60 to 110/70 mmHg", "b. 110/70 to 120/80 mmHg", "c. 130/80 to 140/90 mmHg", "d. 140/90 to 145/95 mmHg"],
+    "a": "B"
+  },
+  {
+    "q": "8. The ventricular muscles accept impulses directly from:",
+    "o": ["a. Bundle of His", "b. Right and left bundle branches", "c. Purkinje system", "d. AV node"],
+    "a": "C"
+  },
+  {
+    "q": "9. What is the location of the SAN (Sinoatrial Node)?",
+    "o": ["a. Left upper corner of right ventricle", "b. Right upper corner of right ventricle", "c. Right upper corner of left atrium", "d. Right upper corner of right atrium"],
+    "a": "D"
+  },
+  {
+    "q": "10. This statement about the second heart sound is incorrect:",
+    "o": ["a. It is occasionally split", "b. It is due to the closure of semilunar valves", "c. Indicates the commencement of diastole", "d. It has a longer duration than the first sound"],
+    "a": "D"
+  },
+  {
+    "q": "11. Peripheral vascular resistance can be best given by:",
+    "o": ["a. Pulse pressure as it corresponds to aortic compliance and stroke volume", "b. Mean arterial pressure as it supplies blood to organs", "c. Diastolic blood pressure as it leads to the decrease till mid-thoracic aorta", "d. Systolic pressure as it causes an increase in the descending aorta"],
+    "a": "C"
+  },
+  {
+    "q": "12.Duration of the absolute period, i.e., when the whole of the heart is in diastole, is:",
+    "o": ["a. 0.2 seconds", "b. 0.1 seconds", "c. 0.4 seconds", "d. 0.7 seconds"],
+    "a": "C"
+  },
+  {
+    "q": "13. This is the similarity between pulmonary and systemic circulation:",
+    "o": ["a. Total capacity", "b. Pulse pressure", "c. Peripheral vascular resistance", "d. Volume of the circulation per minute"],
+    "a": "D"
+  },
+  {
+    "q": "14.On the heart, the impact of adrenaline includes all of these except:",
+    "o": ["a. It increases the uptake of oxygen by the heart", "b. It increases the contraction force", "c. It decreases the myocardial irritability", "d. It increases the heart rate"],
+    "a": "C"
+  },
+
+  {
+    "q": "15.The volume of blood each ventricle pumps out during a cardiac cycle is about:",
+    "o": ["a. 70 ml", "b. 5000 ml", "c. 7 L", "d. 1200 ml"],
+    "a": "A"
+  },
+  {
+    "q": "16.An electrocardiogram is a graphic illustration of:",
+    "o": ["a. cardiac conduction system", "b. cardiac cycle", "c. cardiac output", "d. systemic and pulmonary circuits"],
+    "a": "A"
+  },
+  {
+    "q": "18.The numbers in a blood pressure reading:",
+    "o": ["a. Vary, depending on the time of day your blood pressure is checked", "b. Get lower with high levels of stress", "c. Are the same for people of the same age and weight", "d. Stay the same throughout the day"],
+    "a": "A"
+  },
+  {
+    "q": "19. Why does reducing salt (sodium) that you eat help prevent high blood pressure?",
+    "o": ["a. It reduces fluid buildup in the body", "b. It allows vessels to relax", "c. It raises levels of HDL (good) cholesterol", "d. It helps keep your heartbeat steady"],
+    "a": "A"
+  },
+  {
+    "q": "20.Which enzyme should be present for the conversion of angiotensinogen to angiotensin I?",
+    "o": ["a. Renin", "b. Angiotensin converting enzyme", "c. Calcium ions", "d. Calcium anhydrase inhibitors"],
+    "a": "A"
+  },
+  {
+    "q": "21. Where are beta-1 receptors found mostly in the body?",
+    "o": ["a. Liver", "b. Kidney", "c. Heart", "d. Lungs"],
+    "a": "C"
+  },
+  {
+    "q": "22. Which type of blood vessel has valves inside?",
+    "o": ["a. Artery", "b. Vein", "c. Capillary", "d. Arterioles"],
+    "a": "B"
+  },
+  {
+    "q": "23.Which of the following blood vessels carries deoxygenated blood back to the heart?",
+    "o": ["a. Arteries", "b. Capillaries", "c. Veins", "d. Lymphatic vessels"],
+    "a": "C"
+  },
+  {
+    "q": "24. Which of the following is likely during vigorous exercise?",
+    "o": ["a. Blood will be diverted to the digestive organs", "b. The skin will be cold and clammy", "c. Capillaries of the active muscles will be engorged with blood", "d. Blood flow to the kidneys increases"],
+    "a": "C"
+  },
+  {
+    "q": "25. ECG records electrical changes in which of the following layers of the heart?",
+    "o": ["a. Epicardium", "b. Pericardium", "c. Endocardium", "d. Myocardium"],
+    "a": "D"
+  },
+  {
+    "q": "1. What factor dilates the arterioles? (Final 26 الدور الأول)",
+    "o": ["a. Decrease local temperature", "b. Myogenic theory of autoregulation", "c. Angiotensin II", "d. Histamine"],
+    "a": "D"
+  },
+  {
+    "q": "2. Which of the following statements is true?",
+    "o": ["a. Blood flows from lower pressure areas to higher pressure areas", "b. EDV is about 140 ml for heart rate of 75 beats/min", "c. Left ventricle crosses pressure of 80 mmHg to open the aorta", "d. Ventricular ejection is for 0.005 sec"],
+    "a": "C"
+  },
+  {
+    "q": "3. When is the ventricular blood volume highest?",
+    "o": ["a. At the beginning of systole", "b. At the beginning of diastole", "c. During mid-to-late diastole", "d. At end of systole"],
+    "a": "A"
+  },
+  {
+    "q": "4. Dicrotic notch involves which part of the heart?",
+    "o": ["a. Ventricular pressure", "b. Aortic pressure", "c. Atrial pressure", "d. Pulmonary pressure"],
+    "a": "B"
+  },
+  {
+    "q": "5. The characteristics of slurring of the initial QRS deflection, shortened PR interval, and prolonged QRS duration are seen in:",
+    "o": ["a. Atrial tachycardia", "b. Left bundle branch block", "c. WPW (Wolff-Parkinson-White) syndrome", "d. Myocardial ischemia"],
+    "a": "C"
+  },
+  {
+    "q": "6. ECG identified by progressive prolongation of the PR interval with eventual absence of a QRS complex after a P wave is seen in:",
+    "o": ["a. Third-degree atrioventricular block", "b. Second-degree atrioventricular block, Type II", "c. Second-degree atrioventricular block, Type I", "d. First-degree atrioventricular block"],
+    "a": "C"
+  },
+  {
+    "q": "7. Which of these cannot be detected by an electrocardiogram?",
+    "o": ["a. The rate and rhythm of heartbeats", "b. The size and position of the heart chambers", "c. The function of implanted pacemakers", "d. Presence of asymptomatic blockages in the atria of the heart"],
+    "a": "D"
+  },
+  {
+    "q": "8. The diastolic blood pressure is:",
+    "o": ["a. The pressure exerted by the blood on the blood vessel walls during relaxation of the ventricle", "b. The pressure exerted by the blood on the blood vessel walls before relaxation of the ventricle", "c. The pressure exerted by the blood on the ventricle wall during relaxation of the ventricle", "d. The pressure exerted by the blood on the atria wall during relaxation of the ventricle"],
+    "a": "A"
+  },
+  {
+    "q": "9.In a normal individual, the heart rate can be determined in an ECG by the:",
+    "o": ["a.Interval between two QRS complexes", "b.Number of P waves", "c.Interval between the P and T wave", "d.Number of T waves"],
+    "a": "A"
+  },
+
+  {
+    "q": "10.The major symptom of heart failure is:",
+    "o": ["a.Lung congestion", "b.Pain in the chest", "c.Yellowing of eyes", "d.Vomiting"],
+    "a": "a"
+  },
+  {
+    "q": "11.The positive electrode when recording lead aVL on an ECG is:",
+    "o": ["a.Right arm", "b.Left leg", "c.Right leg", "d.Left arm + left leg"],
+    "a": "a"
+  },
+  {
+    "q": "12.Leads V3 and V4 represent which of the following views of the heart?",
+    "o": ["a.Septal", "b.Inferior", "c.Anterior", "d.Lateral"],
+    "a": "c"
+  },
+  {
+    "q": "13.In leads II, III, and aVF, ST-segment elevation suggests:",
+    "o": ["a.An inferior myocardial infarction", "b.A posterior myocardial infarction", "c.A septal myocardial infarction", "d.An anterior myocardial infarction"],
+    "a": "a"
+  },
+  {
+    "q": "14.Left axis deviation is caused due to:",
+    "o": ["a.Defects of the conduction system", "b.Atrial septal defects", "c.Right ventricular hypertrophy", "d.Left ventricular hypertrophy"],
+    "a": "d"
+  },
+  {
+    "q": "15.What is the most common symptom of high blood pressure?",
+    "o": ["a.Racing heartbeat", "b.High body temperature", "c.Fatigue", "d.It has no symptoms that you notice"],
+    "a": "d"
+  },
+  {
+    "q": "16.The sinoatrial node depolarizes more frequently under the influence of:",
+    "o": ["a.Norepinephrine", "b.Acetylcholine", "c.Vagus nerve", "d.Medulla oblongata"],
+    "a": "a"
+  },
+  {
+    "q": "17.Why does reducing how much salt (sodium) you eat help prevent high blood pressure?",
+    "o": ["a.It reduces fluid buildup in the body", "b.It allows vessels to relax", "c.It raises levels of HDL (good) cholesterol", "d.It helps keep your heartbeat steady"],
+    "a": "a"
+  },
+  {
+    "q": "18.Any mechanism that increases heart rate is said to have a positive ________ effect.",
+    "o": ["a.Cholinergic", "b.Inotropic", "c.Chronotrophic", "d.Feedback"],
+    "a": "c"
+  },
+  {
+    "q": "19.Define ejection fraction:",
+    "o": ["a.Percentage of blood being ejected from the ventricle during systole", "b.Percentage of blood being ejected from the atria during diastole", "c.Percentage of blood being ejected by the ventricle during a 3 minute interval", "d.Percentage of blood remaining in the ventricle after systole"],
+    "a": "a"
+  },
+  {
+    "q": "20.According to Frank-Starling law, the pulmonary wedge pressure reflects the pressure in the:",
+    "o": ["a.Right ventricle", "b.Right atrium", "c.Left atrium", "d.Left ventricle"],
+    "a": "c"
+  },
+  {
+    "q": "21.The term used to describe the resistance a ventricle faces during ejection is:",
+    "o": ["a.Preload", "b.Afterload", "c.Stroke volume", "d.Cardiac output"],
+    "a": "b"
+  },
+  {
+    "q": "22.Isovolumic relaxation represents:",
+    "o": ["a.The time period between atrioventricular valve closure and semilunar valve opening", "b.The time period between semilunar valve closure and atrioventricular valve opening", "c.The time it takes for the heart to beat", "d.The time period between semilunar valve closure and atrioventricular valve closure"],
+    "a": "b"
+  },
+  {
+    "q": "23.End systole is found on the:",
+    "o": ["a.P wave", "b.T wave", "c.The onset of the QRS complex", "d.PR interval"],
+    "a": "b"
+  },
+  {
+    "q": "24.The left main coronary artery divides into:",
+    "o": ["a.External carotid artery and internal carotid artery", "b.Left subclavian artery and left vertebral artery", "c.Left anterior descending artery and left circumflex artery", "d.External carotid artery and left vertebral artery"],
+    "a": "c"
+  },
+  {
+    "q": "1.What is cardiac cycle?",
+    "o": ["a.Blood ejected from the ventricles to the body", "b.Blood ejected from atria to the ventricles", "c.Events associated with each heart beat", "d.Event associated with each heart rate"],
+    "a": "c"
+  },
+  {
+    "q": "2.Which of the following statement is true?",
+    "o": ["a.Blood flows from lower pressure areas to higher pressure areas", "b.EDV is about 140 ml for heart rate of 75 beats/min", "c.Left ventricle crosses pressure of 80 mmHg to open the aorta", "d.Ventricular ejection equals ejection fraction"],
+    "a": "c"
+  },
+  {
+    "q": "3.What is the accurate formula of stroke volume?",
+    "o": ["a.EDV + ESV", "b.EDV × ESV", "c.ESV - EDV", "d.EDV - ESV"],
+    "a": "d"
+  },
+  {
+    "q": "4.During which phase of the cardiac cycle does blood enter the atria from the venae cavae and pulmonary veins?",
+    "o": ["a.Ventricular systole", "b.Ventricular diastole", "c.Atrial systole", "d.Atrial diastole"],
+    "a": "d"
+  },
+  {
+    "q": "5.Which structure conducts electrical impulses throughout the heart, coordinating its contractions?",
+    "o": ["a.Sinoatrial (SA) node", "b.Atrioventricular (AV) node", "c.Bundle of His", "d.Purkinje fibers"],
+    "a": "d"
+  },
+  {
+    "q": "6.The Frank-Starling law of the heart describes the proportional relationship between:",
+    "o": ["a.Stroke volume and cardiac output", "b.Stroke volume and end-diastolic volume", "c.Stroke volume and total peripheral resistance", "d.The left and right ventricles"],
+    "a": "b"
+  },
+  {
+    "q": "7.A positive inotropic agent is something that:",
+    "o": ["a.Reduces the heart rate in a positive feedback loop", "b.Increases the heart rate in a positive feedback loop", "c.Increases the contractility of myocardial fibers", "d.Decreases the contractility of myocardial fibers"],
+    "a": "c"
+  },
+  {
+    "q": "8.The colloid osmotic pressure of blood plasma is due to its high concentration of:",
+    "o": ["a.Albumin", "b.Hemoglobin", "c.Sodium", "d.Glucose"],
+    "a": "a"
+  },
+  {
+    "q": "9.Edema could be caused by all of the following except:",
+    "o": ["a.High arterial blood pressure (hypertension)", "b.Leakage of plasma proteins into the tissue fluid, as in inflammation and allergy", "c.An elevated level of albumin in the blood plasma", "d.An obstruction of the lymphatic drainage"],
+    "a": "c"
+  },
+  {
+    "q": "10.Cardiac output may drop when one goes from a lying to a standing position because of:",
+    "o": ["a.The baroreceptor reflex", "b.Venous pooling", "c.Orthostatic hypotension", "d.Sinus tachycardia"],
+    "a": "b"
+  },
+  {
+    "q": "11.What term is used to describe the average arterial blood pressure during a single cardiac cycle?",
+    "o": ["a.Cardiac output", "b.Cardiac cycle", "c.Mean arterial pressure", "d.Orthostatic hypotension"],
+    "a": "c"
+  },
+  {
+    "q": "12.If a baroreceptor in the aorta detects low blood pressure, which of the following will result?",
+    "o": ["a.Vasoconstriction", "b.The lumen of the blood vessels would increase in size", "c.Stroke volume will decrease", "d.Heart rate will decrease"],
+    "a": "a"
+  },
+  {
+    "q": "13.This is the classic ECG change in myocardial infarction (MI):",
+    "o": ["a.ST-segment elevation", "b.T wave inversion", "c.Development of an abnormal Q wave", "d.All of these"],
+    "a": "d"
+  },
+  {
+    "q": "14.ECG leads aVR, aVL, and aVF are called:",
+    "o": ["a.Unipolar leads", "b.Bipolar leads", "c.Tripolar leads", "d.Multipolar leads"],
+    "a": "a"
+  },
+  {
+    "q": "15.ECG leads display:",
+    "o": ["a.Instantaneous differences in electrical potential between electrodes", "b.Differences in electrical potential between electrode and neutral", "c.Differences in electrical potential between electrode and maximum positive charge", "d.Differences in electrical potential between electrode and maximum negative charge"],
+    "a": "a"
+  },
+  {
+    "q": "16.AV junction is constituted by:",
+    "o": ["a.Atrioventricular (AV) node", "b.AV node and His bundle", "c.AV node, His bundle, and fascicles", "d.AV node, His bundle, fascicles, and Purkinje fibers"],
+    "a": "c"
+  },
+  {
+    "q": "17.Plateau of the action potential that corresponds to the isoelectric ST segment is called:",
+    "o": ["a.Phase 0", "b.Phase 1", "c.Phase 2", "d.Phase 3"],
+    "a": "c"
+  },
+  {
+    "q": "18.Polarized resting myocardial cells carry an electric charge on their surface of about:",
+    "o": ["a.70 mV", "b.80 mV", "c.90 mV", "d.100 mV"],
+    "a": "c"
+  },
+  {
+    "q": "19.PR interval is related to:",
+    "o": ["a.Atrial musculature conduction", "b.AV node", "c.AV junction area", "d.All of the above"],
+    "a": "d"
+  },
+  {
+    "q": "20.\"Bundle of His\" is made up of:",
+    "o": ["a.Nervous tissue supplied to ventricles", "b.Nervous tissue supplied to heart", "c.Muscular tissue supplied to heart", "d.Muscular tissue supplied to ventricles"],
+    "a": "d"
+  },
+  {
+    "q": "21.Left ventricle failure usually manifests with:",
+    "o": ["a.Overfilled neck veins", "b.Ascites", "c.Anorexia", "d.Orthopnea"],
+    "a": "d"
+  },
+  {
+    "q": "22.Diastolic pressure is:",
+    "o": ["a.Maximum pressure during atrial systole", "b.Minimum pressure during atrial diastole", "c.Maximum pressure during ventricular systole", "d.Minimum pressure during ventricular diastole"],
+    "a": "d"
+  },
+  {
+    "q": "23.The driving force for blood flow is a:",
+    "o": ["a.Osmotic", "b.Volume", "c.Pressure", "d.Gravity"],
+    "a": "c"
+  },
+  {
+    "q": "24.The heart fails to pump blood out in:",
+    "o": ["a.Hypovolemic shock", "b.Cardiogenic shock", "c.Distributive shock", "d.Obstructive shock"],
+    "a": "b"
+  },
+  {
+    "q": "1.What causes the atrioventricular (AV) valves to close at the beginning of ventricular contraction?",
+    "o": ["a.Increased pressure in the atria", "b.Contraction of the papillary muscles", "c.Increased pressure in the ventricles", "d.Relaxation of the ventricles"],
+    "a": "c"
+  },
+  {
+    "q": "2.What is the primary function of the semilunar valves?",
+    "o": ["a.Prevent backflow into the atria", "b.Prevent backflow into the ventricles", "c.Regulate blood flow between atria and ventricles", "d.Initiate electrical impulses in the heart"],
+    "a": "b"
+  },
+  {
+    "q": "4.Which of the following is NOT a heart valve?",
+    "o": ["a.Aortic valve", "b.Pulmonary valve", "c.Atrial valve", "d.Mitral valve"],
+    "a": "c"
+  },
+  {
+    "q": "5.Activation of the renin-angiotensin-aldosterone system (RAAS) leads to which of the following effects?",
+    "o": ["a.Vasodilation and decreased blood volume", "b.Vasoconstriction and increased sodium retention", "c.Decreased aldosterone secretion", "d.Increased excretion of sodium and water"],
+    "a": "b"
+  },
+  {
+    "q": "6.Which hormone is primarily responsible for long-term regulation of blood pressure by controlling water reabsorption in the kidneys?",
+    "o": ["a.Adrenaline", "b.Antidiuretic hormone (ADH)", "c.Atrial natriuretic peptide (ANP)", "d.Cortisol"],
+    "a": "b"
+  },
+  {
+    "q": "7.A decrease in baroreceptor firing rate would result in which of the following responses?",
+    "o": ["a.Increased parasympathetic activity", "b.Decreased heart rate", "c.Increased sympathetic activity", "d.Vasodilation"],
+    "a": "c"
+  },
+  {
+    "q": "8.In a standard 12-lead ECG, which leads are considered limb leads?",
+    "o": ["a.V1 to V6", "b.I, II, III, aVR, aVL, aVF", "c.I, II, III only", "d.aVR, aVL, aVF only"],
+    "a": "b"
+  },
+  {
+    "q": "9.Which electrolyte imbalance is most commonly associated with tall peaked T waves on an ECG?",
+    "o": ["a.Hypokalemia", "b.Hyperkalemia", "c.Hypocalcemia", "d.Hypercalcemia"],
+    "a": "b"
+  },
+  {
+    "q": "10.Depolarization of the ventricles occurs in which sequence?",
+    "o": ["a.Endocardium to epicardium", "b.Epicardium to endocardium", "c.Apex to base", "d.Base to apex"],
+    "a": "a"
+  },
+  {
+    "q": "11.Why is atrial repolarization not seen in a normal ECG?",
+    "o": ["a.It does not occur", "b.It is hidden within the QRS complex", "c.It appears as a T wave", "d.It is too small to detect"],
+    "a": "b"
+  },
+  {
+    "q": "12.Which ion is primarily responsible for the rapid depolarization (Phase 0) in ventricular cardiac muscle cells?",
+    "o": ["a.Sodium (Na+)", "b.Potassium (K+)", "c.Calcium (Ca2+)", "d.Chloride (Cl-)"],
+    "a": "a"
+  },
+  {
+    "q": "13.Why can't cardiac muscle undergo tetanic contractions like skeletal muscle?",
+    "o": ["a.Lack of T-tubules", "b.Short action potential duration", "c.Long refractory period", "d.Absence of sarcomeres"],
+    "a": "c"
+  },
+  {
+    "q": "14.What effect does hyperkalemia have on cardiac excitability?",
+    "o": ["a.Increases excitability", "b.Decreases excitability", "c.No effect", "d.Causes immediate depolarization"],
+    "a": "b"
+  },
+  {
+    "q": "15.At which end of the capillary does filtration predominantly occur?",
+    "o": ["a.Arterial end", "b.Venous end", "c.Middle segment", "d.Both ends equally"],
+    "a": "a"
+  },
+  {
+    "q": "16.What is the primary determinant of coronary blood flow?",
+    "o": ["a.Heart rate", "b.Aortic systolic pressure", "c.Myocardial oxygen demand", "d.Pulmonary artery pressure"],
+    "a": "c"
+  },
+  {
+    "q": "17.Which of the following mechanisms is primarily responsible for the intrinsic regulation of arteriolar diameter?",
+    "o": ["a.Sympathetic nervous system", "b.Myogenic autoregulation", "c.Endocrine signaling", "d.Baroreceptor reflex"],
+    "a": "b"
+  },
+  {
+    "q": "18.About the first heart sound, all the following is true except:",
+    "o": ["a.It is mainly caused by closure of the A-V valves", "b.It is longer in duration than the second heart sound", "c.It coincides with P wave of the ECG", "d.Its frequency is lower than that of the second heart sound"],
+    "a": "c"
+  },
+  {
+    "q": "19.What is the purpose of the valves in veins?",
+    "o": ["a.Keep oxygenated blood from mixing with unoxygenated blood", "b.Prevent the backflow of blood", "c.Aid in the redirection of blood flow", "d.Aid in the pumping of blood"],
+    "a": "b"
+  },
+  {
+    "q": "20.At which site is systolic blood pressure the highest?",
+    "o": ["a.Aorta", "b.Central vein", "c.Pulmonary artery", "d.Right atrium"],
+    "a": "a"
+  },
+  {
+    "q": "21.The end-diastolic volume (EDV) is measured at the end of which phase?",
+    "o": ["a.Isovolumetric contraction", "b.Isovolumetric relaxation", "c.Atrial systole", "d.Ventricular systole"],
+    "a": "c"
+  },
+  {
+    "q": "22.Which of the following is not true for ventricular systole?",
+    "o": ["A.The ventricles relax", "B.The ventricles contract", "C.The semilunar valves close", "D.The atrioventricular valves open"],
+    "a": "A"
+  },
+  {
+    "q": "23.When the pressure in the ventricles becomes lower than the pressure in the atria:",
+    "o": ["A.The ventricles contract", "B.Blood flows into the aorta", "C.The atrioventricular valves open", "D.The semilunar valves open"],
+    "a": "C"
+  },
+  {
+    "q": "24.Peripheral resistance:",
+    "o": ["A.Decreases with increasing blood vessel length", "B.Decreases if blood vessel diameter is reduced by 50%", "C.Decreases in cases of polycythemia", "D.None of the above correct"],
+    "a": "D"
+  },
+  {
+    "q": "25.Pulse pressure is:",
+    "o": ["A.The highest pressure measured in the arteries", "B.Determined by stroke volume", "C.Decreased when the capacitance of the arteries decreases", "D.The difference between mean arterial pressure and central venous pressure"],
+    "a": "B"
+  },
+  {
+    "q": "26.Given that a person has a blood pressure of 126/78 mm Hg, that person's mean arterial pressure is:",
+    "o": ["A.48 mm Hg", "B.94 mm Hg", "C.102 mm Hg", "D.120 mm Hg"],
+    "a": "B"
+  },
+  {
+    "q": "27.The tendency to form edema will be increased by:",
+    "o": ["A.Arteriolar constriction", "B.Increased venous pressure", "C.Increased plasma protein concentration", "D.Dehydration"],
+    "a": "B"
+  },
+  {
+    "q": "28.The most common type of shock is:",
+    "o": ["A.Hypovolemic", "B.Septic", "C.Anaphylactic", "D.Neurogenic"],
+    "a": "A"
+  },
+  {
+    "q": "1.During ventricular systole, which heart valves are open?",
+    "o": ["a.Mitral and tricuspid valves", "b.Pulmonary and aortic valves", "c.Tricuspid and pulmonary valves", "d.Mitral and aortic valves"],
+    "a": "b"
+  },
+  {
+    "q": "2.What prevents the atrioventricular valves from inverting during systole?",
+    "o": ["a.High ventricular pressure alone", "b.Papillary muscles and chordae tendineae", "c.Semilunar valves", "d.Aortic pressure"],
+    "a": "b"
+  },
+  {
+    "q": "3.Which valve opens during left ventricular diastole?",
+    "o": ["a.Aortic valve", "b.Pulmonary valve", "c.Tricuspid valve", "d.Mitral valve"],
+    "a": "d"
+  },
+  {
+    "q": "4.Which of the following is a unique feature of cardiac muscle not found in skeletal muscle?",
+    "o": ["a.Striations", "b.Intercalated discs", "c.Multiple nuclei", "d.Voluntary control"],
+    "a": "b"
+  },
+  {
+    "q": "5.Cardiac muscle cells are able to contract without neural stimulation because they are:",
+    "o": ["a.Multinucleated", "b.Fatigue-resistant", "c.Autorhythmic", "d.Voluntary"],
+    "a": "c"
+  },
+  {
+    "q": "6.The refractory period in cardiac muscle is:",
+    "o": ["a.Shorter than in skeletal muscle", "b.Absent", "c.Longer than in skeletal muscle", "d.Equal to that in skeletal muscle"],
+    "a": "c"
+  },
+  {
+    "q": "7.Which part of the brain is primarily responsible for regulating blood pressure?",
+    "o": ["a.Cerebellum", "b.Hypothalamus", "c.Medulla oblongata", "d.Thalamus"],
+    "a": "c"
+  },
+  {
+    "q": "8.The baroreceptors involved in short-term blood pressure regulation are located in the:",
+    "o": ["a.Right atrium and pulmonary artery", "b.Renal arteries and aortic arch", "c.Carotid sinus and aortic arch", "d.Ventricles and vena cava"],
+    "a": "c"
+  },
+  {
+    "q": "9.Which of the following causes vasoconstriction and increases blood pressure?",
+    "o": ["a.Histamine", "b.Nitric oxide", "c.Angiotensin II", "d.Atrial natriuretic peptide (ANP)"],
+    "a": "c"
+  },
+  {
+    "q": "10.The PR interval reflects:",
+    "o": ["a.Time for atrial contraction", "b.Time between atrial and ventricular depolarization", "c.Ventricular repolarization", "d.Time for ventricular filling"],
+    "a": "b"
+  },
+  {
+    "q": "11.A prolonged QT interval increases the risk of:",
+    "o": ["a.Bradycardia", "b.Atrial fibrillation", "c.Torsades de Pointes", "d.AV block"],
+    "a": "c"
+  },
+  {
+    "q": "12.Which part of the ECG is most affected in a myocardial infarction (MI)?",
+    "o": ["a.P wave", "b.T wave", "c.ST segment", "d.PR interval"],
+    "a": "c"
+  },
+  {
+    "q": "13.Which condition is indicated by the absence of a P wave on the ECG?",
+    "o": ["a.Sinus bradycardia", "b.Atrial fibrillation", "c.Ventricular tachycardia", "d.Normal sinus rhythm"],
+    "a": "b"
+  },
+  {
+    "q": "14.Which phase of the cardiac cycle has the highest coronary blood flow to the left ventricle?",
+    "o": ["a.Isovolumetric contraction", "b.Systole", "c.Diastole", "d.Atrial systole"],
+    "a": "c"
+  },
+  {
+    "q": "15.The movement of fluid out of capillaries into the interstitial space is called:",
+    "o": ["a.Osmosis", "b.Filtration", "c.Absorption", "d.Diffusion"],
+    "a": "b"
+  },
+  {
+    "q": "16.Which of the following causes vasodilation of arterioles?",
+    "o": ["a.Norepinephrine", "b.Angiotensin II", "c.Nitric oxide", "d.Endothelin"],
+    "a": "c"
+  },
+  {
+    "q": "17.Which of the following is the most common cause of edema?",
+    "o": ["a.Decreased capillary hydrostatic pressure", "b.Increased plasma oncotic pressure", "c.Increased capillary hydrostatic pressure", "d.Decreased interstitial fluid volume"],
+    "a": "c"
+  },
+  {
+    "q": "18.Cardiac output is defined as:",
+    "o": ["a.Stroke volume × heart rate", "b.End diastolic volume × heart rate", "c.Stroke volume - heart rate", "d.Heart rate + stroke volume"],
+    "a": "a"
+  },
+  {
+    "q": "19.A decrease in afterload typically causes cardiac output to:",
+    "o": ["a.Decrease", "b.Increase", "c.Stay the same", "d.Become zero"],
+    "a": "b"
+  },
+  {
+    "q": "20.The cardiac cycle is:",
+    "o": ["a.The amount of blood pumped by the heart in 1 minute", "b.The heart's ability to beat spontaneously", "c.The period of time when the left ventricle ejects its volume of blood", "d.The series of events that occur from the beginning of one heartbeat to the beginning of the next"],
+    "a": "d"
+  },
+  {
+    "q": "21.During isovolumic contraction:",
+    "o": ["a.Volume of the blood in the right ventricle is equal to the ESV", "b.Wave of atrial pressure occurs", "c.Fourth heart sound occurs", "d.Volume of blood in the left ventricle should be equal to the EDV"],
+    "a": "d"
+  },
+  {
+    "q": "22.What phase of the cardiac cycle is associated with maximum aortic pressure?",
+    "o": ["a.Isovolumic relaxation", "b.Atrial systole", "c.Ventricular ejection", "d.Ventricular filling"],
+    "a": "c"
+  },
+  {
+    "q": "23.If the systolic pressure is 140 mmHg and the pulse pressure is 60 mmHg, the mean arterial pressure is:",
+    "o": ["a.80 mmHg", "b.200 mmHg", "c.100 mmHg", "d.90 mmHg"],
+    "a": "c"
+  },
+  {
+    "q": "24.The arterial blood pressure:",
+    "o": ["a.Decreases to minimal value during diastole", "b.Increases in atherosclerosis", "c.Is affected by compliance of the vessel wall", "d.All of the above are correct"],
+    "a": "d"
+  },
+  {
+    "q": "25.The peripheral resistance is increased by decrease in:",
+    "o": ["a.Number of the RBCs", "b.Diameter of the arterioles", "c.Length of blood vessel", "d.Plasma proteins"],
+    "a": "b"
+  },
+  {
+    "q": "26.In which type of circulatory shock is warm skin observed?",
+    "o": ["a.Hemorrhagic", "b.Cardiogenic", "c.Obstructive", "d.Septic shock"],
+    "a": "d"
+  }
+]

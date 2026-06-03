@@ -1,0 +1,1121 @@
+[
+  {
+    "q": "1. All of the following regarding HB are true except;",
+    "o": [
+      "A. Normal value 14-16mg/l",
+      "B. Increased in polycythemia",
+      "C. With HCL causes hemolysis.",
+      "D. Sahli apparatus."
+    ],
+    "a": "A"
+  },
+  {
+    "q": "2. The percentage of ratio of RBCs volume to total blood volume is;",
+    "o": [
+      "A. HB",
+      "B. PCV",
+      "C. HB content",
+      "D. PT"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "3. All of the following are true regarding ESR measurement except;",
+    "o": [
+      "A. Westergens method",
+      "B. Sodium citrate",
+      "C. Cumarine",
+      "D. Fibrinogen protein aggregation"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "4. High level of ESR found in all of the following except ;",
+    "o": [
+      "A. MI",
+      "B. TB",
+      "C. Tumors",
+      "D. Polycythemia"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "1-Haemophilia:",
+    "o": [
+      "A-Leads to prolongation of bleeding time.",
+      "B- Results from deficiency of factor VIII or IX.",
+      "C-Is due to decreased blood platelets.",
+      "D-Is associated with normal coagulation time."
+    ],
+    "a": "B"
+  },
+  {
+    "q": "2-Purpura is caused by deficiency of:",
+    "o": [
+      "A-Factor VIII.",
+      "B-Prothrombin.",
+      "C-Vitamin K.",
+      "D-Platelets."
+    ],
+    "a": "D"
+  },
+  {
+    "q": "3-Hematocrit ratio:",
+    "o": [
+      "A- Is the percentage ratio of hemoglobin in blood.",
+      "B- Is higher in newborn than in the adult.",
+      "C- Is equal in both males and females.",
+      "D- Is higher in arterial than in the venous blood."
+    ],
+    "a": "B"
+  },
+  {
+    "q": "4- Citrate is a useful anticoagulant because of its ability to:",
+    "o": [
+      "A- Buffer basic groups of coagulation factors.",
+      "B- Bind factor XII.",
+      "C- Bind vitamin K.",
+      "D- Chelate calcium."
+    ],
+    "a": "D"
+  },
+  {
+    "q": "5-Before blood transfusion, which of the following should be done:",
+    "o": [
+      "A- Erythrocyte sedimentation rate.",
+      "B-Osmotic fragility of R.B.C.'s.",
+      "C- Blood indices.",
+      "D- Cross matching test."
+    ],
+    "a": "D"
+  },
+  {
+    "q": "6-Blood agglutination would occur in all the following cases EXCЕРТ:",
+    "o": [
+      "A- If the donor group is O & the recipient group AB.",
+      "B- If the donor group is AB & the recipient group O.",
+      "C- If the donor group is B & the recipient group O.",
+      "D- If the donor group is A & the recipient group B."
+    ],
+    "a": "A"
+  },
+  {
+    "q": "7-Hemophilia A (classical hemophilia) is due to deficiency of:",
+    "o": [
+      "A-Factor X",
+      "B- Factor IX",
+      "C-Factor VIII",
+      "D- Factor V."
+    ],
+    "a": "C"
+  },
+  {
+    "q": "8- Normal platelets count and life span in the blood are",
+    "o": [
+      "A-100000/cu.mm - 40 days",
+      "B-150000/cu.mm - 60 days D.",
+      "C-500000/cu.mm - 129 days",
+      "D-250000/cu mm - 10 days."
+    ],
+    "a": "D"
+  },
+  {
+    "q": "9-When MCV is 110 µm3 and MCHC is 20% the cells are:",
+    "o": [
+      "A- Microcytic hypochromic",
+      "B- Macrocytic hypochromic",
+      "C-Macrocytic hyperchromic",
+      "D- Normocytic normochromic."
+    ],
+    "a": "B"
+  },
+  {
+    "q": "10-The following are true about the ABO and rhesus (Rh) system except:",
+    "o": [
+      "A- A person of group O is a universal donor",
+      "B- A person who is group AB has anti-A and anti-B antibodies",
+      "C-The presence of the D antigen means that the subject is Rh positive",
+      "D-The second rhesus positive baby of a Rh negative mother is at a greater risk than the first."
+    ],
+    "a": "B"
+  },
+  {
+    "q": "11-What are the reagents used of hemoglobin estimation?",
+    "o": [
+      "A-EDTA.",
+      "B-N/10 hydrochloric acid .",
+      "C-Distilled water.",
+      "D-Sodium citrate"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "12-The tube used in clotting time;",
+    "o": [
+      "A-sahli Adams tube",
+      "B-Unheparinized -capillary tube",
+      "C-heparinized-capillary tube",
+      "D-westergens tube."
+    ],
+    "a": "B"
+  },
+  {
+    "q": "13-All of the following are true regarding ESR except;",
+    "o": [
+      "A- Westergens method",
+      "B-Sodium citrate",
+      "C-Diagnosis",
+      "D- fibrinogen protein aggregation."
+    ],
+    "a": "C"
+  },
+  {
+    "q": "14-P.C.V is decreased in all of the following except;",
+    "o": [
+      "A-Anemias",
+      "B-infusion of fluids",
+      "C-Burns",
+      "D-pregnancy."
+    ],
+    "a": "C"
+  },
+  {
+    "q": "15. Which volume remains in the lungs after a tidal volume (TV) is expired?",
+    "o": [
+      "A. Vital capacity (VC)",
+      "B. Expiratory reserve volume (ERV)",
+      "C. Residual volume (RV)",
+      "D. Functional residual capacity (FRC)."
+    ],
+    "a": "D"
+  },
+  {
+    "q": "16. Which volume remains in the lungs after a maximal expiration?",
+    "o": [
+      "A. Tidal volume (TV)",
+      "B. Vital capacity (VC)",
+      "C. Expiratory reserve volume (ERV)",
+      "D. Residual volume (RV)."
+    ],
+    "a": "D"
+  },
+  {
+    "q": "17. A woman has a respiratory rate of 18, a tidal volume of 350 mL, and a deadspace of 100 mL. What is her alveolar ventilation?",
+    "o": [
+      "A. 4.0 L",
+      "B. 4.5 L",
+      "C. 5.0 L",
+      "D. 5.5 L."
+    ],
+    "a": "B"
+  },
+  {
+    "q": "18. In which of the following the residual volume of lungs is included?",
+    "o": [
+      "A. Tidal volume",
+      "B. Vital capacity",
+      "C. Functional residual capacity",
+      "D. Inspiratory capacity."
+    ],
+    "a": "C"
+  },
+  {
+    "q": "19. The difference of total lung capacity and vital capacity is:",
+    "o": [
+      "A. Expiratory reserve volume",
+      "B. Functional residual capacity",
+      "C. Inspiratory reserve volume."
+    ],
+    "a": "B"
+  },
+  {
+    "q": "20. The residual volume is",
+    "o": [
+      "A. The gas remaining in the lungs at the end of a full expiration",
+      "B. 3-4 liters on average in young adults",
+      "C. Measured directly using a spirometer",
+      "D. Smaller in old than in young people."
+    ],
+    "a": "A"
+  },
+  {
+    "q": "21. By spirometry, which cannot be determine:",
+    "o": [
+      "A. Functional residual capacity",
+      "B. Residual volume",
+      "C. Total lung capacity",
+      "D. All of the above."
+    ],
+    "a": "D"
+  },
+  {
+    "q": "22. The maximum amount of gas that can be exhaled after a full inspiration is called:",
+    "o": [
+      "A. Expiratory reserve volume",
+      "B. Vital capacity",
+      "C. Total lung capacity",
+      "D. Functional residual capacity,"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "23. If the QRS complex is wide and abnormal, this may indicate:",
+    "o": [
+      "A. Atrial fibrillation",
+      "B. Left or right bundle branch block",
+      "C. Sinus arrhythmia",
+      "D. Normal variant."
+    ],
+    "a": "B"
+  },
+  {
+    "q": "24. In a normal ECG, the P wave should be:",
+    "o": [
+      "A. Inverted in all leads",
+      "B. Upright in leads I and II",
+      "C. Absent in lead VI",
+      "D. Larger than the T wave."
+    ],
+    "a": "B"
+  },
+  {
+    "q": "25. In a patient with atrial fibrillation, the ECG will show:",
+    "o": [
+      "A. Regular P waves with normal QRS complexes",
+      "B. Irregular rhythm with absent P waves",
+      "C. Rapid, regular P waves",
+      "D. Wide, bizarre QRS complexes."
+    ],
+    "a": "B"
+  },
+  {
+    "q": "26. Which of the following should be checked first when a patient's ECG is abnormal?",
+    "o": [
+      "A. P wave morphology",
+      "B. Heart rate",
+      "C. U wave presence",
+      "D. QRS complex duration."
+    ],
+    "a": "B"
+  },
+  {
+    "q": "27. Before measuring blood pressure, the patient should rest for at least:",
+    "o": [
+      "A. 30 seconds",
+      "B. 1 minute",
+      "C. 5 minutes",
+      "D. 10 minutes."
+    ],
+    "a": "C"
+  },
+  {
+    "q": "28. The disappearance of Korotkoff sounds represents:",
+    "o": [
+      "A. Start of diastole",
+      "B. End of systole",
+      "C. Diastolic blood pressure",
+      "D. MAP."
+    ],
+    "a": "C"
+  },
+  {
+    "q": "29. If the arm is held below the heart level during BP measurement:",
+    "o": [
+      "A. Reading will be accurate",
+      "B. Systolic pressure will be underestimated",
+      "C. Diastolic pressure will be overestimated",
+      "D. BP reading will be falsely high."
+    ],
+    "a": "D"
+  },
+  {
+    "q": "30. Palpatory method of BP measures:",
+    "o": [
+      "A. Only systolic pressure",
+      "B. Only diastolic pressure",
+      "C. Both systolic and diastolic",
+      "D. Pulse pressure"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "1. Before blood transfusion, which of the following should be done?",
+    "o": [
+      "A. Erythrocyte sedimentation rate",
+      "B. Osmotic fragility of the R.B.C.",
+      "C. Blood indices.",
+      "D. Cross matching test."
+    ],
+    "a": "D"
+  },
+  {
+    "q": "2. P.C.V is increased in all of the following conditions except:",
+    "o": [
+      "A. Polycythemia",
+      "B. Dehydration",
+      "C. Pregnancy",
+      "D. Burns"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "3. Person with blood group B has",
+    "o": [
+      "A. B antigen on RBCs and anti-A antibodies in his plasma",
+      "B. A and B antigen on his RBCs and has no antibodies in his plasma",
+      "C. A antigen on his RBCs and anti-B antibodies in his plasma",
+      "D. None of the above"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "4. A child of a group A Rh+ve mother and group AB Rh-ve father, could have any of the following blood group except:",
+    "o": [
+      "A. A +ve",
+      "B. AB-ve",
+      "C. B+ve",
+      "D. O +ve"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "5. A haematocrit value of 45% means that:",
+    "o": [
+      "A. 45% of the Hb is in the plasma.",
+      "B. 45% of the total blood volume is made up of plasma.",
+      "C. 45% of the total blood volume is made up of blood cells",
+      "D. 45% of the formed elements of the blood are R.B.C"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "6. To prevent clotting in ESR estimation by Westergren method, we use",
+    "o": [
+      "A. Heparin A",
+      "B. Double oxalate",
+      "C. Fluoride",
+      "D. Sodium citrate"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "7. One of causes of prolonged bleeding time is:",
+    "o": [
+      "A. Anemia",
+      "B. Polycythemia",
+      "C. Thrombocytopenia",
+      "D. None of the above"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "8. All of the following are causes of prolonged clotting time except",
+    "o": [
+      "A. Vitamin K deficiency",
+      "B. Liver cell failure",
+      "C. Hemophilia",
+      "D. Leukemia"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "9. Increased ESR is found in",
+    "o": [
+      "A. Polycythemia",
+      "B. Malignant tumor",
+      "C. Sickle cell anemia",
+      "D. Afibrinogenemia"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "10. The principle of Sahli method that used in determination of hemoglobin content is:",
+    "o": [
+      "A. When the tube of blood is centrifuged the RBCs packed into the bottom",
+      "B. The RBCs antigen can be detected by reaction with corresponding antibodies in plasma",
+      "C. Hemoglobin is converted to brownish acid hematin by action of HCL",
+      "D. All of the above"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "12. All the following are Ventilatory parameters measured during dynamic spirometry except:",
+    "o": [
+      "A. Forced vital capacity (FVC).",
+      "B. Residual volume.",
+      "C. Forced expiratory volume (FEV1).",
+      "D. Peak expiratory flow (PEF)."
+    ],
+    "a": "B"
+  },
+  {
+    "q": "13. Normal FEV1/FVC ratio is:",
+    "o": [
+      "A. 30%",
+      "B. 60%",
+      "C. 80%",
+      "D. None of the above."
+    ],
+    "a": "C"
+  },
+  {
+    "q": "14. Tidal volume (TV):",
+    "o": [
+      "A. Maximum volume of air that can be inspired at the end of a normal quiet expiration.",
+      "B. Minimum volume of air remaining in the lungs even after a maximal expiration.",
+      "C. Volume of air entering or leaving lungs during a single breath at rest.",
+      "D. Maximum volume of air that can be expired following a maximal inspiration"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "15. Inspiratory capacity (IC):",
+    "o": [
+      "A. 3500 ml.",
+      "B. 500 ml.",
+      "C. 1200 ml.",
+      "D. 4600 ml."
+    ],
+    "a": "A"
+  },
+  {
+    "q": "16. Residual volume (RV) is:",
+    "o": [
+      "A. Extra volume of air that can be maximally inspired over and above the typical resting tidal volume.",
+      "B. Maximum volume of air that can be inspired at the end of a normal quiet expiration.",
+      "C. Volume of air entering or leaving lungs during a single breath at rest.",
+      "D. Minimum volume of air remaining in the lungs even after a maximal expiration."
+    ],
+    "a": "D"
+  },
+  {
+    "q": "17. All the lung volumes can be measured by spirometry except:",
+    "o": [
+      "A. Tidal volume.",
+      "B. Residual volume.",
+      "C. Inspiratory reserve volume.",
+      "D. Expiratory reserv: volume."
+    ],
+    "a": "B"
+  },
+  {
+    "q": "19. In Obstructive lung disease:",
+    "o": [
+      "A. Difficulty exhaling all the air from the lungs.",
+      "B. FEV1& FVC are decreased.",
+      "C. Damage to lungs or narrowing of the airways inside the lungs.",
+      "D. All of the above are correct."
+    ],
+    "a": "D"
+  },
+  {
+    "q": "20. In restrictive lung disease:",
+    "o": [
+      "A. FEV1/FVC is normal or high.",
+      "B. FEV1/FVC is deceased.",
+      "C. Caused by stiffness in lung or stiffness of chest wall.",
+      "D. A & C."
+    ],
+    "a": "D"
+  },
+  {
+    "q": "22. Advantage palpation method measurement of ABP",
+    "o": [
+      "A. Not show auscultatory gap",
+      "B. Measure systolic pressure only",
+      "C. Not accurate",
+      "D. None of the above"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "24. The S-T segment of ECG:",
+    "o": [
+      "A. Represented atrial repolarization",
+      "B. It is measured from the beginning of S to beginning of T.",
+      "C. Is usually shortened in first degree heart block",
+      "D. Elevated in recent myocardial infarction"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "25. Which of the following statements is incorrect:",
+    "o": [
+      "A. Arterial blood pressure decreases with increasing age",
+      "B. Q-T interval of ECG represents total time taken for depolarization & repolarization of ventricular muscle",
+      "C. Cross matching test should be done before blood transfusion",
+      "D. Activated partial thromboplastin time a test for intrinsic pathway"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "71. All the following are normal values except:",
+    "o": [
+      "A. The ESR in adult females s is 10 mm/hour.",
+      "B. The average Hb in female is 13-14gm/dl",
+      "C. Total WBCs count normally range between 4-11:000/mm²",
+      "D. The platelet count average 5.4 million/m³"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "72. PCV increased in:",
+    "o": [
+      "A. Polycythemia",
+      "B. Anemia",
+      "C. Hydration",
+      "D. Pregnancy"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "73. The apparatus used for determination of Hb called:",
+    "o": [
+      "A. Microcentrifuge",
+      "B. Sahli hemoglobinometer",
+      "C. Westergren's pipette and stand",
+      "D. Stethoscope"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "74. Hb content increased in all the following conditions except:",
+    "o": [
+      "A. In people living at high altitudes",
+      "B. Lung diseases",
+      "C. Microcytic anemia",
+      "D. Polycythemia vera"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "75. All of the following regarded as factors which causes destruction of RBCS & leading to anemia except:",
+    "o": [
+      "A. Abnormal shape of RBCs as congenital spherocytosis",
+      "B. Lack of RBCs enzymes as glucose 6 phosphate dehydrogenase deficiency",
+      "C. Mechanical destruction of RBCs as that caused by malaria",
+      "D. Erythropoietin hormone deficiency"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "76. Microcytic anemia occur in case of:",
+    "o": [
+      "A. Iron deficiency",
+      "B. Vitamin B12 deficiency",
+      "C. Folic acid deficiency",
+      "D. Chronic renal failure"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "77. E.S.R. is decreased in:",
+    "o": [
+      "A. Muscular exercise",
+      "B. Afibrinogenemia",
+      "C. During menstruation",
+      "D. Malignant tumour"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "78. Clotting time:",
+    "o": [
+      "A. Time needed for stoppage of bleeding without formation of blood clot",
+      "B. Prolonged in thrombocytopenia purpura",
+      "C. Normally 12-15 second",
+      "D. Prolonged in hemophilia & vitamin K deficiency"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "79. The Importance of determination of blood groups includes all the following except:",
+    "o": [
+      "A. Diagnosis of anemia",
+      "B. Marriage",
+      "C. Medicolegal importance",
+      "D. Blood transfusion"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "80. A group B Rh -ve person can receive blood for the second time from:",
+    "o": [
+      "A. Group AB Rh -ve.",
+      "B. Group O Rh -ve.",
+      "C. Group O Rh+ve.",
+      "D. Group B Rh+ve."
+    ],
+    "a": "B"
+  },
+  {
+    "q": "81. Eléctrocardiogram is useful in determining and diagnosis all the following except :",
+    "o": [
+      "A. Ejection fraction",
+      "B. Heart rate",
+      "C. Heart rhythm",
+      "D. Poor blood flow to heart muscle"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "82. P-R interval:",
+    "o": [
+      "A. Normally take 0.32 to 0.4 seconds",
+      "B. Prolonged in rapid conductivity",
+      "C. Shortened in tachycardia",
+      "D. Represents total time taken for depolarization & repolarization of ventricular muscle"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "83. The S-T segment of ECG:",
+    "o": [
+      "A. It is usually depressed line",
+      "B. It is measured from the beginning of S to beginning of T.",
+      "C. Is usually shortened in tachycardia",
+      "D. Elevated in recent myocardial infarction"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "84. Regarding the radial pulse which of the following statement is incorrect:",
+    "o": [
+      "A. Defined as a wave of atrial.contraction",
+      "B. Determining by palpating the lower part of radial artery",
+      "C. Provide information about the heart rate",
+      "D. Provide information about the rhythm of the heart"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "85. Concerning the jugular venous pulse:",
+    "o": [
+      "A. A wave is due to right ventricle contraction",
+      "B. C wave is due to bulging of tricuspid valve into right atrium",
+      "C. X wave caused by severe increase in atrial pressure",
+      "D. Y wave caused by increase in right atrial pressure"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "86. The first heart sound:",
+    "o": [
+      "A. Occur during the isovolumetric relaxation phase",
+      "B. It is duration average 0.04 second",
+      "C. Often inaudible in adult",
+      "D. Mitral area auscultated at left 5th intercostal midclavicular line"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "87. Sphygmomanometer used for:",
+    "o": [
+      "A. Auscultation of heart sounds",
+      "B. Diagnosis of latent tetany",
+      "C. Auscultation of respiratory sounds",
+      "D. Used for determination of ESR"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "88. The palpation method for measurement of ABP :",
+    "o": [
+      "A. Need stethoscope",
+      "B. Measure only the systolic pressure",
+      "C. Show auscultatory gap",
+      "D. Measure the diastolic blood pressure"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "73- Before blood transfusion, which of the following should be done?",
+    "o": [
+      "A. Erythrocyte sedimentation rate",
+      "B. Osmotic fragility of the R.B.C.",
+      "C. Blood indices.",
+      "D. Cross matching test."
+    ],
+    "a": "D"
+  },
+  {
+    "q": "74- The bleeding time",
+    "o": [
+      "A. Is significantly prolonged in haemophilia.",
+      "B. Normally averages about 1-3 minutes.",
+      "C. Is independent of the platelet count.",
+      "D All of the above"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "75- The following antibodies are present in group( ARh-ve)persons :",
+    "o": [
+      "A. Anti B",
+      "B. Anti A",
+      "C. Anti RH",
+      "D. All of the above"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "76- A child of a group A Rh+ve mother and group AB Rh -ve father could be any of the following except:",
+    "o": [
+      "A. A Rh+ve",
+      "B. AB-ve",
+      "C. B Rh+ve",
+      "D. O Rh+ve"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "77- A haematocrit value of 45% means that:",
+    "o": [
+      "A. 45% of the Hb is in the plasma.",
+      "B. 45% of the total blood volume is made up of plasma.",
+      "C. 45% of the total blood volume is made up of blood cells",
+      "D. 45% of the formed elements of the blood are R.B.C"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "78- If a man's plasma agglutinates both A and B red cells, he is group :",
+    "o": [
+      "A- B.",
+      "B- A.",
+      "C- O.",
+      "D. Impossible to know."
+    ],
+    "a": "C"
+  },
+  {
+    "q": "79- The red cells in iron deficiency anaemia are :",
+    "o": [
+      "A- Normocytic normochromic",
+      "B- Sickle cells.",
+      "C- Macrocytic hyperchromic",
+      "D- Microcytic hypochromic"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "80- When a person takes a very deep breath of air just prior to diving into water, this volume of air is referred to as:",
+    "o": [
+      "A. the tidal volume.",
+      "B- the inspiratory reserve volume",
+      "C. the vital capacity.",
+      "D. the residual volume"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "81.Which mineral is essential for coagulation to occur1",
+    "o": [
+      "A- Mg++",
+      "B- Ca++",
+      "C- Na+",
+      "D- Fe++"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "85- At high altitude, the number of RBC increases",
+    "o": [
+      "A- To trap O2 from rarefied air having low PO2",
+      "B- To adapt with the oxygen deficiency",
+      "C- To remove more CO2",
+      "D- To increase metabolism"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "86- A group B Rh -ve person can receive blood for the second time from :",
+    "o": [
+      "A. Group O Rh -ve",
+      "B- Group AB Rh -ve",
+      "C.-Group O Rh ve",
+      "D- Group A Rh-ve"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "88-Purpura is caused by deficiency of:",
+    "o": [
+      "A. Factor VIII",
+      "B. Prothrombin",
+      "C. Vitamin K",
+      "D. Platelets"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "89- The coagulation time is prolonged in:",
+    "o": [
+      "A. Polycythaemia",
+      "B. Haemophilia",
+      "C. Anaemia",
+      "D. Purpura"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "90- The systolic arterial blood pressure is:",
+    "o": [
+      "A. Directly increased by rennin",
+      "B. Affected by the venous return to the heart",
+      "C. Non of the above",
+      "D. All of the above"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "91- Meaurement of the arterial blood pressure by auscultatory method:",
+    "o": [
+      "A. Is equal to that measured by the palpatory method.",
+      "B. Sometimes shows asilent gap.",
+      "C. Is not influenced by gravity",
+      "D. Depends on the size of the cuff"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "92- Atrial repolarization is indicated in the ECG by the:",
+    "o": [
+      "A- P wave.",
+      "B- QRS.",
+      "C- Q- Tinterval",
+      "D- None of the above"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "93- The V wave of the JVP is produced by:",
+    "o": [
+      "A- The atrial systole.",
+      "B- Ventricular ejection",
+      "C- Rise of the right atrial pressure before the tricuspid vavle open.",
+      "D- Opening of the semilunar valves."
+    ],
+    "a": "C"
+  },
+  {
+    "q": "94- The coagulation time is prolonged in:",
+    "o": [
+      "A-Polycythaemia",
+      "B. Haemophilia",
+      "C. Anaemia",
+      "D. Purpura"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "95 - Appearance of deep Q waves in ECG indicates:",
+    "o": [
+      "A- Heart block.",
+      "B- Cardiac Infarction",
+      "C- presence of an injury current.",
+      "D- Cardiacischemia."
+    ],
+    "a": "B"
+  },
+  {
+    "q": "96 -At high altitudes :",
+    "o": [
+      "A- The alveolar ventilation increases.",
+      "B- The haematocrit value increases.",
+      "C- Both the PO2 and the PCO₂ in the arterial blood decrease.",
+      "D- All of the above"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "97- If you want rapid prolongation of the coagulation time in a patient having intravascular thrombosis you choose:",
+    "o": [
+      "A. Intravenous injection of heparin.",
+      "B- I.V injection of calcium.",
+      "C- I.V injection of vitamin K.",
+      "D. All of the above"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "99- Obstructive lung diseases are best diagnoses by determining the :",
+    "o": [
+      "A- Vital Capacity.",
+      "B-Maximal voluntary ventilation.",
+      "C- Expiratory reserve volume.",
+      "D- Timed vital capacity in one second ( FEV1 )"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "100 The Einthoven's law of the ECG states that:",
+    "o": [
+      "A- Lead I + Lead II = Lead III.",
+      "B-Lead I + Lead III= Lead II.",
+      "C- Lead II + Lead III = Lead I.",
+      "D- Lead III + Lead II = Lead I."
+    ],
+    "a": "B"
+  },
+  {
+    "q": "97. Regarding spirometric graphs of the restrictive pulmonary disease:",
+    "o": [
+      "A. The flow-volume loop described as miniature loop",
+      "B. In the volume-time curve the FEV1 is normal or ↑",
+      "C. In the volume- time curve the FVC is ↑↑",
+      "D. In the volume- time curve the FEV1/FVC H"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "100. Regarding the procedure of dynamic spirometry which of the following statement is incorrect",
+    "o": [
+      "A. Make a tight seal around the mouthpiece",
+      "B. Ask subject to inhale deeply",
+      "C. Ask the subject to exhale as strong and as fast as possible",
+      "D. Ask the subject to exhale slowly for long time"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "1. Ahmed's blood group is AB while the blood group of his wife Haneen is B. Their children will NOT have the following blood group genotype:",
+    "o": [
+      "A. OO",
+      "B. AB",
+      "C. AO",
+      "D. BB"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "2. The clinical significance of the pulmonary function tests includes all the following except:",
+    "o": [
+      "A. Used for diagnosis of chronic obstructive pulmonary diseases",
+      "B. Provide useful information for lung fibrosis.",
+      "C. Used for Follow-up of heart failure",
+      "D. Used for prescription of proper treatment of pulmonary diseases"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "3. E.S.R:",
+    "o": [
+      "A. Regarded as accurate diagnostic test",
+      "B. Increase in the condition of afibrinogenemis",
+      "C. Decreases during pregnancy",
+      "D. Increases with some malignant tumour"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "4. The Auscultatory method for measurement of ABP:",
+    "o": [
+      "A. Measured without stethoscope",
+      "B. Measure only the systolic pressure",
+      "C. Auscultatory gap prevented by using palpation method with it",
+      "D. Not accurate"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "5. Bleeding time:",
+    "o": [
+      "A. Used for calculation of the international normalized ratio (INR)",
+      "B: Prolonged in Von-Willebrand disease",
+      "C. Normally 12-15 second",
+      "D. A test for the extrinsic pathway"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "15. Mr. Ali's blood was determined to be AB positive. What does this mean:",
+    "o": [
+      "A. Antibodies to A and B are present in plasma",
+      "B. There are no antibodies to A, B or Rh antigens in the plasma",
+      "C. His blood lacks the Rh factor",
+      "D. He luis antigen A and B but not antigen D on his RBC's"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "16. Spirometrie graphs of the restrictive pulmonary disease characterized by",
+    "o": [
+      "A. large than normal volume-time curve",
+      "B. Miniature flow-volume leop",
+      "C. FVC is markedly increases in the in the volume- time curve the",
+      "D. FEV1/FVC is severely reduced in the volume- time curve the"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "17. Regarding the clinical significant of JVP:",
+    "o": [
+      "A. A-C interval prolonged in tachycardia",
+      "B. In atrial fibrillation C and V waves occur at slower independent rate",
+      "C. Giant A wave seen in the aortic stenosis",
+      "D. Cannon wave may be seen in the complete heart block"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "18. ECG is used for :",
+    "o": [
+      "A. Diagnosis of valvular lesions",
+      "B. Calculation of heart rate",
+      "C. Determination of heart rhythm",
+      "D. Diagnosis of myocardial infraction"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "19. Restrictive pulmonary diseases caused by all the following except:",
+    "o": [
+      "A. Stiffness of the chest wall",
+      "B. Weakness of respiratory muscles",
+      "C. Bronchial asthma",
+      "D. Obesity"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "20. If tidal volume is 450 ml and the respiratory rate is 10 breaths/min, the pulmonary ventilation will be::",
+    "o": [
+      "A. 6000 ml/min.",
+      "B. 440 ml/min.",
+      "C. 4500 ml/min.",
+      "D: 5000 ml/min."
+    ],
+    "a": "C"
+  },
+  {
+    "q": "21. A patient presented with neurological manifestation, has MCV 100 fl, MCH 32 pg, this patient likely has:",
+    "o": [
+      "A Vitamin B12 deficiency",
+      "B. Thalassemia",
+      "C. Folic acid deficiency anemia",
+      "D. Iron deficiency anemia"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "22. Regarding the radial pulse which of the following statement is incorrect;",
+    "o": [
+      "A. Defined as a wave of atrial contraction",
+      "B. Indicate the diastolic blood pressure",
+      "C. When tested in atherosclerosis it appear cord like",
+      "D. Causes recoil of the blood vessels to the relaxation state"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "23. Which of the following regarded as a correct hematological normal value:",
+    "o": [
+      "A. The ESR in adult female's s is 10 mm/hour.",
+      "B. The average Hb in female is 16-18gm/dl",
+      "C. Total WBCs count normally 150000/mm³",
+      "D. The platelet count average 5,4 million/m"
+    ],
+    "a": "A"
+  }
+]

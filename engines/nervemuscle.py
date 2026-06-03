@@ -1,0 +1,145 @@
+import random
+
+def run_quiz():
+    # VOLLSTÄNDIGE DATENBANK (Alle 77 Fragen im Original-Wortlaut)
+    questions = [
+        # MIDTERM 2023
+        {"q": "Regarding the steps of skeletal muscle contraction, which of the following is incorrect:", "o": ["A. Depolarization of sarcolemma", "B. Release of Ca2+ from terminal cisterns", "C. Binding of Ca2+ with calmodulin", "D. Binding of Ca2+ with troponin-C"], "a": "C"},
+        {"q": "The neuromuscular transmission is:", "o": ["A. Bi-directional", "B. Stimulated by activation of voltage-gated Ca2+ channels in synaptic knob", "C. Main chemical transmitter is noradrenaline", "D. Stimulated by curare"], "a": "B"},
+        {"q": "The velocity of conduction of action potential in nerve fibers is:", "o": ["A. Faster in non-myelinated than in myelinated nerve fibers", "B. Rapid in saltatory than in continuous conduction", "C. Faster when nodes of Ranvier are closer to each other", "D. Slower in type C than type B nerve fibers"], "a": "B"},
+        {"q": "Muscle fatigue occurs due to:", "o": ["A. Accumulation of creatine phosphate", "B. Accumulation of lactic acid", "C. Decrease Ca2+ release from sarcoplasmic reticulum", "D. Decrease number of ACh receptors"], "a": "C"},
+        {"q": "Normal relaxation of skeletal muscle occurs due to:", "o": ["A. Movement of tropomyosin away from active sites on actin", "B. Decrease in ATP concentration", "C. Breakdown of ACh by ACh esterase", "D. Active transport of Ca2+ into the sarcoplasmic reticulum"], "a": "D"},
+
+        # FINAL 2022
+        {"q": "The resting membrane potential (RMP) of nerve fibers is caused by:", "o": ["A. Na+ influx", "B. Closure of voltage-activated channels", "C. K+ efflux", "D. All of the above"], "a": "C"},
+        {"q": "Magnitude of RMP of cardiac muscle cell:", "o": ["A. +90 mV", "B. -90 mV", "C. -70 mV", "D. +70 mV"], "a": "B"},
+        {"q": "Repolarization results from:", "o": ["A. Fast then gradual change in membrane potential", "B. Appearance of response", "C. Closure of Na+ gates and opening of K+ gates", "D. Descending limb of spike"], "a": "C"},
+        {"q": "Continuous conduction:", "o": ["A. Occurs in unmyelinated fibers", "B. Jumping of charges from one node of Ranvier to another", "C. Is relatively slow", "D. A and C are correct"], "a": "D"},
+        {"q": "All about the Sarcomere are true except:", "o": ["A. Is the distance between myosin and actin", "B. Distance between two Z membranes", "C. Contractile unit of muscle", "D. Shorten when muscle contracts"], "a": "A"},
+        {"q": "Which is correct about synaptic transmission:", "o": ["A. Arrival of AP at synaptic bulb", "B. Exocytosis of neurotransmitter", "C. Binding of neurotransmitter to its receptor", "D. All of the above"], "a": "D"},
+        {"q": "Chemical synapses:", "o": ["A. Is gap-junction communication", "B. Provide fast, two-way transmission", "C. Most common in cardiac muscle and smooth muscle", "D. Is slow, one-way transmission"], "a": "D"},
+        {"q": "Convergence of neurons allows except:", "o": ["A. Many fibers on one neuron", "B. Spatial summation", "C. Fibers from one or multiple sources", "D. Spread of stimulus from one neuron to multiple neurons"], "a": "D"},
+        {"q": "Regarding smooth muscle, which of the following is true:", "o": ["A. Has no troponin", "B. Poorly developed sarcoplasmic reticulum", "C. No cross striations", "D. All of the above"], "a": "D"},
+
+        # FINAL 2023
+        {"q": "Regarding Troponins, which of the following is a correct statement:", "o": ["A. Troponin C: binds to Tropomyosin", "B. Troponin I: inhibits interaction between actin & myosin", "C. Troponin T: binds Ca2+", "D. All are correct"], "a": "B"},
+        {"q": "Resting membrane potential (RMP) of a nerve is caused by:", "o": ["A. Equal ion distribution between inside and outside", "B. Selective permeability of the membrane to K+", "C. Na-K pump has no role in maintaining RMP", "D. Inward movement of Na+"], "a": "B"},
+        {"q": "The region between post-synaptic and pre-synaptic membrane is:", "o": ["A. Presynaptic membrane", "B. Synaptic cleft", "C. Terminal button", "D. Axon hillock"], "a": "B"},
+        {"q": "Action potentials are driven by ion flow through which channels:", "o": ["A. Physically-gated channels", "B. Voltage-gated channels", "C. Chemically-gated channels", "D. All of the above"], "a": "B"},
+        {"q": "Which of the following neuroglial cells form myelin sheath in the peripheral nervous system:", "o": ["A. Schwann cell", "B. Microglia", "C. Oligodendrocytes", "D. Ependymal cells"], "a": "A"},
+        {"q": "Which of the following is incorrect about neurotransmitters:", "o": ["A. Synthesized in presynaptic neuron", "B. Rapidly removed from the synaptic cleft", "C. GABA is an excitatory neurotransmitter", "D. Released under physiological conditions"], "a": "C"},
+        {"q": "The minimum time for synaptic delay is:", "o": ["A. 4 msec", "B. 0.5 msec", "C. 3 msec", "D. 1 msec"], "a": "B"},
+        {"q": "Which of the following nerve fibers are typically all unmyelinated:", "o": ["A. B fibers", "B. C fibers", "C. A fibers", "D. All of the above"], "a": "B"},
+        {"q": "Regarding chemical synapses, which of the following is true:", "o": ["A. Is gap junctions", "B. Provide fast, two-way transmission", "C. Provide slow, one-way transmission", "D. A and B are correct"], "a": "C"},
+        {"q": "Spatial summation occurs when:", "o": ["A. Many pre-synaptic neurons converge on one post-synaptic neuron", "B. EPSP is produced in more than one knob at the same time", "C. EPSP is repeated successively at one knob", "D. Axons of neurons divide and diverge"], "a": "A"},
+
+        # FINAL 2024
+        {"q": "Muscarinic cholinergic receptors are found:", "o": ["A. On postganglionic sympathetic neurons", "B. On postganglionic parasympathetic neurons", "C. In the sweat glands", "D. B and C are correct"], "a": "D"},
+        {"q": "Regarding the synaptic transmission, which is true:", "o": ["A. Arrival of AP at synaptic bulb", "B. Exocytosis of neurotransmitter", "C. Binding of neurotransmitter to its receptor", "D. All of the above"], "a": "D"},
+        {"q": "Which of the following is true regarding chemical synapses:", "o": ["A. It is gap junction communication", "B. Provide fast, two-way transmission", "C. Most common in cardiac muscle", "D. Provide slow, one-way transmission"], "a": "D"},
+        {"q": "Convergence of neurons allows except:", "o": ["A. Many fibers on one neuron", "B. Spatial summation", "C. Fibers from one or multiple sources", "D. Spread of stimulus from one to multiple neurons"], "a": "D"},
+        {"q": "Which of the following nerve fibers are typically unmyelinated:", "o": ["A. Aa fibers", "B. As fibers", "C. B fibers", "D. C fibers"], "a": "D"},
+        {"q": "Regarding tropomyosin, which of the following is true:", "o": ["A. Forms a double helix", "B. Hides actin active sites during relaxation", "C. Inhibits interaction between actin & myosin", "D. All of the above"], "a": "B"},
+        {"q": "Inhibitory neurotransmitters increase the membrane conductance to:", "o": ["A. Sodium", "B. Chloride", "C. Magnesium", "D. All of the above"], "a": "B"},
+        {"q": "Regarding Troponin I, which is true:", "o": ["A. Binds the other units of troponin to tropomyosin", "B. Binds Ca2+", "C. Inhibits interaction between actin & myosin", "D. Is the thick filament"], "a": "C"},
+        {"q": "Regarding smooth muscle, find the false statement:", "o": ["A. Has troponins", "B. Poorly developed sarcoplasmic reticulum", "C. No cross striations", "D. Involuntary"], "a": "A"},
+        {"q": "The neuromuscular transmission is:", "o": ["A. Bidirectional", "B. Inhibited by Acetylcholine", "C. Unidirectional", "D. Inhibited by Calcium"], "a": "C"},
+
+        # FINAL 2025
+        {"q": "The resting membrane potential (RMP) of a nerve is caused by:", "o": ["A. Equal ion distribution between inside and outside", "B. Selective permeability of the membrane to K+", "C. No role of Na-K pump", "D. Inward movement of Na+"], "a": "B"},
+        {"q": "The correct sequence of events following threshold potential is:", "o": ["A. The cell becomes depolarized", "B. Sodium channels open", "C. The cell becomes repolarized", "D. Potassium channels open"], "a": "A"},
+        {"q": "The absolute refractory period is the period during which:", "o": ["A. Potassium channels are open", "B. Immediately follows the relative refractory period", "C. Allows the AP to travel in two directions", "D. Sodium channels are open"], "a": "D"},
+        {"q": "All the following about AP propagation are correct EXCEPT:", "o": ["A. Occurs in saltatory manner in myelinated fibers", "B. Myelin sheath is an effective insulator", "C. It is faster in myelinated nerve fibers", "D. It is faster for strong stimuli"], "a": "D"},
+        {"q": "Inhibitory post-synaptic potentials (IPSPs) can be produced by the opening of:", "o": ["A. Na+ channels", "B. Cl- and/or K+ channels", "C. Ca2+ channels", "D. Non-specific cation channels"], "a": "B"},
+        {"q": "Refer to one synaptic site from which several post-synaptic neurons take origin:", "o": ["A. Convergence", "B. Summation", "C. Diffusion", "D. Divergence"], "a": "D"},
+        {"q": "Action potential at the motor end plate spreads to the center of the muscle fiber via:", "o": ["A. Z lines", "B. Sarcoplasmic reticulum", "C. Pores", "D. Transverse tubules"], "a": "D"},
+        {"q": "Excitation-contraction coupling involves all the following except:", "o": ["A. Depolarization along T-tubules", "B. Release of Ca2+ from troponin", "C. Formation of cross bridges", "D. Hydrolysis of ATP"], "a": "B"},
+        {"q": "Immediately after Ca2+ ions are released from the sarcoplasmic reticulum:", "o": ["A. They initiate action potential", "B. They bind to troponin", "C. They open Na+ channels", "D. They bind to actin"], "a": "B"},
+
+        # FINAL 2026 (2ND)
+        {"q": "The phase during which a nerve cell cannot respond to a new stimulus:", "o": ["A. Resting period", "B. Action potential", "C. Repolarization", "D. Refractory period"], "a": "D"},
+        {"q": "Which of the following nerve fibers are typically unmyelinated:", "o": ["A. Aa fibers", "B. As fibers", "C. B fibers", "D. C fibers"], "a": "D"},
+        {"q": "Which neuroglial cells work as macrophages in the CNS:", "o": ["A. Microglia", "B. Oligodendroglia", "C. Ependymal cells", "D. Astrocytes"], "a": "A"},
+        {"q": "About neurotransmitter all true EXCEPT:", "o": ["A. Synthesized in post-synaptic neuron", "B. Stored in vesicles", "C. Removed from cleft by uptake", "D. Epinephrine is an excitatory neurotransmitter"], "a": "A"},
+        {"q": "Inhibitory post synaptic potential occurs due to:", "o": ["A. Depolarization by Sodium influx", "B. Depolarization by Potassium efflux", "C. Hyperpolarization by Calcium influx", "D. Hyperpolarization by Chloride influx"], "a": "D"},
+        {"q": "Which of the following is true about skeletal muscle:", "o": ["A. Passive calcium uptake", "B. Calcium is from T tubules", "C. Calcium binds to tropomyosin", "D. Z lines move together during contraction"], "a": "D"},
+        {"q": "Shared component of skeletal and smooth muscle:", "o": ["A. Sarcomeres", "B. Troponin", "C. Elevation of intracellular Ca2+", "D. Spontaneous depolarization"], "a": "C"},
+        {"q": "During isometric contraction of a muscle:", "o": ["A. The muscle does not shorten", "B. Shortening occurs", "C. Tension remains constant", "D. Body movements occur"], "a": "A"},
+        {"q": "Repolarization begins when:", "o": ["A. Sodium channels are inactivated", "B. Potassium channels close", "C. Sodium entry slows down", "D. Sodium channels are activated"], "a": "A"},
+
+        # FINAL 2026 (1ST)
+        {"q": "Repolarization begins when:", "o": ["A. Sodium channels are inactivated", "B. Potassium channels close", "C. Sodium entry slows down", "D. Sodium channels are activated"], "a": "A"},
+        {"q": "Propagation velocity of action potential increases with increasing axon's:", "o": ["A. Time constant", "B. Capacitance", "C. Myelination", "D. Resistance"], "a": "C"},
+        {"q": "After prolonged work, fatigue occurs first in:", "o": ["A. Cardiac muscle", "B. Visceral smooth muscle", "C. Slow twitch muscle fibers", "D. Fast twitch muscle fibers"], "a": "D"},
+        {"q": "Regarding isotonic contraction, all are true EXCEPT:", "o": ["A. Muscle shortens", "B. Tension remains constant", "C. Length remains constant", "D. External work is done"], "a": "C"},
+        {"q": "In myasthenia gravis, antibodies are produced against:", "o": ["A. Acetylcholine", "B. Acetylcholine esterase", "C. Acetylcholine receptors", "D. Ion channels"], "a": "C"},
+        {"q": "Relaxation occurs by all EXCEPT:", "o": ["A. Hydrolysis of ATP in myosin", "B. Removal of Ca2+", "C. Attachment of ATP to myosin head", "D. Active pumping of Ca2+"], "a": "A"},
+        {"q": "All of the following lead to contraction of skeletal muscle EXCEPT:", "o": ["A. Depolarization of T-tubules", "B. Ca2+ release from troponin C", "C. Ca2+ release from terminal cisternae", "D. Depolarization of sarcolemma"], "a": "B"},
+        {"q": "During muscle shortening, width decrease occurs in all EXCEPT:", "o": ["A. A band", "B. I band", "C. H zone", "D. Sarcomere"], "a": "A"},
+        {"q": "Smooth muscle needs help of ______ for contraction:", "o": ["A. Calmodulin", "B. Acetylcholine", "C. K+", "D. Monoamine oxidase"], "a": "A"},
+
+        # FINAL 2027 (1ST)
+        {"q": "Regarding unipolar neurons, which of the following is true:", "o": ["A. They have a single process that divides into two branches", "B. They are found in the bipolar cells of retina", "C. They have multiple dendrites", "D. None of the above"], "a": "A"},
+        {"q": "The nerve cell membrane maintains RMP by active transport of ions via:", "o": ["A. Voltage gated channels", "B. Leak channels", "C. Na+/K+ pump", "D. Ligand gated channels"], "a": "C"},
+        {"q": "Repolarization begins when:", "o": ["A. Sodium channels are inactivated", "B. Potassium channels close", "C. Sodium entry slows down", "D. Sodium channels are activated"], "a": "A"},
+        {"q": "The chronaxie is the:", "o": ["A. Threshold stimulus", "B. Time to produce a response with twice the rheobase current", "C. Measure of excitability", "D. Time for rheobase current to cause a response"], "a": "B"},
+        {"q": "The release of neurotransmitter in the CNS is dependent on:", "o": ["A. AChE synthesis", "B. Hyperpolarization of membrane", "C. Ligand-gated Ca channels", "D. Influx of Ca into presynaptic terminal"], "a": "D"},
+        {"q": "Velocity of AP in nerve fiber is increased by:", "o": ["A. Na-K pump", "B. Decrease in diameter", "C. Myelinating the nerve", "D. Lengthening the nerve"], "a": "C"},
+        {"q": "The period where no second AP can be generated regardless of stimulus strength:", "o": ["A. Relative refractory period", "B. Resting period", "C. Absolute refractory period", "D. Depolarization period"], "a": "C"},
+
+        # FINAL 2027 (2ND)
+        {"q": "The resting membrane potential (RMP) in a nerve fiber is:", "o": ["A. Approximately -10 mV", "B. Caused by K+ diffusion from outside to inside", "C. Generated mainly by passive processes", "D. None of the above"], "a": "C"},
+        {"q": "During excitation, peak of K+ efflux occurs:", "o": ["A. Before spike potential", "B. Before peak of Na+ influx", "C. At the same time as Na+ influx", "D. After both spike potential and peak of Na+ influx"], "a": "D"},
+        {"q": "Regarding the strength-duration curve, all true EXCEPT:", "o": ["A. Stronger stimuli require shorter times", "B. Rheobase is minimal strength", "C. Utilization time is measure of excitability", "D. Chronaxie is time for twice rheobase"], "a": "C"},
+        {"q": "Velocity of conduction of AP in nerve fibers is increased with decrease in:", "o": ["A. Diameter", "B. Myelination", "C. Capacitance", "D. RMP"], "a": "C"},
+        {"q": "The step of muscle relaxation is:", "o": ["A. Depolarization of T-tubules", "B. Pumping Ca2+ back into SR", "C. Release of Ca2+ from SR", "D. Binding of Ca2+ to troponin"], "a": "B"},
+        {"q": "During skeletal muscle contraction:", "o": ["A. Width of A bands remains constant", "B. Tropomyosin remains in original place", "C. Z lines move apart", "D. H zone becomes wider"], "a": "A"},
+        {"q": "During isometric contraction of a muscle:", "o": ["A. ATP is used in large amount", "B. Muscle length decreases", "C. Much external work is performed", "D. Stretching of the elastic component occurs"], "a": "D"},
+        {"q": "Fast glycolytic muscle fibers have:", "o": ["A. Glycogen as the main source of energy", "B. High myoglobin content", "C. Resistance to fatigue", "D. Rich capillary supply"], "a": "A"},
+        {"q": "Smooth muscle contraction is initiated by Ca2+ binding to:", "o": ["A. Troponin", "B. Tropomyosin", "C. Calmodulin", "D. Fast glycolytic fibers"], "a": "C"}
+    ]
+
+    current_round = questions.copy()
+    round_no = 1
+    streak = 0
+
+    print("="*70)
+    print("      PHYSIOLOGIE MASTER-TRAINER (FULL UNABRIDGED VERSION)")
+    print("="*70)
+    print(f"Starte mit {len(questions)} Original-Fragen aus 2023-2027.")
+    print("Tippe 'exit' zum Beenden.\n")
+
+    while current_round:
+        print(f"\n>>> RUNDE {round_no} ({len(current_round)} offene Fragen)")
+        random.shuffle(current_round)
+        wrong_pool = []
+
+        for i, item in enumerate(current_round):
+            print(f"\n[{i+1}/{len(current_round)}] {item['q']}")
+            for opt in item["o"]:
+                print(opt)
+            
+            ans = input("\nAntwort (A, B, C, D): ").strip().upper()
+            if ans == 'EXIT': return
+
+            if ans == item["a"]:
+                streak += 1
+                print(f"✅ KORREKT! | Streak: {streak}")
+            else:
+                streak = 0
+                print(f"❌ FALSCH! Uni-Lösung: {item['a']}")
+                wrong_pool.append(item)
+
+        if not wrong_pool:
+            print("\n" + "#"*70)
+            print("MISSION VOLLSTÄNDIG ERFÜLLT! Du hast alle Fragen korrekt beantwortet!")
+            print("#"*70)
+            break
+        else:
+            print(f"\nEnde Runde {round_no}. {len(wrong_pool)} Fehler werden in Runde {round_no + 1} wiederholt.")
+            current_round = wrong_pool
+            round_no += 1
+            input("Drücke Enter für die nächste Runde...")
+
+if __name__ == "__main__":
+    run_quiz()

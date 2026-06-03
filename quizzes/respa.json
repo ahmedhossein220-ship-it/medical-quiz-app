@@ -1,0 +1,684 @@
+[
+  {
+    "q": "1. Which of the following about Oxygen-Haemoglobin Dissociation Curve is False?",
+    "o": ["A. Indicates direct relationship between PCO2 and % saturation of Hb with CO2", "B. Indicates direct relationship between PO2 and % saturation of Hb with O2", "C. Is shifted to the right by a rise in 2,3 DPG concentration", "D. Is shifted to the left by drop of temperature"],
+    "a": "A"
+  },
+  {
+    "q": "2. With regard to Surfactant, which of the following statements is True?",
+    "o": ["A. Production of surfactant starts late in pregnancy", "B. Acts to reduce surface tension of fluid in the alveoli", "C. Is phospholipids produced by the Type II alveolar cells", "D. All of the above"],
+    "a": "D"
+  },
+  {
+    "q": "3. Regarding inspiration, which of the following statements is incorrect:",
+    "o": ["A. Contraction of inspiratory muscles", "B. Expansion of the chest (Increases volume in thoracic cavity)", "C. Increase of IPLP pressure", "D. Expansion of the lungs (volume of lungs increases) and air moves into the lung"],
+    "a": "C"
+  },
+  {
+    "q": "4. Compliance:",
+    "o": ["A. Is the ability of the lungs to recoil to their original collapsed shape during expiration (Elasticity)", "B. Is the ability of the lungs to stretch during inspiration", "C. Lowers surface tension", "D. None of the above"],
+    "a": "B"
+  },
+  {
+    "q": "5. Gas Exchange in the Lungs:",
+    "o": ["A. Gases move passively from high pressure area to low pressure area", "B. Gas exchange is inversely proportional to thickness of respiratory membrane", "C. Gas exchange is directly proportional to the effective surface area of respiratory membrane", "D. All the above are true"],
+    "a": "D"
+  },
+  {
+    "q": "6. Which of the following statements regarding the medullary (central) chemoreceptors is false:",
+    "o": ["A. They are found on antero-lateral surface of the medulla", "B. They are stimulated by high CO2 concentration in the blood", "C. They are stimulated by high hydrogen ion concentration in blood", "D. They are stimulated by high CO2 concentration in the CSF"],
+    "a": "C"
+  },
+  {
+    "q": "7. Causes of hypoxic hypoxia include all of the following except:",
+    "o": ["A. High altitude", "B. Respiratory center depression", "C. Cyanide poisoning (Histotoxic)", "D. Paralysis of respiratory muscle"],
+    "a": "C"
+  },
+  {
+    "q": "8. During quiet breathing the diaphragm is responsible for what percentage of inspiration?",
+    "o": ["A. 10%", "B. 25%", "C. 50%", "D. 75%"],
+    "a": "D"
+  },
+  {
+    "q": "9. The normal residual volume in an adult male is:",
+    "o": ["A. 500 ml", "B. 800 ml", "C. 1200 ml", "D. 1800 ml"],
+    "a": "C"
+  },
+  {
+    "q": "10. In arterial blood, most carbon dioxide is transported as:",
+    "o": ["A. Bicarbonate", "B. Carbamino compounds", "C. Carbonic acid", "D. Dissolved"],
+    "a": "A"
+  },
+  {
+    "q": "11. Regarding the peripheral chemoreceptors, which of the following statements is incorrect:",
+    "o": ["A. They are special receptors found in Aortic and carotid bodies", "B. They are stimulated by hypoxia, hypercapnia and acidosis", "C. They are stimulated by high CO2 and H+ ions in CSF", "D. Anemia has no direct effect on chemoreceptors"],
+    "a": "C"
+  },
+  {
+    "q": "12. Oxygen dissociation curve shifts to the right by:",
+    "o": ["A. Hypothermia", "B. High CO2", "C. Decreased 2,3 DPG", "D. All of the above"],
+    "a": "B"
+  },
+  {
+    "q": "1. Which of the following is an accessory muscle of inspiration:",
+    "o": ["A. Internal intercostal muscle", "B. Diaphragm", "C. External intercostal muscle", "D. Sternocleidomastoid muscle"],
+    "a": "D"
+  },
+  {
+    "q": "2. During quiet breathing the diaphragm is responsible for what percentage of inspiration?",
+    "o": ["A. 100%", "B. 55%", "C. 90%", "D. 75%"],
+    "a": "D"
+  },
+  {
+    "q": "3. Which of the following lung volumes cannot be measured with a spirometer?",
+    "o": ["A. Vital capacity", "B. Residual volume", "C. Tidal volume", "D. Inspiratory reserve volume"],
+    "a": "B"
+  },
+  {
+    "q": "4. Ventilation-perfusion ratio (V/Q) is normally:",
+    "o": ["A. 1.6", "B. 0.3", "C. 1", "D. 0.8"],
+    "a": "D"
+  },
+  {
+    "q": "5. During inspiration, how does alveolar pressure compare to atmospheric pressure?",
+    "o": ["A. Intrapulmonary pressure is greater than atmospheric", "B. Intrapulmonary pressure is less than atmospheric", "C. Intrapulmonary pressure is the same as atmospheric", "D. None of the above"],
+    "a": "B"
+  },
+  {
+    "q": "6. The haemoglobin oxygen dissociation curve moves to the left with:",
+    "o": ["A. Increased hydrogen ion concentration", "B. Hypothermia", "C. Increased 2,3 DPG", "D. All of the above"],
+    "a": "B"
+  },
+  {
+    "q": "7. In control of ventilation the medullary chemoreceptors respond to:",
+    "o": ["A. Oxygen tension", "B. Hydrogen ion concentration", "C. CO2 tension", "D. H+ concentration and CO2 tension"],
+    "a": "D"
+  },
+  {
+    "q": "8. Compliance of the lung is reduced by all of the following except:",
+    "o": ["A. Emphysema", "B. Pulmonary oedema", "C. Lung fibrosis", "D. Small lung size (children)"],
+    "a": "A"
+  },
+  {
+    "q": "9. Causes of hypoxic hypoxia include all of the following except:",
+    "o": ["A. High altitude", "B. Respiratory center depression", "C. Heart failure", "D. Venoarterial shunts"],
+    "a": "C"
+  },
+  {
+    "q": "10. Surfactant:",
+    "o": ["A. Is produced by Type II pneumocytes", "B. Is increased in smokers", "C. Decreases alveolar stability in preterm babies", "D. Maturation is impaired by glucocorticoids"],
+    "a": "A"
+  },
+  {
+    "q": "11. Regarding the peripheral chemoreceptors, which of the following statements is incorrect:",
+    "o": ["A. They are special receptors found in aortic and carotid bodies", "B. They are stimulated by hypoxia, hypercapnia and acidosis", "C. They are stimulated by high CO2 and H+ ions in CSF", "D. Anemia has no direct effect on chemoreceptors"],
+    "a": "C"
+  },
+  {
+    "q": "12. Which of the following is NOT true concerning respiratory distress syndrome in premature infants:",
+    "o": ["A. There is deficiency of surfactant production", "B. Babies develop cyanosis & difficulty in breathing at birth", "C. It is characterized by collapse of alveoli and retention of fluids in the interstitium", "D. Glucocorticoids (hydrocortisone) has no role in surfactant production"],
+    "a": "D"
+  },
+  {
+    "q": "13. Haemoglobin dissociation curve shifts:",
+    "o": ["A. To the right with CO poisoning", "B. To the left with a rise in temperature", "C. To the left with a rise in pH", "D. To the right with a decrease in 2,3 DPG"],
+    "a": "C"
+  },
+  {
+    "q": "14. Regarding the inspiration, which of the following statements is incorrect:",
+    "o": ["A. Contraction of inspiratory muscles", "B. Expansion of the chest (increases volume in thoracic cavity)", "C. Increase of intrapleural pressure", "D. Expansion of the lungs (volume of lungs increases) and air moves into the lungs"],
+    "a": "C"
+  },
+  {
+    "q": "15. Compliance:",
+    "o": ["A. Is the ability of the lungs to recoil to their original collapsed shape during expiration", "B. Is the ability of the lungs to stretch during inspiration", "C. Lowers surface tension", "D. None of the above"],
+    "a": "B"
+  },
+  {
+    "q": "16. Gas exchange in the lungs:",
+    "o": ["A. Gases move passively from high pressure area to low pressure area", "B. Gas exchange is inversely proportional to thickness of respiratory membrane", "C. Gas exchange is directly proportional to the effective surface area of respiratory membrane", "D. All of the above are true"],
+    "a": "D"
+  },
+  {
+    "q": "17. All the following statements regarding the medullary (central) chemoreceptors are correct except:",
+    "o": ["A. They are found on antero-lateral surface of the medulla", "B. They are stimulated by high CO2 concentration in the blood", "C. They are stimulated by high hydrogen ion concentration in blood", "D. They are stimulated by high CO2 concentration in the CSF"],
+    "a": "C"
+  },
+  {
+    "q": "18. Stagnant hypoxia is caused by:",
+    "o": ["A. High altitude", "B. Heart failure", "C. Cyanide poisoning", "D. Carbon monoxide poisoning"],
+    "a": "B"
+  },
+  {
+    "q": "1. Regarding surfactant",
+    "o": ["A. It is secreted by Type I alveolar cell", "B. Its secretion increases during expiration", "C. It is phospholipid sphingomyelin", "D. All of the above"],
+    "a": "B"
+  },
+  {
+    "q": "2. Regarding residual volume",
+    "o": ["A. Volume in the lung after normal expiration", "B. Increase in obstructive lung disease", "C. RV + TLC - VC", "D. Can be measured by spirometer"],
+    "a": "B"
+  },
+  {
+    "q": "3. Dissociation curve of Hb is shifted to the right by:",
+    "o": ["A. Fever", "B. Acidosis", "C. High CO2", "D. All of the above"],
+    "a": "D"
+  },
+  {
+    "q": "4. Boyle's Law of Gases states that:",
+    "o": ["A. The pressure and volume of a gas in the lung are equal", "B. The total gas pressure is equal to the sum of the partial pressures", "C. The concentration of dissolved gas is proportional to its partial pressure", "D. If the volume goes up, the pressure goes down"],
+    "a": "D"
+  },
+  {
+    "q": "5. The condition resulting from inadequate production of surfactant is:",
+    "o": ["A. Respiratory distress syndrome", "B. COPD", "C. Hypoxia", "D. Pneumothorax"],
+    "a": "A"
+  },
+  {
+    "q": "6. Which of the following factors would increase the amount of oxygen discharged by hemoglobin to peripheral tissues?",
+    "o": ["A. Decreased temperature", "B. Decreased pH", "C. Increased tissue PO2", "D. Decreased amounts of DPG"],
+    "a": "B"
+  },
+  {
+    "q": "7. Most of the carbon dioxide in the blood is transported as:",
+    "o": ["A. Solute dissolved in the plasma", "B. Carbaminohemoglobin", "C. Bicarbonate", "D. Solute dissolved in the cytoplasm of red blood cells"],
+    "a": "C"
+  },
+  {
+    "q": "8. Regular respiration (switching between inspiration and expiration) is under ______ center control:",
+    "o": ["A. Ventral respiratory group (VRG)", "B. Pneumotaxic", "C. Apneustic", "D. Both apneustic and VRG"],
+    "a": "B"
+  },
+  {
+    "q": "9. The lowest pO2 is found in:",
+    "o": ["A. Atmospheric air", "B. Alveolar air", "C. Arterial blood", "D. Venous blood"],
+    "a": "D"
+  },
+  {
+    "q": "10. The partial pressure of oxygen in arterial blood is normally less than alveolar air because:",
+    "o": ["A. Arteries use some oxygen", "B. Blood rapidly passes through the pulmonary capillaries", "C. Arteries have smaller diameter than alveoli", "D. Arterial blood is mixed with blood coming from bronchial circulation"],
+    "a": "D"
+  },
+  {
+    "q": "11. The diffusing capacity of the respiratory membrane is:",
+    "o": ["A. 20 times greater for O2 than CO2", "B. Increases for O2 during exercise", "C. Increases in lung fibrosis", "D. Increases when there is fluid in lung interstitium"],
+    "a": "B"
+  },
+  {
+    "q": "12. When a person takes a very deep breath of air just prior to diving into the water, this volume of air is referred to as:",
+    "o": ["A. Tidal volume", "B. Vital capacity", "C. Residual volume", "D. Inspiratory reserve volume"],
+    "a": "B"
+  },
+  {
+    "q": "13. When you inhale, your lungs expand easily because they have:",
+    "o": ["A. Low compliance", "B. High compliance", "C. Low elasticity", "D. High elasticity"],
+    "a": "B"
+  },
+  {
+    "q": "14. Which of the following can be calculated if the vital capacity and expiratory reserve volume are known?",
+    "o": ["A. Residual volume", "B. Inspiratory capacity", "C. Functional residual capacity", "D. Total lung capacity"],
+    "a": "B"
+  },
+  {
+    "q": "15. Oxygen transported in blood as:",
+    "o": ["A. Physical form", "B. Chemical form", "C. A & B", "D. None of the above"],
+    "a": "C"
+  },
+  {
+    "q": "16. Regarding hypoxic hypoxia:",
+    "o": ["A. Reduce oxygen delivery to tissue", "B. High altitude", "C. Characterized by low PO2 and low % saturation", "D. All are true"],
+    "a": "D"
+  },
+  {
+    "q": "17. Regarding peripheral chemoreceptors:",
+    "o": ["A. Stimulated by acidosis and alkalosis", "B. Located at aortic and carotid bodies", "C. Stimulated by hypoxia and hypocapnia", "D. Located at the anterolateral surface of medulla oblongata"],
+    "a": "B"
+  },
+  {
+    "q": "18. The primary chemical stimulus for breathing is the concentration of:",
+    "o": ["A. Carbon monoxide in the blood", "B. Carbon dioxide in the blood", "C. Oxygen in the blood", "D. Carbonic acid in the blood"],
+    "a": "B"
+  },
+  {
+    "q": "1. When you inhale air, your lungs expand easily because they have:",
+    "o": ["A. Low compliance", "B. High compliance", "C. Low elasticity", "D. High elasticity"],
+    "a": "B"
+  },
+  {
+    "q": "2. Gas exchange in the lung depends on all of the following:",
+    "o": ["A. Pressure gradient", "B. Physical properties of lung membrane", "C. Surface area and thickness of the respiratory membrane", "D. All of the above"],
+    "a": "D"
+  },
+  {
+    "q": "3. Regarding Cyanosis all are true Except:",
+    "o": ["A. Bluish discoloration of the skin and mucous membrane", "B. Central as stagnant hypoxia", "C. Peripheral because of cold", "D. Caused by high altitude"],
+    "a": "B"
+  },
+  {
+    "q": "4. Expiratory muscles contract at the time of:",
+    "o": ["A. Deep inspiration", "B. Normal inspiration and expiration", "C. Forceful expiration", "D. All of the above"],
+    "a": "C"
+  },
+  {
+    "q": "5. In the process of transport of CO2 which phenomenon occurs between RBCs and plasma?",
+    "o": ["A. Osmosis", "B. Chloride shift", "C. Absorption", "D. Bohr effect"],
+    "a": "B"
+  },
+  {
+    "q": "6. The function of pleural fluid is:",
+    "o": ["A. To prevent over expansion of the lung during exercise", "B. To allow movement of the lung during inflation and deflation", "C. To increase the amount of oxygen that is absorbed from the environment", "D. A & B"],
+    "a": "B"
+  },
+  {
+    "q": "7. The disease that causes break down of the pulmonary alveoli, thus increasing the size of the air space and decreasing the surface area, is called:",
+    "o": ["A. Asthma", "B. Tuberculosis", "C. Emphysema", "D. None of the above"],
+    "a": "C"
+  },
+  {
+    "q": "8. When we inhale:",
+    "o": ["A. Alveolar pressure increases and intrapleural pressure decreases", "B. Alveolar pressure decreases and intrapleural pressure increases", "C. Both alveolar pressure and intrapleural pressure increase", "D. Both alveolar pressure and intrapleural pressure decrease"],
+    "a": "D"
+  },
+  {
+    "q": "9. Regarding the functional residual capacity (FRC), all statements below are false except:",
+    "o": ["A. FRC increases when lung elasticity increases", "B. FRC cannot be measured with simple spirometry", "C. FRC decreases with emphysema", "D. FRC is volume remaining in the lung after maximum expiration"],
+    "a": "B"
+  },
+  {
+    "q": "10. An increase in 2,3-diphosphoglycerate:",
+    "o": ["A. Shifts the hemoglobin-O2 dissociation curve to the same side as does acidosis", "B. Shifts hemoglobin-O2 dissociation curve the same side as hypothermia", "C. Reduces the P50 of hemoglobin", "D. A & B"],
+    "a": "A"
+  },
+  {
+    "q": "11. Surfactant:",
+    "o": ["A. Is produced by type I alveolar epithelial cells", "B. Production increases with age", "C. Increases lung compliance", "D. Is a glycoprotein"],
+    "a": "C"
+  },
+  {
+    "q": "12. In quiet breathing, expiration is:",
+    "o": ["A. Passive and due to elastic lung tissue alone", "B. Passive and both to surface tention and elastic tissue", "C. Passive and due to both surface tension and elastic tissue", "D. Active due to intercostal muscles", "E. All are incorrect"],
+    "a": "C"
+  },
+  {
+    "q": "13. Blood taken from the pulmonary artery is likely to have:",
+    "o": ["A. Higher hematocrit than arterial blood", "B. Higher pH than arterial blood", "C. PCO₂ of about 40 mm Hg", "D. None of the above"],
+    "a": "A"
+  },
+  {
+    "q": "14.The rhythmicity center:",
+    "o": ["A. Is located in the pons", "B. Activity causes expiration", "C. Is a ventral respiratory neuron", "D. Receives input from cranial nerves 9 and 10"],
+    "a": "D"
+  },
+  {
+    "q": "15.Hypoventilation may lead to:",
+    "o": ["A. Low plasma HCO₃", "B. Low PCO₂ in venous blood", "C. High PCO₂ in arterial blood", "D. Shift of the hemoglobin oxygen dissociation curve to the left"],
+    "a": "C"
+  },
+  {
+    "q": "22. When you inhale, your lungs expand easily because they have:",
+    "o": ["A. Low compliance", "B. High compliance", "C. Low elasticity", "D. High elasticity"],
+    "a": "B"
+  },
+  {
+    "q": "23. As blood passes through systemic capillaries, what happens to the affinity of hemoglobin for oxygen and what happens to the Hb–O₂ dissociation curve?",
+    "o": ["A. Hb affinity for O₂ increases and the dissociation curve shifts to the left", "B. Hb affinity for O₂ increases and the dissociation curve shifts to the right", "C. Hb affinity for O₂ decreases and the dissociation curve shifts to the left", "D. Hb affinity for O₂ decreases and the dissociation curve shifts to the right"],
+    "a": "D"
+  },
+  {
+    "q": "24. In emphysema, which of these occur?",
+    "o": ["A. Alveolar rupture", "B. Compliance increases", "C. Elevated PCO₂ in the blood", "D. All of above"],
+    "a": "D"
+  },
+  {
+    "q": "25. CO₂ transport in blood:",
+    "o": ["A. Is in RBCs", "B. Can increase the amount of bicarbonate ion in plasma", "C. Can convert carbon dioxide into carbonic acid", "D. All of these"],
+    "a": "D"
+  },
+  {
+    "q": "1. The surfactant material lining the lung alveoli:",
+    "o": ["A. Increases surface tension of the alveolar fluid", "B. Decreases the work of breathing", "C. Prevents alveolar collapse during expiration", "D. B & C are correct"],
+    "a": "D"
+  },
+  {
+    "q": "2. What happens when perfusion to an alveolus is reduced relative to ventilation:",
+    "o": ["A. PO₂ falls in alveolus & PCO₂ rises", "B. PO₂ & CO₂ in the alveolus rises", "C. PO₂ & CO₂ in the alveolus falls", "D. PO₂ rises in the alveolus & PCO₂ falls"],
+    "a": "D"
+  },
+  {
+    "q": "3. Concerning dead space, which is true:",
+    "o": ["A. It is not present in normal people", "B. Normal value is 150 ml", "C. No gas exchange in dead space", "D. B & C"],
+    "a": "D"
+  },
+  {
+    "q": "4. Regarding respiratory muscles, which of the following statements is true:",
+    "o": ["A. Diaphragm & internal intercostal muscles are involved during forced inspiration", "B. External intercostal muscles are involved during expiration", "C. Abdominal muscles are involved during forced expiration", "D. None of the above is correct"],
+    "a": "C"
+  },
+  {
+    "q": "5. Most of CO₂ is transported in the blood as:",
+    "o": ["A. Carbamino compound", "B. CO₂ dissolved in plasma", "C. Bicarbonate", "D. Carbonic acid"],
+    "a": "C"
+  },
+  {
+    "q": "6. When compared to alveolar air, the expired air has:",
+    "o": ["A. Less water vapour", "B. Less O₂", "C. Less CO₂", "D. More O₂ & CO₂"],
+    "a": "C"
+  },
+  {
+    "q": "7. Concerning peripheral chemoreceptors:",
+    "o": ["A. Stimulated only by PCO₂", "B. Stimulated mainly by PCO₂", "C. Is not affected by O₂ tension", "D. None of the above is true"],
+    "a": "D"
+  },
+  {
+    "q": "8. Regarding oxyhemoglobin dissociation curve, which is not true:",
+    "o": ["A. It describes the affinity of Hb to O₂ at different PO₂ tension", "B. It is sigmoidal in shape", "C. Decreases in PCO₂ in blood shifts the curve to the right", "D. A & C"],
+    "a": "C"
+  },
+  {
+    "q": "9. In stagnant hypoxia:",
+    "o": ["A. The arterial PO₂ decreases", "B. The arterial oxygen content is decreased", "C. Oxygen % saturation of arterial blood is normal", "D. A & B are correct"],
+    "a": "C"
+  },
+  {
+    "q": "10. Diffusion of gases across the respiratory membrane increases if:",
+    "o": ["A. The pressure difference increases", "B. The thickness of the membrane increases", "C. The pressure difference decreases", "D. Area available for diffusion decreases"],
+    "a": "A"
+  },
+  {
+    "q": "11. Expiration during rest occurs when:",
+    "o": ["A. The diaphragm contracts", "B. The pressure inside the alveoli becomes less than atmospheric pressure", "C. The intrapleural pressure decreases (becomes more negative)", "D. The diaphragm relaxes"],
+    "a": "D"
+  },
+  {
+    "q": "12. Concerning intrapleural pressure, during rest:",
+    "o": ["A. Is higher than the atmospheric pressure", "B. It is positive", "C. It is lower than atmospheric pressure", "D. A & C"],
+    "a": "C"
+  },
+  {
+    "q": "13. Which of the following is the primary regulating factor of the central chemoreceptors:",
+    "o": ["A. Blood PO₂", "B. Blood PCO₂", "C. Blood concentration of H⁺", "D. Hemoglobin content"],
+    "a": "B"
+  },
+  {
+    "q": "14. Severe decrease in blood flow to the tissue may cause:",
+    "o": ["A. Histotoxic hypoxia", "B. Hypoxic hypoxia", "C. Stagnant hypoxia", "D. Anaemic hypoxia"],
+    "a": "C"
+  },
+  {
+    "q": "15. The oxyhemoglobin dissociation curve is shifted to the right by:",
+    "o": ["A. Decrease in pH", "B. Decrease in PCO₂", "C. Increase in pH", "D. Decrease in DPG"],
+    "a": "A"
+  },
+  {
+    "q": "16. Voluntary act of respiration is from:",
+    "o": ["A. Cerebral cortex", "B. Hypothalamus", "C. Lung", "D. Apneustic center"],
+    "a": "A"
+  },
+  {
+    "q": "17. Regarding medullary respiratory center:",
+    "o": ["A. During quiet breathing, the dorsal respiratory group generates inspiratory ramp", "B. The ventral respiratory group is activated during normal expiration", "C. The expiratory center is located in the dorsal part of the medulla", "D. None of the above is correct"],
+    "a": "A"
+  },
+  {
+    "q": "2. It is correct to say:",
+    "o": ["A. Pulmonary ventilation is greater than alveolar ventilation", "B. O₂ is carried mainly as gas dissolved in the blood", "C. O₂ content of arterial blood is the same as that of venous blood", "D. Hemoglobin has greater affinity for O₂ than CO"],
+    "a": "A"
+  },
+  {
+    "q": "3. Arterial PCO₂ is increased in normal individual during:",
+    "o": ["A. Exercise", "B. Ascending a mountain", "C. Hypoventilation", "D. None of the above is correct"],
+    "a": "C"
+  },
+  {
+    "q": "4. Anaemic hypoxia occurs in all of the following EXCEPT:",
+    "o": ["A. Anaemia", "B. Blood loss", "C. CO poisoning", "D. Polycythaemia"],
+    "a": "D"
+  },
+  {
+    "q": "5. Peripheral chemoreceptors respond mainly to:",
+    "o": ["A. Hypoxia", "B. Hyperventilation", "C. Alkalosis", "D. Hypothermia"],
+    "a": "A"
+  },
+  {
+    "q": "6. Most of CO₂ is transported in the blood as:",
+    "o": ["A. Bicarbonate", "B. CO₂ dissolved in plasma", "C. Carbamino compound", "D. Carbonic acid"],
+    "a": "A"
+  },
+  {
+    "q": "7. Chloride shift phenomena:",
+    "o": ["A. It occurs when O₂ enters the blood from alveoli", "B. It decreases osmotic pressure inside RBCs", "C. It increases the hematocrit value of venous blood", "D. None of the above is correct"],
+    "a": "C"
+  },
+  {
+    "q": "8. Which of the following conditions increases the delivery of O₂ to tissues:",
+    "o": ["A. Decreased PCO₂", "B. Increased H⁺ concentration", "C. Decreased temperature", "D. All of the above is correct"],
+    "a": "B"
+  },
+  {
+    "q": "9. Protects the lungs from damage by over-inflation:",
+    "o": ["A. Pulmonary compliance", "B. Airway resistance", "C. Hering–Breuer inflation reflex", "D. Pneumotaxic centre"],
+    "a": "C"
+  },
+  {
+    "q": "10. Regarding control of ventilation:",
+    "o": ["A. The apneustic centre lies in the medulla", "B. The central chemoreceptors respond to changes in oxygen concentration", "C. The chemoreceptors in the aortic body respond to a fall in arterial PO₂", "D. Peripheral chemoreceptors respond to decreases in arterial PO₂"],
+    "a": "D"
+  },
+  {
+    "q": "11. Stagnant hypoxia is caused by:",
+    "o": ["A. Decrease in blood flow", "B. Increase in blood flow", "C. Anaemia", "D. Ascending to high altitude"],
+    "a": "A"
+  },
+  {
+    "q": "12. Carbon dioxide is not carried in blood as:",
+    "o": ["A. Bicarbonate", "B. Carboxyhemoglobin (Hb + CO₂)", "C. Carbonic acid", "D. Carbamino compound"],
+    "a": "B"
+  },
+  {
+    "q": "13. Concerning the composition of air:",
+    "o": ["A. Atmospheric air has more CO₂ than alveolar air", "B. Expired air has less CO₂ than alveolar air", "C. Alveolar air has more O₂ than inspired air", "D. Alveolar air has less CO₂ than atmospheric air"],
+    "a": "B"
+  },
+  {
+    "q": "14. Regarding oxyhemoglobin dissociation curve, which is not true:",
+    "o": ["A. It is sigmoidal in shape", "B. It is shifted to the right by acidosis", "C. It is shifted to the right by increased temperature", "D. The left shift of the curve means decreased affinity of Hb for O₂"],
+    "a": "D"
+  },
+  {
+    "q": "15. The oxyhemoglobin dissociation curve is shifted to the left by an increase in:",
+    "o": ["A. H⁺ concentration", "B. DPG", "C. PCO₂", "D. Ph"],
+    "a": "D"
+  },
+  {
+    "q": "16. Surfactant:",
+    "o": ["A. Is produced by type I alveolar epithelial cells", "B. Production increases with age", "C. Increases lung compliance", "D. Mainly composed of glycoprotein"],
+    "a": "C"
+  },
+  {
+    "q": "17. When we inhale:",
+    "o": ["A. Alveolar pressure increases and intrapleural pressure decreases", "B. Alveolar pressure decreases and intrapleural pressure increases", "C. Both alveolar pressure and intrapleural pressure increase", "D. Both alveolar pressure and intrapleural pressure decrease"],
+    "a": "D"
+  },
+  {
+    "q": "1. The main muscle responsible for pulmonary ventilation is:",
+    "o": ["A. The abdominals", "B. The external intercostals", "C. The diaphragm"],
+    "a": "C"
+  },
+  {
+    "q": "2. If an area of the lung is not ventilated because of bronchial obstruction, the pulmonary capillary blood serving that area will have a PO2 that is:",
+    "o": ["A. equal to atmospheric PO2", "B. equal to normal PO2", "C. higher than inspired PO2", "D. lower than normal"],
+    "a": "D"
+  },
+  {
+    "q": "3. Chloride shift shows all of the following EXCEPT:",
+    "o": ["A. Occurs in the white blood cells", "B. Occurs to maintain ionic equilibrium", "C. Rises chloride level in the RBC", "D. Necessary for CO2 transport"],
+    "a": "A"
+  },
+  {
+    "q": "4. In the hemoglobin-O2 dissociation curve, a shift to the RIGHT could be caused by:",
+    "o": ["A. Decreased pH", "B. Decreased 2,3-DPG concentration", "C. Alkalosis", "D. CO poisoning"],
+    "a": "A"
+  },
+  {
+    "q": "5. During expiration, the volume of the thorax:",
+    "o": ["A. Decreases, contracts", "B. Decreases, relaxes", "C. Increases, contracts", "D. Increases, relaxes"],
+    "a": "B"
+  },
+  {
+    "q": "6. Which of these conditions causes a decreased rate of diffusion through the respiratory membrane?",
+    "o": ["A. Increased fluid in the lungs", "B. Decreased respiratory surface area", "C. Decreased partial pressure gradient", "D. All of these"],
+    "a": "D"
+  },
+  {
+    "q": "7. The dorsal and ventral respiratory groups make up the respiratory center and are located in the:",
+    "o": ["A. Pons", "B. Medulla oblongata", "C. Mesencephalon", "D. Hypothalamus"],
+    "a": "B"
+  },
+  {
+    "q": "8. Carbon dioxide has a solubility coefficient 24 times higher than oxygen. This means that carbon dioxide:",
+    "o": ["A. Has a partial pressure that is 24 times higher than oxygen", "B. Diffuses 24 times faster in air than oxygen", "C. Is 24 times more soluble in water than oxygen", "D. All are correct"],
+    "a": "C"
+  },
+  {
+    "q": "9. In stagnant hypoxia:",
+    "o": ["A. The arterial PO2 decreased", "B. The arterial oxygen content is decreased", "C. The oxygen saturation of arterial blood is normal", "D. A & B"],
+    "a": "C"
+  },
+  {
+    "q": "10. Regarding oxyhemoglobin dissociation curve, which is not true:",
+    "o": ["A. It describes the affinity of Hb to O2 at different PO2 tension", "B. It is studying the relation between PO2 and O2 saturation", "C. It is sigmoidal shaped", "D. Decreases in PCO2 in blood shifts the curve to the right"],
+    "a": "D"
+  },
+  {
+    "q": "11. Concerning peripheral chemoreceptors:",
+    "o": ["A. Stimulated only by PCO2", "B. Stimulated mainly by PCO2", "C. Is not affected by O2 tension", "D. None of the above is true"],
+    "a": "D"
+  },
+  {
+    "q": "12. Concerning intrapleural pressure, during rest:",
+    "o": ["A. Is higher than the atmospheric pressure", "B. It is positive", "C. It is lower than atmospheric pressure", "D. A & C"],
+    "a": "C"
+  },
+  {
+    "q": "13. When compared to alveolar air, the expired air has:",
+    "o": ["A. Less water vapour", "B. Less O2", "C. Less CO2", "D. More O2 & CO2"],
+    "a": "C"
+  },
+  {
+    "q": "14. Regarding respiratory muscles, which of the following statements is true:",
+    "o": ["A. Diaphragm & internal intercostal muscles are involved during forced inspiration", "B. External intercostal muscles are involved during expiration", "C. Abdominal muscles are involved during forced expiration", "D. None of the above is correct"],
+    "a": "C"
+  },
+  {
+    "q": "15. Concerning dead space, which is true:",
+    "o": ["A. It is not present in normal people", "B. Normal value is 150 ml", "C. No gas exchange in dead space", "D. B & C"],
+    "a": "D"
+  },
+  {
+    "q": "16. The surfactant material lining the lung alveoli:",
+    "o": ["A. Increases surface tension of the alveolar fluid", "B. Decreases the work of breathing", "C. Prevents alveolar collapse during expiration", "D. B & C are correct"],
+    "a": "D"
+  },
+  {
+    "q": "17. What happens when perfusion to an alveolus is reduced relative to ventilation:",
+    "o": ["A. PO2 falls in alveolus & PCO2 rises", "B. PO2 & CO2 in the alveolus rises", "C. PO2 & CO2 in the alveolus falls", "D. PO2 rises in the alveolus & PCO2 falls"],
+    "a": "D"
+  },
+  {
+    "q": "18. Expiration during rest occurs when:",
+    "o": ["A. The diaphragm contracts", "B. The pressure inside the alveoli becomes less than atmospheric pressure", "C. The intrapleural pressure decreases (becomes more negative)", "D. The diaphragm relaxes"],
+    "a": "D"
+  },
+  {
+    "q": "1. What is one of the purposes of the fluid in the pleural cavity?",
+    "o": ["A. Lubricate the pleural surfaces to allow them to glide painlessly during lung expansion and contraction", "B. Warm and moisten lung tissue", "C. Prevent bacteria from entering lung tissue", "D. Assist in the diffusion of oxygen across the respiratory membrane"],
+    "a": "A"
+  },
+  {
+    "q": "2. What is the purpose of surfactant?",
+    "o": ["A. Prevent diffusion of oxygen across the respiratory membrane", "B. Transport oxygen to the alveoli", "C. Purify the air entering the respiratory tract", "D. Keep alveoli from collapsing"],
+    "a": "D"
+  },
+  {
+    "q": "3. The primary way oxygen is transported in the blood is:",
+    "o": ["A. In the form of bicarbonate", "B. In the form of carbaminohemoglobin", "C. In the form of oxyhemoglobin", "D. Dissolved in plasma"],
+    "a": "C"
+  },
+  {
+    "q": "4. Compared with the apex of the lung, the BASE of the lung has:",
+    "o": ["A. A higher pulmonary capillary PO2", "B. A higher pulmonary capillary PCO2", "C. A higher ventilation/perfusion (V/Q) ratio", "D. The same V/Q ratio"],
+    "a": "B"
+  },
+  {
+    "q": "5. In the transport of CO2 from the tissues to the lungs, which of the following occurs in venous blood?",
+    "o": ["A. Conversion of CO2 and H2O to H2CO3 and HCO3⁻ in the red blood cells (RBCs)", "B. Shifting of HCO3⁻ into the RBCs from plasma in exchange for Cl⁻", "C. Binding of HCO3⁻ to hemoglobin", "D. Alkalinization of the RBCs"],
+    "a": "A"
+  },
+  {
+    "q": "6. The affinity of hemoglobin for oxygen is increased if there is an increase in:",
+    "o": ["A. pH", "B. Temperature", "C. 2,3-DPG", "D. PCO2"],
+    "a": "A"
+  },
+  {
+    "q": "7. During inspiration, the vertical dimension of the thoracic cavity is increased due to contraction of:",
+    "o": ["A. Diaphragm", "B. Scalene", "C. Serratus anterior", "D. Sternocleidomastoid"],
+    "a": "A"
+  },
+  {
+    "q": "8. The rate of diffusion of gases through the respiratory membrane is inversely proportional to:",
+    "o": ["A. Pressure gradient across the respiratory membrane", "B. Surface area of the respiratory membrane", "C. Solubility of the gas", "D. Thickness of the respiratory membrane"],
+    "a": "D"
+  },
+  {
+    "q": "9. What happens when the V/Q of a lung unit decreases? The alveoli in that unit develop a:",
+    "o": ["A. Higher PO2", "B. Lower PO2 and a lower PCO2", "C. Higher PO2 and a lower PCO2", "D. Lower PO2 and a higher PCO2"],
+    "a": "D"
+  },
+  {
+    "q": "10. The P50 is:",
+    "o": ["A. The arterial oxygen tension when hemoglobin is 50% saturated", "B. An indicator of the position of the oxygen dissociation curve", "C. The hemoglobin concentration in the blood", "D. A and B are correct"],
+    "a": "D"
+  },
+  {
+    "q": "11. Regarding chemoreceptors in the arterial system:",
+    "o": ["A. They are central chemoreceptors", "B. Respond mainly to changes in oxygen", "C. Respond mainly to changes in pH", "D. B and C are correct"],
+    "a": "D"
+  },
+  {
+    "q": "12. In a healthy individual breathing normally, which of the following pressures is positive with reference to atmospheric pressure?",
+    "o": ["A. Alveolar pressure during inspiration", "B. Alveolar pressure during expiration", "C. Intrapleural pressure during inspiration", "D. Intrapleural pressure during expiration"],
+    "a": "B"
+  },
+  {
+    "q": "13. CO2 is normally transported in the blood:",
+    "o": ["A. As bicarbonate", "B. Bound to hemoglobin", "C. As dissolved CO2", "D. In combination with plasma proteins"],
+    "a": "A"
+  },
+  {
+    "q": "14. Intrapleural pressure is normally negative because:",
+    "o": ["A. Intrapulmonary pressure is always negative", "B. Chest wall and lungs recoil in opposite directions at functional residual capacity", "C. Surfactant prevents lung collapse", "D. Transpulmonary pressure determines the negativity"],
+    "a": "B"
+  },
+  {
+    "q": "15. Which of the following conditions leads to histotoxic hypoxia?",
+    "o": ["A. Long distance between blood and cells", "B. Edema", "C. Cyanide poisoning", "D. All are true"],
+    "a": "C"
+  },
+  {
+    "q": "16. During inspiration, how does alveolar pressure compare to atmospheric pressure?",
+    "o": ["A. Alveolar pressure is greater than atmospheric", "B. Alveolar pressure is less than atmospheric", "C. Alveolar pressure is the same as atmospheric", "D. Alveolar pressure is one of the few pressures where the reference pressure is not atmospheric"],
+    "a": "B"
+  },
+  {
+    "q": "17. Oxygen and carbon dioxide move through the respiratory membrane and into and out of cells by the process of:",
+    "o": ["A. Active transport", "B. Cotransport", "C. Simple diffusion", "D. Facilitated diffusion"],
+    "a": "C"
+  },
+  {
+    "q": "18. A decrease in oxygen in the tissues below normal levels is called:",
+    "o": ["A. Anoxia", "B. Hypoxia", "C. Hypercapnia", "D. Hypocapnia"],
+    "a": "B"
+  }
+]
+
+

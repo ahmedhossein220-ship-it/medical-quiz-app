@@ -1,0 +1,498 @@
+[
+  {
+    "q": "1. Hemophilia is one of bleeding disorders that can be caused by all of the following EXCEPT:",
+    "o": ["A. 83% of cases of hemophilia caused by factor VIII deficiency", "B. Excessive body fluid loss", "C. Vitamin K deficiency", "D. Inability of liver to form various clotting factors"],
+    "a": "B"
+  },
+  {
+    "q": "2. Absorption of vitamin B12 requires:",
+    "o": ["A. Gastric HCl", "B. Vitamin C", "C. Intrinsic factor", "D. Erythropoietin"],
+    "a": "C"
+  },
+  {
+    "q": "3. Red cell shape and size in aplastic anemia is described as:",
+    "o": ["A. Macrocytic normochromic", "B. Microcytic hypochromic", "C. Normocytic normochromic", "D. Megaloblastic"],
+    "a": "C"
+  },
+  {
+    "q": "4. Polycythemia can be caused by:",
+    "o": ["A. Leukemia", "B. Fluid loss", "C. Hemolytic anemia", "D. Iron deficiency"],
+    "a": "B"
+  },
+  {
+    "q": "5. Regarding erythropoiesis, all are correct EXCEPT:",
+    "o": ["A. It is the formation of new erythrocytes", "B. After birth, erythropoiesis occurs in red bone marrow of all bones; after age of 20 it occurs in membranous bones only", "C. In the red bone marrow and under stimulation of erythropoietin, multipotential stem cells divide and develop to form erythrocytes", "D. Any condition causing hypoxia increases erythropoietin production and erythrocyte formation"],
+    "a": "B"
+  },
+  {
+    "q": "6. All the following are characteristics of neutrophils, EXCEPT:",
+    "o": ["A. Phagocytose bacteria", "B. Perform intracellular killing", "C. Increased in parasitic infection", "D. Amieboid movement"],
+    "a": "C"
+  },
+  {
+    "q": "7. B-lymphocytes destroy foreign antigens by all the following mechanisms EXCEPT:",
+    "o": ["A. Production of antibodies", "B. Phagocytosis", "C. Stimulation of complement system", "D. Agglutination of antigen"],
+    "a": "B"
+  },
+  {
+    "q": "8. The least abundant leukocytes in the blood and containing histamine and heparin-containing granules are:",
+    "o": ["A. Basophils", "B. Eosinophils", "C. Monocytes", "D. Neutrophils"],
+    "a": "A"
+  },
+  {
+    "q": "9. The clotting cascade:",
+    "o": ["A. Is inhibited in people with hemophilia", "B. Can be triggered by the intrinsic pathway when factor XII comes in contact with exposed collagen in an injured vessel", "C. Ends with fibrinogen being converted to fibrin", "D. All of the above"],
+    "a": "D"
+  },
+  {
+    "q": "10. Antigen-presenting cells (APCs) include all of the following EXCEPT:",
+    "o": ["A. Dendritic cells in lymph nodes and spleen", "B. T-lymphocytes", "C. Macrophages", "D. Langerhans cells in the skin"],
+    "a": "B"
+  },
+  {
+    "q": "11. Regarding the types of antibodies, all are true EXCEPT:",
+    "o": ["A. IgG has the highest concentration in plasma and can cross the placenta", "B. IgM is produced in large amounts in primary response and cannot cross the placenta", "C. IgD is the main antibody in secretions such as breast milk and plays a role in first-line defense", "D. IgE is important in parasitic infections and allergic responses"],
+    "a": "C"
+  },
+  {
+    "q": "1. The antidote of Dicumarol:",
+    "o": ["A. Vitamin K", "B. Blood transfusion", "C. Protamine sulfate", "D. HCl"],
+    "a": "A"
+  },
+  {
+    "q": "2. All the following regarding erythropoietin are true except;",
+    "o": ["A. Hypoxia is the main stimulus", "B. It is a peptide hormone", "C. Adenosine facilitates the secretion", "D. In adults it is developed in kidney"],
+    "a": "C"
+  },
+  {
+    "q": "3. What is the term for adhesion of an invading microbe with IgG and complement to facilitate recognition;",
+    "o": ["A. Chemotaxis", "B. Opsonization", "C. Phagocytosis", "D. Engulfment"],
+    "a": "B"
+  },
+  {
+    "q": "4. A 45-year-old male presents to the emergency room with 2-week history of diarrhea. Stool specimen is positive for parasitic egg. Which type of WBCs is elevated;",
+    "o": ["A. Eosinophils", "B. Neutrophils", "C. Lymphocytes", "D. Monocytes"],
+    "a": "A"
+  },
+  {
+    "q": "5. Plasma proteins are important in;",
+    "o": ["A. Acid–base balance", "B. Body weight", "C. Blood glucose level", "D. Basal metabolic rate"],
+    "a": "A"
+  },
+  {
+    "q": "6. Iron is necessary in the diet because it is involved with;",
+    "o": ["A. Prevention of hemolysis", "B. Treatment of microcytic hypochromic anemia", "C. Prevention of sickle cell anemia", "D. Treatment of pernicious anemia"],
+    "a": "B"
+  },
+  {
+    "q": "7. Erythroblastosis fetalis;",
+    "o": ["A. Affects mainly Rh-positive mother", "B. Affects mainly Rh-negative babies", "C. Occurs if the father blood group is AB-negative", "D. Can be prevented by injecting the mother with anti-Rh agglutinins"],
+    "a": "D"
+  },
+  {
+    "q": "8. Microcytic hypochromic anemia is characterized by;",
+    "o": ["A. Is caused by folic acid deficiency", "B. Normal hemoglobin content in each red cell", "C. Normal size red cell", "D. Is due to chronic gum bleeding"],
+    "a": "D"
+  },
+  {
+    "q": "9. All the following cause anemia except;",
+    "o": ["A. Erythroblastosis fetalis", "B. Vitamin B12 deficiency", "C. Living in high altitude", "D. Renal failure"],
+    "a": "C"
+  },
+  {
+    "q": "10. The following is true about blood group O negative;",
+    "o": ["A. Plasma contains anti A agglutinins only", "B. Will agglutinate RBCs from blood group O donor", "C. Erythrocyte contains A and B antigens", "D. Can be given to all other blood groups"],
+    "a": "D"
+  },
+  {
+    "q": "11. In myocardial infarction there is:",
+    "o": ["A. Increase in leucocyte", "B. Decrease in leukocyte", "C. Leukopenia", "D. Lymphocytosis"],
+    "a": "A"
+  },
+  {
+    "q": "12. Platelets release reaction step is dependent on:",
+    "o": ["A. von Willebrand factor", "B. ADP", "C. TxA2", "D. Ca++"],
+    "a": "D"
+  },
+  {
+    "q": "1. The buffering power of HB is more than plasma proteins because of;",
+    "o": ["A. Weak-base", "B. Weak-acid", "C. Histidin-residues", "D. Carbamino-HB"],
+    "a": "C"
+  },
+  {
+    "q": "2. Erythropiosis;",
+    "o": ["A. After birth, the erythropoiesis is restricted to membranous bone.", "B. Stimulated by O2 demand.", "C. Stimulated by trypsin", "D. Occurs in spleen."],
+    "a": "B"
+  },
+  {
+    "q": "3. Regarding iron;",
+    "o": ["A. The transport of Fe++ occur via brush membrane.", "B. Most iron absorbed in ferric state.", "C. Iron overload cause anemia.", "D. Transport protein called DMTII."],
+    "a": "A"
+  },
+  {
+    "q": "4. It is measure HB in 100 ml of P.V.C;",
+    "o": ["A. MCH", "B. MCHC", "C. MCV", "D. C.R.P"],
+    "a": "B"
+  },
+  {
+    "q": "5. The ankylostoms infestation can cause;",
+    "o": ["A. Microcytic-hypochromic anemia.", "B. Normocytic-normochromic anemia.", "C. Macrocytic-anemia.", "D. Megaloblastic-anemia."],
+    "a": "A"
+  },
+  {
+    "q": "6. ALL of the following are true regarding pernicious anemia except;",
+    "o": ["A. C.N.S manifestation", "B. Immune reaction", "C. Folic acid deficiency", "D. Gastrectomy."],
+    "a": "C"
+  },
+  {
+    "q": "7. In hemostasis the dissolution of the clot occurs through action of;",
+    "o": ["A. Plasmin", "B. Vasoconstriction", "C. Fibrinogen", "D. Fibrin threads."],
+    "a": "A"
+  },
+  {
+    "q": "8. The platelet reaction in hemostasis in sequences are;",
+    "o": ["A. Platelet adhesion-activation-release reaction-aggregation.", "B. Platelet fusion-procoagulation-adhesion-activation.", "C. Platelet adhesion-fusion-aggregation-activation.", "D. Platelet procoagulation-fusion-aggregation-reaction."],
+    "a": "A"
+  },
+  {
+    "q": "9. The platelet release reaction all the following are true except;",
+    "o": ["A. It is Ca++ depended step.", "B. Blood vessel vasoconstriction", "C. Thromboxane A2 is activator of adenyl cyclase", "D. Thromboxane A2 is released."],
+    "a": "C"
+  },
+  {
+    "q": "10. An 11-year premenstrual female presents with a painful knee after mild trauma upon further evaluation observe soft tissues bruises. The PTT is prolonged and the PT is normal; Complete hematologic workup would yield;",
+    "o": ["A. Decrease plasma Ca++", "B. Elevated plasmin", "C. Decrease factor VII", "D. Decrease factor VIII"],
+    "a": "D"
+  },
+  {
+    "q": "11. The coagulation pathway that begins with tissue thromboplastin;",
+    "o": ["A. Extrinsic pathway", "B. Intrinsic pathway", "C. Common pathway", "D. Fibrin stabilizer"],
+    "a": "A"
+  },
+  {
+    "q": "12. Why do some malnourished patients bleed excessively when injured;",
+    "o": ["A. Vitamin K deficiency", "B. Platelet deficiency", "C. Factor XIII problem", "D. Heart disease"],
+    "a": "A"
+  },
+  {
+    "q": "13. Conditions with both excessive bleeding and intravascular clotting are;",
+    "o": ["A. Thrombocytopenic purpura", "B. Sickle cell anemia", "C. Hemophilia", "D. DIC"],
+    "a": "D"
+  },
+  {
+    "q": "14. The Immunoglobulin G and complement proteins coat bacteria to make them tasty to phagocyte are;",
+    "o": ["A. Chemotaxis", "B. Amoebesis", "C. Opsonization", "D. Phagocytosis"],
+    "a": "C"
+  },
+  {
+    "q": "15. 52 years male come to medical O.P.D complaining of sever epigastric pain and vomiting with severe chest pain and diagnosed as MI what can explained to see in own C.B.C;",
+    "o": ["A. Neutropenia", "B. Leukocytosis", "C. Low HB", "D. Lymphocytosis"],
+    "a": "B"
+  },
+  {
+    "q": "16. The clotting factor XIII is a;",
+    "o": ["A. Hageman factor", "B. Fitzgerald factor", "C. Fibrin stabilizing factor", "D. Fletcher factor"],
+    "a": "C"
+  },
+  {
+    "q": "17. On 2nd exposure of same AG;",
+    "o": ["A. The antibody involved are IgM", "B. The antibody concentration is much lower than 1st exposure", "C. The antibodies started to appear after 1 week", "D. It is rapid and strong"],
+    "a": "D"
+  },
+  {
+    "q": "1. A 17-year-old girl complains of fatigue. She recently began to feel her heart beating in her chest. Examination showed pale mucosal membranes. Peripheral blood smear shows hypochromic, microcytic red blood cells. Which of the following is the most likely diagnosis?",
+    "o": ["A. Folate deficiency", "B. Hereditary spherocytosis", "C. Iron deficiency anemia", "D. Sickle cell anemia"],
+    "a": "C"
+  },
+  {
+    "q": "2. CD4 is marker of:",
+    "o": ["A. B cells", "B. Cytotoxic cells", "C. Helper T cells", "D. Macrophage"],
+    "a": "C"
+  },
+  {
+    "q": "3. Fluid exudation into the tissue in the acute inflammatory response;",
+    "o": ["A. Decreased protein in the interstitium", "B. Lymph node obstruction", "C. Increased clotting factor", "D. Increased vascular permeability"],
+    "a": "D"
+  },
+  {
+    "q": "4. A teenage boy with numerous nosebleeds was referred to a physician for evaluation prior to a minor surgery. His PT was 11 seconds, partial PTT was 45 seconds and bleeding time was 6.5 min. Which of the following is mostly abnormal in this young man;",
+    "o": ["A. Decrease platelet number", "B. Intrinsic pathway", "C. Extrinsic pathway", "D. Clotting factor deficiency"],
+    "a": "B"
+  },
+  {
+    "q": "5. Which one of the following is associated with pernicious anemia?",
+    "o": ["A. Ileal resection", "B. Thyroid antibodies in serum", "C. Pregnancy", "D. Malabsorption of B12-intrinsic factor complex"],
+    "a": "D"
+  },
+  {
+    "q": "6. What will occur following presentation of antigen by a macrophage;",
+    "o": ["A. Activation of helper T cell", "B. Increase in phagocytosis", "C. Direct antibody generation", "D. Activation of cytotoxic cells"],
+    "a": "A"
+  },
+  {
+    "q": "7. Presentation of antigen on MHC-I by a cell will result in;",
+    "o": ["A. Antibody generation", "B. Activation of cytotoxic cell", "C. Phagocytosis", "D. Histamine release"],
+    "a": "B"
+  },
+  {
+    "q": "8. All of the following are indication for blood transfusion except;",
+    "o": ["A. Circulatory shock", "B. Severe leukopenia", "C. Hemophilia", "D. Pregnancy"],
+    "a": "D"
+  },
+  {
+    "q": "9. The blockage of renal tubules in transfusion incompatibility due to;",
+    "o": ["A. WBCs", "B. Platelets", "C. Free HB", "D. Heparin"],
+    "a": "C"
+  },
+  {
+    "q": "10. The prevention of erythroblastosis fetalis by administration of anti-Rh antibodies after labor is an example for;",
+    "o": ["A. Active immunization", "B. Passive immunization", "C. Innate immunity", "D. Mechanical barrier"],
+    "a": "B"
+  },
+  {
+    "q": "11. Idiopathic thrombocytopenic purpura;",
+    "o": ["A. Normal platelet number", "B. Bleeding in small vessels", "C. Short bleeding time", "D. Treated by heparin"],
+    "a": "B"
+  },
+  {
+    "q": "12. All of the are plasminogen activators except:",
+    "o": ["A. Thrombin", "B. Activated factors XI and XII", "C. Activated Factor X", "D. Factor from damaged tissues"],
+    "a": "C"
+  },
+  {
+    "q": "13. Protein C it is protein produced by liver it inhibit the activity of:",
+    "o": ["A. Factor X", "B. Factor thrombin", "C. Factor IX, X", "D. Factor V, VIII"],
+    "a": "D"
+  },
+  {
+    "q": "14. All of the following are character of systemic anti-coagulant except:",
+    "o": ["A. Acts in vivo", "B. It is action lasts 3-4 hours", "C. It is animal origin", "D. Acts by combining with anti-thrombin III"],
+    "a": "B"
+  },
+  {
+    "q": "1. A 32-year-old African American man comes to the emergency room 3 hours after the onset of severe back and chest pain which started when he was climbing up a mountain. He had an episode of same symptoms five years ago. His values are Hb: 11 g/dL, TLC: 12,000/mm³, Reticulocyte count: 25%. What is the diagnosis of this patient?",
+    "o": ["A. Acute blood loss", "B. Sickle cell anemia", "C. Anemia of chronic disease", "D. Thalassemia"],
+    "a": "B"
+  },
+  {
+    "q": "2. Which characteristic best describes the inflammatory response?",
+    "o": ["A. Specific response to organism", "B. Initiated by certain type of injury", "C. Hormone-mediated", "D. Regulated by chemical mediators"],
+    "a": "D"
+  },
+  {
+    "q": "3. The activation of complement induces all of the following except:",
+    "o": ["A. Coagulation", "B. Opsonization", "C. Chemotaxis", "D. Cell lysis"],
+    "a": "A"
+  },
+  {
+    "q": "4. The synthesis and release of erythropoietin is increased in a person who goes to live at high altitude because:",
+    "o": ["A. Cardiac output is increased", "B. Hematocrit is increased", "C. Partial pressure of oxygen is less", "D. Alveolar ventilation rate is increased"],
+    "a": "C"
+  },
+  {
+    "q": "5. The following is not correct regarding Carboxy-hemoglobin (HbCO):",
+    "o": ["A. Hb reacts with carbon monoxide to form carboxy hemoglobin", "B. The affinity of Hb to CO is less than its affinity to oxygen", "C. CO competes with oxygen for Hb binding", "D. RBCs become sickled shape and break down prematurely"],
+    "a": "B"
+  },
+  {
+    "q": "6. Six years old boy bruises easily and has previous bleeding gums, the maternal grandfather also has bleeding disorder, you expect the deficiency of:",
+    "o": ["A. Prothrombin activator", "B. Factor II", "C. Factor VIII", "D. Factor X"],
+    "a": "C"
+  },
+  {
+    "q": "7. 5 years old child arrived at emergency department minutes after being bitten by black widow spider. A house officer immediately injected globulin in form of anti-venom. This type of immunization is called;",
+    "o": ["A. Artificial active immunization", "B. Artificial passive immunization", "C. Natural active immunization", "D. Natural passive immunization"],
+    "a": "B"
+  },
+  {
+    "q": "8. 45 years old man presents to the emergency with a 2-weeks history of diarrhea that worsened progressively over the last several days. He has minimal urine output and admitted to hospital to get rehydrated, his stool specimen is positive for parasitic eggs, which type of WBCs would be elevated:",
+    "o": ["A. Eosinophils", "B. Neutrophils", "C. Lymphocytes", "D. Erythrocyte"],
+    "a": "A"
+  },
+  {
+    "q": "1. Lymph differs from blood in having:",
+    "o": ["A. No plasma", "B. More WBCs and no RBCs", "C. More RBCs and less WBCs", "D. Plasma without protein"],
+    "a": "B"
+  },
+  {
+    "q": "2. Extrinsic system of blood clotting is initiated by:",
+    "o": ["A. Factor II", "B. Factor VII", "C. Factor VIII", "D. Factor I"],
+    "a": "B"
+  },
+  {
+    "q": "3. One of the following is NOT an anticoagulant:",
+    "o": ["A. Heparin", "B. Protein C", "C. Antithrombin III", "D. Thrombin"],
+    "a": "D"
+  },
+  {
+    "q": "4. A 22-year-old man comes to the hospital complaining of dyspnea, tingling sensation, and is pale. Investigation shows low Hb. Most likely diagnosis:",
+    "o": ["A. Vitamin B12 deficiency", "B. Iron deficiency", "C. Hemolysis", "D. Folic acid deficiency"],
+    "a": "A"
+  },
+  {
+    "q": "5. Regarding erythropoietin and erythropoiesis;",
+    "o": ["A. It is formed mainly in liver and kidney", "B. Erythropoietin is stimulated in renal failure patient", "C. Erythropoietin mainly stimulates production of hematopoietic stem cells", "D. Relief from hypoxia inhibits erythropoietin-induced erythropoiesis"],
+    "a": "D"
+  },
+  {
+    "q": "6. What happens following the presentation of an antigen by macrophage?",
+    "o": ["A. Direct generation of antibodies", "B. Activation of cytotoxic T cells", "C. Increase in phagocytosis", "D. Activation of helper T cells"],
+    "a": "D"
+  },
+  {
+    "q": "7. Vasoconstriction of the injured blood vessels occurs due to:",
+    "o": ["A. Local vasoconstrictive factors released mainly from platelets", "B. Decrease in blood volume", "C. Increase in platelet count", "D. Accumulation of coagulation factors in the injured area"],
+    "a": "A"
+  },
+  {
+    "q": "8. If the extracellular potassium concentration rises from 4 mmol/L to 5 mmol/L, what happens to the resting membrane potential?",
+    "o": ["A. It becomes more negative", "B. It becomes less negative", "C. It remains the same", "D. It initiates an action potential"],
+    "a": "B"
+  },
+  {
+    "q": "1- A female carrier of haemophilia is married to a haemophilic male may produce any of the following EXCEPT:",
+    "o": ["A. normal daughter.", "B. A normal son.", "C. haemophilic daughter.", "D. haemophilic son."],
+    "a": "A"
+  },
+  {
+    "q": "2- About protein C, all the following is true EXCEPT:",
+    "o": ["A- its activator is formed from thrombin by the action of thrombomodulin.", "B- It is a natural anticoagulant protein.", "C- It activates the inhibitor of TPA.", "D- It inactivates both factors V and VIII."],
+    "a": "C"
+  },
+  {
+    "q": "3- Factors II, VII, IX & X are decreased in all the following conditions EXCEPT:",
+    "o": ["A- Obstructive jaundice.", "B- Vitamin K deficiency.", "C- Overdoses of dicoumarol.", "D- Haemophilia."],
+    "a": "D"
+  },
+  {
+    "q": "4- The amount of plasma proteins is near to:",
+    "o": ["A- 10 gm%.", "B- 7 gm%.", "C- 7 mg%.", "D- 30 gm%."],
+    "a": "B"
+  },
+  {
+    "q": "5- The plasma proteins perform all the following functions EXCEPT:",
+    "o": ["A- They exert an osmotic force.", "B- They have buffering action.", "C- They help maintenance of the arterial blood pressure.", "D- They play no role in the body defense mechanism."],
+    "a": "D"
+  },
+
+  {
+    "q": "6- The plasma albumin is specially needed for:",
+    "o": ["A- Immunity.", "B- Production of osmotic pressure.", "C- Blood coagulation.", "D- All of the above."],
+    "a": "B"
+  },
+  {
+    "q": "7- The A/G ratio is important clinically in detecting:",
+    "o": ["A- Liver disease.", "B- Cardiac disease.", "C- Nervous disease.", "D- Lung disease."],
+    "a": "A"
+  },
+  {
+    "q": "8- The viscosity produced by plasma proteins is mainly due to:",
+    "o": ["A- Prothrombin.", "B- Albumin.", "C- Fibrinogen.", "D- All of the above."],
+    "a": "C"
+  },
+  {
+    "q": "9- Regarding the osmotic function of plasma proteins, the following statements are true EXCEPT:",
+    "o": ["A- Is due mainly to albumin.", "B- Is important for tissue fluid formation and blood volume regulation.", "C- It exerts an oncotic pressure across the wall of the capillaries.", "D- The total osmotic pressure of plasma proteins equals 4000 mmHg."],
+    "a": "D"
+  },
+  {
+    "q": "10- All the following about erythroblastosis fetalis is true EXCEPT:",
+    "o": ["A- It is common with Rh+ve fathers & Rh-ve mothers.", "B- Jaundice of the newborn is a major manifestation.", "C- It can be avoided by giving the mother anti-Rh antibodies immediately after ...", "D- It is common with Rh-ve fathers & Rh+ve mothers."],
+    "a": "D"
+  },
+  {
+    "q": "11- Dicumarol acts as an anticoagulant by:",
+    "o": ["A- Precipitation of Ca++.", "B- Inhibition of vitamin K action.", "C- Inhibition of thrombin.", "D- Preventing activity of factor IX."],
+    "a": "B"
+  },
+  {
+    "q": "12- Which one of the following would NOT contribute to local hemostasis:",
+    "o": ["A- Exposure of platelets to collagen.", "B- The conversion of prothrombin to thrombin.", "C- The conversion of plasminogen to plasmin.", "D- The conversion of fibrinogen to fibrin."],
+    "a": "C"
+  },
+  {
+    "q": "13- The conversion of fibrinogen to fibrin is promoted by:",
+    "o": ["A- Factor X.", "B- Thrombin.", "C- Prothrombin.", "D- Platelets."],
+    "a": "B"
+  },
+  {
+    "q": "14- Platelet aggregation is promoted by:",
+    "o": ["A- ADP.", "B- Platelet factor 3 (PF3).", "C- Thromboxane A2.", "D- Thrombopoietin."],
+    "a": "A"
+  },
+  {
+    "q": "15- A blood smear shows hypochromic, microcytic RBCs with moderate poikilocytosis. Most likely diagnosis is:",
+    "o": ["A- Anemia of chronic disease.", "B- Autoimmune hemolytic anemia.", "C- Folate deficiency anemia.", "D- Iron deficiency anemia."],
+    "a": "D"
+  },
+  {
+    "q": "16- The immune responses against the body's own proteins produce:",
+    "o": ["A- Haemophilia.", "B- Purpura.", "C- Autoimmune diseases.", "D- Heart failure."],
+    "a": "C"
+  },
+  {
+    "q": "17- Related to B cells, all the following are true EXCEPT:",
+    "o": ["A- They are lymphocytes.", "B- They convert to monocytes in response to antigens.", "C- They mediate humoral immunity.", "D- They can act as antigen presenting cells."],
+    "a": "B"
+  },
+  {
+    "q": "18- The most important function of neutrophils & monocytes is:",
+    "o": ["A- Antibody production.", "B- Phagocytosis.", "C- Blood coagulation.", "D- Diapedesis."],
+    "a": "B"
+  },
+  {
+    "q": "1- During hemoglobin recycling, iron is transported to the liver by ______ and stored there as ______:",
+    "o": ["A- Transferrin - ferritin", "B- Ferritin - transferrin", "C- Albumin - transferrin", "D- Transferrin - albumin"],
+    "a": "A"
+  },
+  {
+    "q": "2- Which of the following is TRUE?",
+    "o": ["A- Leukopenia is normal during a modest bacterial infection.", "B- During leukemia, platelet and erythrocyte counts can decrease.", "C- Platelet plug formation is a negative feedback process.", "D- Prothrombin activator converts thrombin into plasmin."],
+    "a": "B"
+  },
+  {
+    "q": "3- Vaccinations are an example of:",
+    "o": ["A- Naturally-acquired active immunity.", "B- Artificially-acquired active immunity.", "C- Naturally-acquired passive immunity.", "D- Artificially-acquired passive immunity."],
+    "a": "B"
+  },
+  {
+    "q": "4- During acute inflammation all are true EXCEPT:",
+    "o": ["A- The edema fluid has unusually low fibrinogen content.", "B- Wide gaps appear in venular endothelium.", "C- The endothelial osmotic reflection coefficient for plasma proteins decreases.", "D- Histamine is a common, early mediator."],
+    "a": "A"
+  },
+  {
+    "q": "5- AHMAD, a pure vegetarian comes to doctor with complaint of exertional dyspnea. On examination he has pallor. Initial lab tests show Hb 7.4 g/dL, MCV is 115 fL. What is the most probable cause of megaloblastic anemia in this patient?",
+    "o": ["A- Folic acid deficiency.", "B- Vitamin B12 deficiency.", "C- Iron deficiency.", "D- G6PD deficiency."],
+    "a": "B"
+  },
+  {
+    "q": "6- Regarding erythropoietin & erythropoiesis:",
+    "o": ["A- It is formed mainly in liver & partly in kidneys.", "B- Hypoxia can stimulate erythropoiesis in the absence of erythropoietin.", "C- Relief from hypoxia inhibits erythropoietin induced erythropoiesis.", "D- Erythropoietin mainly stimulates production of hematopoietic stem cells."],
+    "a": "C"
+  },
+  {
+    "q": "7- A 34-year-old man with psychological disorder has chronic fatigue for 6 months. He developed a dislike for vegetables since last 1 year. His hemoglobin level is 9.1 g/dL, leukocyte count is 10,000/mm³ and Mean Corpuscular Volume is 122 fL. Which of the following is the most likely diagnosis?",
+    "o": ["A- Acute blood loss.", "B- Aplastic anemia.", "C- Hemolytic anemia.", "D- Folic acid deficiency."],
+    "a": "D"
+  },
+  {
+    "q": "8- A 30 years old male is brought to the hospital with history of gastrectomy. His skin appears lemon yellow. Investigations reveal hemoglobin 10 g/dL, odd shaped RBCs and serum Vitamin B12 is low. He is likely to be suffering from:",
+    "o": ["A- Blood loss anemia.", "B- Pernicious anemia.", "C- Megaloblastic anemia.", "D- Hemolytic anemia."],
+    "a": "C"
+  },
+  {
+    "q": "9- On 2nd exposure of same Ag:",
+    "o": ["A- The whole body involved first IgM", "B- The antibody concentration is much lower than 1st exposure.", "C- The antibodies started to appear after 1 week.", "D- It is rapid and strong."],
+    "a": "D"
+  },
+  {
+    "q": "10- During cross matching test in blood transfusion, major reaction is test between:",
+    "o": ["A- Donor antibodies and recipient's antigen.", "B- Donor antibodies with recipient antibody.", "C- Donor antigen with recipient's antibody.", "D- Donor antigen with recipient's antigen."],
+    "a": "C"
+  },
+  {
+    "q": "11- Concerning IgM:",
+    "o": ["A- Can cross placenta.", "B- Has smallest molecular weight.", "C- Most antiviral and antibacterial are IgM.", "D- None of the above."],
+    "a": "D"
+  }
+]
