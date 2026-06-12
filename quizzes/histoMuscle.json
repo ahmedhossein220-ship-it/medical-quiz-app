@@ -1,0 +1,368 @@
+[
+  {
+    "q": "Q1. Contraction in all types of muscles requires Ca++ ions, which of the following muscle components can bind Ca**?",
+    "o": [
+      "(A) Rough endoplasmic reticulum",
+      "(B) Tropomyosin",
+      "(C) Troponin",
+      "(D) Active sites on actin"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q2. The thin filament protein Involved in the calcium regulation of contraction In striated muscle is",
+    "o": [
+      "(A) Actin and myosin",
+      "(B) Troponin and tropomyosin",
+      "(C) Myosin and tropomyosin",
+      "(D) Actin and troponin"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q3. The endomysium is a C.T. that surrounds",
+    "o": [
+      "(A) Individual muscle fibers",
+      "(B) Muscle fascicles",
+      "(C) An entire muscle",
+      "(D) Small bundles of muscle fibers"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q4. In the sarcomere, the ATPase required for contraction is localized in the",
+    "o": [
+      "(A) Sarcoplasmic reticulum",
+      "(B) Thin filaments",
+      "(C) Both thick and thin filament",
+      "(D) Myosin heads"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q5. Which of the following statements concerning triads in mammalian skeletal muscle is true?",
+    "o": [
+      "(A) They can be observed by the light microscope",
+      "(B) They are characterized by a T-tubule that sequesters Cat ion",
+      "(C) They consist of two terminal cisternae of the sarcoplasmic reticulum separated by a T-tubule",
+      "(D) They are located in the Z-disc"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q6. Smooth muscle cells (fibers) have the following characters EXCEPT",
+    "o": [
+      "(A) Are in cell to cell contact by means of nexus",
+      "(B) Require calcium ions as activators of myosin-actin interaction",
+      "(C) Striated and fusiform in shape",
+      "(D) They can synthesize and produce collagen"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q7. Which structural features would allow you to distinguish skeletal from cardiac and smooth muscle",
+    "o": [
+      "(A) Presence of apparent striation",
+      "(B) Shape and site of the nuclei",
+      "(C) Presence of triads",
+      "(D) All of the above"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q8. Atrial cardiac muscle cells characterized by the following EXCEPT",
+    "o": [
+      "(A) Have fewer T-tubules",
+      "(B) Small in size the ventricular muscle cells",
+      "(C) Contain many granules that cause Na+ diuresis and reduction in blood pressure",
+      "(D) They have a triad at the Z-line"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q9. All the smooth muscle fibers are mesodermal in origin EXCEPT those of",
+    "o": [
+      "(A) Vascular system",
+      "(B) Digestive system",
+      "(C) Reproductive system",
+      "(D) Iris"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q10. During muscle contraction",
+    "o": [
+      "(A) The A band decrease in length",
+      "(B) The I band remains in the same length",
+      "(C) The sarcomere decrease in length",
+      "(D) The H-band remains the same length"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q11. In which of the following Z disk is present ?",
+    "o": [
+      "(A) The I band",
+      "(B) The A band",
+      "(C) The H band",
+      "(D) None of the above"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q12. Each smooth muscle",
+    "o": [
+      "(A) Has triad associated with its contraction",
+      "(B) Has diad associated with its contraction",
+      "(C) Possesses a single, centrally located nucleus",
+      "(D) Is characterized by the absence of sarcolemmal vesicles"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q13. Thick filaments are anchored to Z-disks by",
+    "o": [
+      "(A) C-protein",
+      "(B) Myomesin",
+      "(C) a-actinin",
+      "(D) Titin",
+      "(F) Nebulin"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "014. Which one of the following statements concerning cardiac muscle cell is true?",
+    "o": [
+      "(A) They are spindle-shaped",
+      "(B) They require external stimulus to undergo contraction",
+      "(C) They are multinuclear cells",
+      "(D) They are joined together by intercalated disks",
+      "(E) They possess numerous cavedae"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "015. H-zone",
+    "o": [
+      "(A) Formed of actin only",
+      "(B) Formed of myosin only",
+      "(C) Formed of both actin and myosin",
+      "(D) Increase in length during muscle contraction"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "016. The terminal cisterna of the skeletal muscle have the following features EXCEPT",
+    "o": [
+      "(A) Forned of smooth endoplasmic reticulum",
+      "(B) Forined of rough endoplasmic reticulum",
+      "(C) With the T-tubules form the triad",
+      "(D) They present at A-I junction"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "017. Which is true about the I-band of the skeletal muscle myofibril ?",
+    "o": [
+      "(A) There are only myosin filaments",
+      "(B) There are both actin and myosin filaments",
+      "(C) There are only actin filaments",
+      "(D) Contain mitochondria"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "018. Smooth muscle fibers",
+    "o": [
+      "(A) Lack intermediate filaments",
+      "(B) Have a network of sarcoplasmic reticulum",
+      "(C) Have sarcolemmal vesicles",
+      "(D) Never regenerate"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "019. All the following are features of cardiac muscle EXCEPT",
+    "o": [
+      "(A) The presence of smooth endoplasmic reticulum",
+      "(B) The ability to regenerate following injury",
+      "(C) The presence of myofibrils",
+      "(D) The presence of desmin containing intermediate filaments",
+      "(E) The presence of innervation via the autonomic nervous system"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "020. C.T which enclose a bundle of skeletal muscle fibers is known as",
+    "o": [
+      "(A) Epimysium",
+      "(B) Perimysium",
+      "(C) Endomysium",
+      "(D) Basal lamina"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q21. A sarcomere is the area between two of which of the following structures",
+    "o": [
+      "(A) Two A band",
+      "(B) Two I band",
+      "(C) Two Z lines",
+      "(D) Two H band",
+      "(E) Two M lines"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q22. Which of the following BEST characterize a cardiac muscle cells",
+    "o": [
+      "(A) Central swollen nuclei",
+      "(B) Small organized T-tubules at Z line",
+      "(C) Contain dyads",
+      "(D) All of the above",
+      "(E) None of the above"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q23. Elongated, centrally-located nuclei are found in which of the following cells",
+    "o": [
+      "(A) Smooth muscle",
+      "(B) Cardiac muscle",
+      "(C) Skeletal muscle",
+      "(D) Cell of the above"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q24. Each smooth muscle cell",
+    "o": [
+      "(A) Has triads associated with its contraction",
+      "(B) Has diads associated with its contraction",
+      "(C) Has cytoplasmic densities analogous to Z-disks",
+      "(D) Has no intermediate filaments"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q25. In skeletal muscle, the triad",
+    "o": [
+      "(A) Is the site of initiation and regulation of contraction",
+      "(B) Is located at the Z-line",
+      "(C) Consist of a transverse tubule flanked by two mitochondria",
+      "(D) Sequesters calcium ions during muscle relaxation"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q26. Cardiac muscle fibers have the following features EXCЕРТ",
+    "o": [
+      "(A) They branch to form network",
+      "(B) Contain one centrally located nuclei",
+      "(C) Have a well-developed triad",
+      "(D) Contain glycogen granules at either pole of nucleus",
+      "(E) Have cross striation"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q27. Sarcoplasmic reticulum surrounds which of the following",
+    "o": [
+      "(A) Skeletal muscle actin filaments only",
+      "(B) Skeletal muscle myosin filaments only",
+      "(C) Skeletal muscle fiber",
+      "(D) Skeletal muscle myofibril"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q28. Purkinje fibers differ from cardiac muscle in all the following EXCEPT",
+    "o": [
+      "(A) Larger in size",
+      "(B) More rich in glycogen and mitochondria",
+      "(C) They form typical intercalated disks with cardiac muscle cells",
+      "(D) They are specialized for conduction"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q29. One of the following is contractile non-muscle cells",
+    "o": [
+      "(A) Vascular smooth muscle",
+      "(B) Visceral smooth muscle",
+      "(C) Myoepithelial cells",
+      "(D) Uterine muscle"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q30. Smooth muscle fibers in blood vessels can synthesize collagen type",
+    "o": [
+      "(A) I",
+      "(B) II",
+      "(C) III",
+      "(D) IV"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q31. Transverse tubule of skeletal muscle fibers have the following characters EXCEPT",
+    "o": [
+      "(A) Are invagination from plasmalemma",
+      "(B) Located at the A-I junction",
+      "(C) Located at the Z-line",
+      "(D) Run in association with terminal cisternae"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q32. All of the following statements are True of sarcoplasmic reticulum EXCEPT",
+    "o": [
+      "(A) It binds calcium ions",
+      "(B) It releases calcium after receiving a signal of contraction",
+      "(C) It forms part of the diade in cardiac muscle",
+      "(D) It communicates with the extracellular space at the surface of the sarcolemma"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q33. Purkinje fibers are rich in",
+    "o": [
+      "(A) Tubular system",
+      "(B) Myofibrils",
+      "(C) Glycogen",
+      "(D) Lipofuscin pigment"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q34. The transverse portion of intercalated disks possesses the following specialization EXCEPT",
+    "o": [
+      "(A) Fascia adherents",
+      "(B) Macula adherents (desmosomes)",
+      "(C) Zonula occludence",
+      "(D) Gap junction"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q35. The wave of depolarization reach the depth of the striated muscle via the",
+    "o": [
+      "(A) Sarcoplasmic reticulum",
+      "(B) Sarcolemma",
+      "(C) Transverse tubules",
+      "(D) Mitochondria"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q36. Intercalated disks",
+    "o": [
+      "(A) are found only in smooth muscle",
+      "(B) are autonomic myoneural junction",
+      "(C) consist of desmosomes, fascia adherens and gap junction",
+      "(D) are located at the M-line"
+    ],
+    "a": "C"
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "q": "Q1. One function carried out by all lymphoid tissues and organs is",
+    "o": [
+      "(A) Filtration of lymph",
+      "(B) Filtration of blood",
+      "(C) Production of lymphocytes",
+      "(D) Destruction of old erythrocytes",
+      "(E) Extramedullary erythropoiesis"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q2. Effectors cell types derived from T-lymphocytes include",
+    "o": [
+      "(A) Helper cells",
+      "(B) Suppressor cells",
+      "(C) Cytotoxic cells",
+      "(D) Memory cells",
+      "(E) All of the above choices"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q3. B-lymphocytes are the major lymphocyte type found in all of the following locations EXCEPT",
+    "o": [
+      "(A) Peyer's patches",
+      "(B) Palatine tonsils",
+      "(C) Circulating blood",
+      "(D) White pulp of the spleen"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q4. Antibodies are produced by",
+    "o": [
+      "(A) T-lymphocytes",
+      "(B) B-lymphocytes",
+      "(C) Plasma cells",
+      "(D) Null cells",
+      "(E) All of the above choices"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q5. All of the following structures are at least partially enclosed by a C.T capsules EXCEPT",
+    "o": [
+      "(A) Spleen",
+      "(B) Tonsil",
+      "(C) Solitary lymph nodule",
+      "(D) Thymus",
+      "(E) Lymph node"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q6. Antigen presenting cell include all the following EXCEPT",
+    "o": [
+      "(A) Kupffer cell of the liver",
+      "(B) Follicular dendritic cells of the lymph node",
+      "(C) Langerhan's cells of the skin",
+      "(D) T-lymphocytes",
+      "(E) Dendritic cells of the paracortical zone of the lymph node"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q7. Epithelial reticular cells are present in",
+    "o": [
+      "(A) Spleen",
+      "(B) Bone marrow",
+      "(C) Lymph node",
+      "(D) Tonsil",
+      "(E) Thymus"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q8. Mesenchymal reticular cells are present in the following structures EXCEPT",
+    "o": [
+      "(A) Lymph node",
+      "(B) Spleen",
+      "(C) Thymus",
+      "(D) Bone marrow",
+      "(E) Tonsil"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q9. Lymph nodes have",
+    "o": [
+      "(A) Afferent lymphatic vessels that enter the cortex of the node",
+      "(B) Efferent lymphatic vessels that leave the node via the hilus",
+      "(C) A cortical zone",
+      "(D) A medullary zone",
+      "(E) All of the above choices"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q10. Which of the following statements about lymph node is NOT correct",
+    "o": [
+      "(A) Reticular fibers are one of constituents of the stroma of the organ",
+      "(B) Lymph nodes can be identified histologically by the presence of subcapsular sinus",
+      "(C) The postcapillary venules are lined with simple squamous epithelium",
+      "(D) Blood vessels enter and leave the lymph node at the hilus"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q11. Paracortical zone of the lymph node is characterized by the following EXCEPT",
+    "o": [
+      "(A) Lies between the cortical lymphoid nodule and medulla",
+      "(B) Contains mainly B lymphocytes",
+      "(C) Has high endothelial postcapillary venules",
+      "(D) It contains mainly T lymphocytes"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q12. Indicate the order in which lymph passes through the sinuses of lymph node",
+    "o": [
+      "(A) Subcapsular -> medullary -> peritrabecular",
+      "(B) Medullary -> subcapsular -> peritrabecular",
+      "(C) Medullary -> peritrabecular -> subcapsular",
+      "(D) Subcapsular -> peritrabecular -> medullary"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q13. In the spleen, all the following statements are True EXCEPT",
+    "o": [
+      "(A) The blood sinusoids of the red pulp are lined with elongated endothelial cells",
+      "(B) The periarterial lymphatic sheath are rich with T-lymphocytes",
+      "(C) The lymphoid nodules are located in the cortex",
+      "(D) Has a marginal zone rich with macrophages and dendritic cells"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q14. Central arterioles of the spleen",
+    "o": [
+      "(A) Are found in the red pulp",
+      "(B) Are found in the white pulp",
+      "(C) Possess ellipsoids",
+      "(D) Are the main splenic filter of bacteria and foreign particles"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q15. The region between cortex and medulla in the lymph nodes is supplied by special vessel called",
+    "o": [
+      "(A) Afferent lymphatic vessels",
+      "(B) Efferent lymphatic vessels",
+      "(C) Post-capillary venules",
+      "(D) Penicellar artery"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q16. Each of the following statements about the epithelial reticular cells of the thymus is True EXСЕРТ",
+    "o": [
+      "(A) They are derived from embryonic endoderm",
+      "(B) They are structural components of blood thymus barrier",
+      "(C) They attach to each other by desmosomes",
+      "(D) They are structural components of Hassal's corpuscle",
+      "(E) They synthesize and secrete cytokines"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q17. Each of the following statements about the thymic cortex is correct EXCEPT",
+    "o": [
+      "(A) It is the site of the blood thymus barrier",
+      "(B) It is the region in which T-lymphocytes maturation occur",
+      "(C) It contains Hassal's corpuscle",
+      "(D) Its epithelial reticular cells secrete thymosin and thymopoitin"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q18. In the medullary zone of the thymus you can find",
+    "o": [
+      "(A) Central arterioles",
+      "(B) Hassal's corpuscle",
+      "(C) Lymphatic nodules",
+      "(D) Less epithelial reticular cells and more lymphocytes"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q19. Hassal's corpuscles of the thymus",
+    "o": [
+      "(A) Are found in the cortex of young individuals",
+      "(B) Are found in the cortex of old individuals",
+      "(C) Are found in the medulla of old individuals",
+      "(D) Are derived from ectoderm",
+      "(E) Are derived from mesoderm"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q20. The blood thymus barrier is formed of",
+    "o": [
+      "(A) None fenestrated capillary endothelium",
+      "(B) Thick basal lamina",
+      "(C) Epithelial reticular sheath",
+      "(D) All of the above",
+      "(E) None of the above"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q21. Thymopoietin and thymosin hormones are secreted by",
+    "o": [
+      "(A) T-helper lymphocytes",
+      "(B) Plasma cells",
+      "(C) Epithelial reticular cells of the thymus",
+      "(D) B-memory lymphocytes",
+      "(E) T-memory lymphocytes"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q22. Which of the following is known as a thymus-dependent region of a peripheral lymphold organ",
+    "o": [
+      "(A) Medullary cords of lymph node",
+      "(B) Paracortical area of the lymph node",
+      "(C) Crypts of pharyngeal tonsils",
+      "(D) Periarterial lymphatic sheaths of the spleen",
+      "(E) Germinal centers of Peyer's patches"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q23. The periarterial lymphatic sheath of the spleen",
+    "o": [
+      "(A) Are associated with the trabecular arteries",
+      "(B) Are components of the splenic cord",
+      "(C) As part of the white pulp",
+      "(D) Rich with B-lymphocytes"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q24. Unusual high endothelial cells are found in the",
+    "o": [
+      "(A) Cortex of the lymph node",
+      "(B) Paracortex of the lymph node",
+      "(C) Cortex of the thymus",
+      "(D) Red pulp of the spleen"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q25. T-helper cells",
+    "o": [
+      "(A) Can assist only T-lymphocytes",
+      "(B) Never assist B-lymphocytes",
+      "(C) Are memory cells",
+      "(D) Produce lymphokines"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q26. Cells capable of entering the blood stream after leaving the circulation are",
+    "o": [
+      "(A) T-lymphocytes",
+      "(B) Neutrophils",
+      "(C) Monocytes",
+      "(D) Eosinophils",
+      "(E) Basophils"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q27. In the thymus",
+    "o": [
+      "(A) Hassal's corpuscles are restricted to the cortex",
+      "(B) The blood-thymic barrier isolates undifferentiated lymphocytes from blood-borne antigen",
+      "(C) Medullary cord contain B lymphocytes",
+      "(D) Lobulation is best developed in adults"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q28. The palatine tonsils",
+    "o": [
+      "(A) Are covered by stratified squamous epithelium",
+      "(B) Contain epithelial invaginations or crypts",
+      "(C) Contain numerous lymphoid nodules underlying the epithelial tissues",
+      "(D) Are separated from subjacent structures by a C.T capsules",
+      "(E) All of the above choices"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q29. Which of the following cell type is thought to function in preventing Immune responses against self antigens?",
+    "o": [
+      "(A) T-memory cells",
+      "(B) T-helper cells",
+      "(C) T-suppressor cells",
+      "(D) B-lymphocytes",
+      "(E) Mast cells"
+    ],
+    "a": "C"
+  }
+]

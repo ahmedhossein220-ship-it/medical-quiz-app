@@ -1,0 +1,837 @@
+[
+  {
+    "q": "21. The resolution of the light microscope is approximately:",
+    "o": [
+      "A) One micrometer (µm)",
+      "B) 0.2 micrometer (µm)",
+      "C) 0.5 micrometer (µm)",
+      "D) One nanometer (nm)",
+      "E) 100 angstrom unit (Å)"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q2. The resolution power of the electron microscope is about",
+    "o": [
+      "(A) 0.2 mm",
+      "(B) 0.2 µm",
+      "(C) 0.2 nm",
+      "(D) 0.2 Å",
+      "(E) 2.0 nm"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q3. Light and electron microscopes are characterized by the following EXCEPT",
+    "o": [
+      "(A) The light microscope requires a fluorescent screen to view the specimen",
+      "(B) The electron microscope requires extremely thin specimen",
+      "(C) The electron microscope requires heavy metals to enhance contrast of the specimen",
+      "(D) Both have a condenser lens to focus the beam of illumination",
+      "(E) The electron microscope uses a beam of electrons to examine the specimen"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q4. Micrometer (um) is equivalent to",
+    "o": [
+      "(A) 10⁻³ m",
+      "(B) 10⁻⁶ m",
+      "(C) 10⁻⁹ m",
+      "(D) 10⁻¹² m"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q5. Nanometer (nm) is equivalent to",
+    "o": [
+      "(A) 10⁻³ m",
+      "(B) 10⁻⁶ m",
+      "(C) 10⁻⁹ m",
+      "(D) 10⁻¹² m"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q6. Each of the following statements about chemical fixation is True EXCEPT",
+    "o": [
+      "(A) It prevents autolysis",
+      "(B) It enhances enzyme activity",
+      "(C) It preserves structural features of tissues",
+      "(D) It prevents bacterial degradation of histologic specimens",
+      "(E) Increase the affinity of the tissues for stains"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q7. The aim of dehydration is",
+    "o": [
+      "(A) Make the tissue translucent",
+      "(B) Coagulate the protein and harden the tissues",
+      "(C) Preserve as much as possible the various tissues component",
+      "(D) Replacing the water in tissues with organic solvent"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q8. Which electron microscope component correspond to the condenser lens of the light microscope ?",
+    "o": [
+      "(A) Anode",
+      "(B) Cathode",
+      "(C) Electron beam",
+      "(D) Fluorescent screen",
+      "(E) Electromagnetic lens"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q9. The technique more commonly used to locate glycogen in cells is",
+    "o": [
+      "(A) Hx & E",
+      "(B) Methylene blue staining",
+      "(C) Periodic acid-Schiff (PAS) reaction",
+      "(D) Sudan black"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q10. Lipids are best demonstrated by reacting with",
+    "o": [
+      "(A) Hematoxylin and eosin (H & E)",
+      "(B) Periodic acid-Schiff (PAS) reaction",
+      "(C) Acid phosphatase reaction",
+      "(D) Sudan black or III",
+      "(E) Silver nitrate dyes"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q11. Lysosomes within cells can be identified by using",
+    "o": [
+      "(A) Periodic acid-Schiff (PAS) reaction",
+      "(B) Acid phosphatase reaction",
+      "(C) Alkaline phosphatase reaction",
+      "(D) Sudan III"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q12. Which technique would be best for studying the distribution of transmembrane proteins of a cell membrane?",
+    "o": [
+      "(A) Transmission electron microscopy",
+      "(B) Scanning electron microscopy",
+      "(C) Freeze fracture",
+      "(D) Periodic acid-Schiff (PAS)"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q13. The most commonly basic dye used to demonstrate the nucleus is:",
+    "o": [
+      "(A) Eosin",
+      "(B) Silver",
+      "(C) Hematoxylin",
+      "(D) Toludin blue"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q14. Frozen sectioning may be requireci in preparation of",
+    "o": [
+      "(A) Immunocytochemistry",
+      "(B) Demonstration of lipids",
+      "(C) Enzyme histochemistry",
+      "(D) All of the above"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q1. The electron microscopic appearance of a unit cell membrane is best described as:",
+    "o": [
+      "(A) A porous structure",
+      "(B) A lipid bilayer",
+      "(C) A trilaminar structure",
+      "(D) A pentalaminar structure"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q2. The following statement about the plasma membrane is True EXCEPT",
+    "o": [
+      "(A) With E/M, the plasma membrane thickness is about 9 - 10 nm",
+      "(B) Consists of bilayer of phospholipids",
+      "(C) Contain a glycocalyx on its external surface",
+      "(D) Does not permit protein movement within the plane of the membrane"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q3. Glycocalyx is",
+    "o": [
+      "(A) The protein component of the cell membrane only",
+      "(B) The carbohydrate component of the cell membrane only",
+      "(C) The lipid component of the cell membrane only",
+      "(D) None of the above"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q4. All the following statements about the glycocalyx is True EXCEPT",
+    "o": [
+      "(A) Exists on the internal surface of the plasma membrane",
+      "(B) Play a role in immunological specificity",
+      "(C) Participate in cell adhesion",
+      "(D) Can be demonstrated by PAS reaction"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q5. Phagocytosis is",
+    "o": [
+      "(A) Process of engulfing small amount of fluid",
+      "(B) Passive diffusion of water",
+      "(C) Process of engulfing large particles as microorganism",
+      "(D) Active transport of Na* / K*"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q6. Receptors mediated endocytosis is",
+    "o": [
+      "(A) Facilitated diffusion of glucose across the cell membrane",
+      "(B) Process by which the cell engulfs foreign substance with their own surface receptors",
+      "(C) Selective permeability of the cell membrane",
+      "(D) Pinocytosis"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q7. Which organells are self replicating ?",
+    "o": [
+      "(A) Ribosomes",
+      "(B) Golgi complex",
+      "(C) Mitochondria",
+      "(D) Lysosomes",
+      "(E) Intermediate filaments"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q8. All of the following are characteristic of mitochondria EXCEPT that they",
+    "o": [
+      "(A) Exhibit a high turnover rat of their enzyme",
+      "(B) Serve as a storage site for glycogen",
+      "(C) Contain respiratory and phosphorylation enzyme system",
+      "(D) Contain DNA and ribosomes"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q9. The power house of the cell is",
+    "o": [
+      "(A) Nucleus",
+      "(B) Cell membrane",
+      "(C) Mitochondria",
+      "(D) Golgi complex",
+      "(E) Endoplasmic reticulum"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q10. All the following statements about mitochondria is True EXCEPT",
+    "o": [
+      "(A) Their number depend upon energy requirement",
+      "(B) They need special stain to be seen",
+      "(C) They can divide by simple binary fission",
+      "(D) They contain hydrolytic enzymes",
+      "(E) They have double membrane"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q11. The function of the free ribosomes is the synthesis of :",
+    "o": [
+      "(A) Carbohydrate",
+      "(B) Cholesterol",
+      "(C) Protein that will be secreted by the cell",
+      "(D) Cytoplasmic protein for intracellular use"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q12. All the following statements about ribosomes are True EXCEPT",
+    "o": [
+      "(A) There are 2 basic types mitochondrial and cytoplasmic",
+      "(B) It is composed of rRNA conjugated with protein",
+      "(C) May be surrounded by a membrane",
+      "(D) Diffuse distribution of ribosoines in the cytoplasm causes its basophilia"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q13. Ribosomal RNA (rRNA) is formed by the",
+    "o": [
+      "(A) Ribosomes",
+      "(B) Rough endoplasmic reticulum",
+      "(C) Nucleolus",
+      "(D) Hetrochromatin",
+      "(E) Euchromatin"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q14. The localized cytoplasmic basophilia indicate the presence of",
+    "o": [
+      "(A) Mitochondria",
+      "(B) Smooth endoplasmic reticulum",
+      "(C) Rough endoplasmic reticulum",
+      "(D) Well-developed golgi complex",
+      "(E) Lysosomes"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q15. All the following statements about rER are True EXCEPT",
+    "o": [
+      "(A) Composed of membranous tubules and sacs",
+      "(B) Its surface is studded with ribosomes",
+      "(C) It is the site of protein synthesis that will be secreted by the cell",
+      "(D) It shows continuity with the outer membrane of the nuclear envelope"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q16. Smooth endoplasmic reticulum",
+    "o": [
+      "(A) Is found in cells where drug detoxification is taking place",
+      "(B) Is present in the skeletal and cardiac muscle",
+      "(C) Is present in steroid hormone secreting cells",
+      "(D) All of the above"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q17. Protein synthesized by free not attached polyribosomes may undergo",
+    "o": [
+      "(A) Release into the cytoplasm",
+      "(B) Transfer to the lumen of the endoplasmic reticulum",
+      "(C) Transfer to the Golgi complex",
+      "(D) Transport in vesicles to outside the cell"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q18. Protein synthesized by attached ribosome normally undergo",
+    "o": [
+      "(A) Transfer to the Golgi complex",
+      "(B) Transfer to the lumen of endoplasmic reticulum",
+      "(C) Release into the cytoplasm",
+      "(D) Secretion by exocytosis"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q19. The external surface of the plasma membrane differ from the cytoplasmic surface by the presence of the following EXCEPT",
+    "o": [
+      "(A) Cell receptors",
+      "(B) Cholesterol",
+      "(C) Glycocalyx",
+      "(D) Choices A & C"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q20. Which of the following structures are NOT bound by a membrane",
+    "o": [
+      "(A) Cilia",
+      "(B) Lysosomes",
+      "(C) Lipid droplets in fat cells",
+      "(D) Secretory granules",
+      "(E) Mitochondria"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q21. All the following statements about the smooth endoplasmic reticulum is True EXCEPT",
+    "o": [
+      "(A) Lack ribosomes on its surface",
+      "(B) Continuous with the nuclear membrane directly",
+      "(C) Important in lipid metabolism",
+      "(D) Its cisternae occurs in the form of branching tubules"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q22. The functions of sER are the following EXCEPT",
+    "o": [
+      "(A) Regulation of muscle contraction",
+      "(B) Steroid hormone synthesis",
+      "(C) Protein synthesis",
+      "(D) Glycogen breakdown",
+      "(E) Detoxification of toxic substances"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q23. Functions of Golgi complex include",
+    "o": [
+      "(A) Synthesis of polysaccharides",
+      "(B) Packaging of secretory materials",
+      "(C) Concentration of secretory products",
+      "(D) Sulfation of polysaccharides",
+      "(E) All of the above"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q24. By LM, Golgi complex can be demonstrated by",
+    "o": [
+      "(A) PAS reaction",
+      "(B) Sudan black",
+      "(C) Osmic acid",
+      "(D) silver impregnantion",
+      "(E) Best's Carmin"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q25. All the following statements about Golgi complex is True EXCEPT",
+    "o": [
+      "(A) It is a membranous organelles",
+      "(B) Has two faces, cis face (immature) and trans fase (mature)",
+      "(C) Typically located near the nucleus",
+      "(D) Its cisternae is continuous with the nuclear membrane",
+      "(E) Its main functions is modification of protein manufactured by rER"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q26. Primary lysosomes",
+    "o": [
+      "(A) Are membranous organelles appear as homogenous rounded vesicles",
+      "(B) Rich with acid phosphatase enzymes (hydrolytic)",
+      "(C) They bud off from the Golgi complex",
+      "(D) All of the above"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q27. Secondary lysosomes",
+    "o": [
+      "(A) Contains a mixture of hydrolytic enzymes and phagocytosed material",
+      "(B) May become a residual body",
+      "(C) Formed by fusion of primary lysosomes and phagosomes",
+      "(D) All of the above choices"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q28. Phagosomes",
+    "o": [
+      "(A) Are membrane limited vesicles",
+      "(B) Two major types; heterophagosomes and autophagosomes",
+      "(C) Can fuse with primary lysosomes → secondary lysosomes",
+      "(D) All of the above"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q29. Phagosome",
+    "o": [
+      "(A) Is formed by budding from a lysosome",
+      "(B) Is surrounded by a membrane derived from the Golgi complex",
+      "(C) Contains material engulfed during phagocytosis",
+      "(D) Contains densely packed inactive hydrolytic enzymes"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q30. All the following are features of peroxisomes (microbodies) EXCEPT",
+    "o": [
+      "(A) Are membrane bounded vesicles",
+      "(B) They are Golgi-derived organelles",
+      "(C) They are found in association with sER or dispersed in the cytoplasm",
+      "(D) Their function include the metabolisms of cholesterol and lipid and hydrogen peroxide"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q31. Multivesicular bodies are",
+    "o": [
+      "(A) Primary lysosomes",
+      "(B) Secondary lysosomes",
+      "(C) Phagosomes",
+      "(D) Formed as a result of digestion of fluid material",
+      "(E) Autophagic vacuoles"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q32. The functions of microtubules include all the following EXСЕРТ",
+    "o": [
+      "(A) They act as a cytoskeleton",
+      "(B) Determine and maintaining the shape of the cell",
+      "(C) Facilitate the transport of macromolecule within the cytoplasm",
+      "(D) Formation of the cell spindle during mitosis",
+      "(E) Formation of the terminal web"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q33. Microtubules are formed of",
+    "o": [
+      "(A) Albumin",
+      "(B) Actin",
+      "(C) Tubulin",
+      "(D) Myosin",
+      "(E) Globulin"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q34. With E/M, cross section at the shaft (axoneme) of the cilium shows",
+    "o": [
+      "(A) Nine peripheral triplets of microtubules + two central singlets",
+      "(B) Nine peripheral triplets of microtubules and no central singlets",
+      "(C) Nine peripheral doublets of microtubules and two central singlets",
+      "(D) Nine peripheral doublets of microtubules and no central singlets",
+      "(E) Nine peripheral doublets of microtubules and one central singlets"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q35. With E/M, cross section at the basal body shows",
+    "o": [
+      "(A) Nine peripheral triplets of microtubules + two central singlets",
+      "(B) Nine peripheral triplets of microtubules + no central singlets",
+      "(C) Nine peripheral doublets of microtubules + two central singlets",
+      "(D) Nine peripheral doublets of microtubules + one central singlets",
+      "(E) Nine peripheral doublets of microtubules no central singlets"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q36. Which of the following structure is composed primarily of actin",
+    "o": [
+      "(A) Basal body",
+      "(B) Microtubules",
+      "(C) Microfilaments",
+      "(D) Intermediate filaments",
+      "(E) Cilia"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q37. All the following features of the centrioles are True EXCEPT",
+    "o": [
+      "(A) Are involved in cell division",
+      "(B) Exist as a pair of short rods oriented at right angles to one another",
+      "(C) Similar to the basal body, its wall made up of 9 peripheral triplets of microtubules with no central singlets",
+      "(D) Similar to the axonem, its wall formed of 9 peripheral doublets of microtubules and 2 central singlets"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q38. Flagella are",
+    "o": [
+      "(A) Long motile microvilli",
+      "(B) Long non-motile microvilli",
+      "(C) Long single cilium",
+      "(D) Short non-motile cilia",
+      "(E) Long irregular non-motile cilia"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q39. Which of the following classes of intermediate filaments is found in muscle ?",
+    "o": [
+      "(A) Vimentin filaments",
+      "(B) Desmin filaments",
+      "(C) Tonofilaments filaments",
+      "(D) Lamins",
+      "(E) Cytokeratin filaments"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q40. Movement of cilia is directly attributable to the presence of",
+    "o": [
+      "(A) Myosin",
+      "(B) Actin",
+      "(C) Cytokeratin",
+      "(D) Dynein",
+      "(E) Vimentin"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q41. Features of cells especially active in protein synthesis include all the following EXCEPT",
+    "o": [
+      "(A) A prominent nucleolus",
+      "(B) An abundance of sER",
+      "(C) A well-developed Golgi complex",
+      "(D) Stacks of rER"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q42. Actin is located in or associated with the following structures",
+    "o": [
+      "(A) Microvilli",
+      "(B) The cell plate or cleavage furrow in mitosis",
+      "(C) In muscle cell",
+      "(D) All of the above choices"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q43. All the following features about mitochondria are True EXCEPT",
+    "o": [
+      "(A) Enclosed by two membranes",
+      "(B) Synthesis of its DNA",
+      "(C) Synthesis of its RNA",
+      "(D) Synthesis of its protein",
+      "(E) All of the above choices"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q44. Protein sent to the trans Golgi network will bud from it forming one of the following EXCEPT",
+    "o": [
+      "(A) Secretory vesicles",
+      "(B) Lysosomes",
+      "(C) Perioxisomes",
+      "(D) Stored in the Golgi itself prior to secretion"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q45. All the following are regarded as cellular inclusions EXCСЕРТ",
+    "o": [
+      "(A) Glycogen",
+      "(B) Fat",
+      "(C) Multivesicular bodies",
+      "(D) Lipofuscin",
+      "(E) Pigment"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q46. Glycogen can be demonstrated in sections using",
+    "o": [
+      "(A) Iron-Hx",
+      "(B) PAS",
+      "(C) Sudan III",
+      "(D) Sudan black"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q47. Lipofuscin",
+    "o": [
+      "(A) Accumulates in cells that are long lived e.g. cardiac muscle",
+      "(B) Are residual bodies which remain in the cytoplasm",
+      "(C) Formed of membrane bound vacuoles of material resistant to lysosomal degradation",
+      "(D) All the above features"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q48. All the following are endogenous pigments EXCEPT",
+    "o": [
+      "(A) Hemoglobin",
+      "(B) Bilirubin",
+      "(C) Melanin",
+      "(D) Lipochromes"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q49. The average diameter of intermediate filaments is approximately",
+    "o": [
+      "(A) 250 μm",
+      "(B) 100 – 120 µm",
+      "(C) 100-120 nm",
+      "(D) 8-11 nm"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q50. The total thickness of the nuclear envelop is",
+    "o": [
+      "(A) 15 nm",
+      "(B) 25 nm",
+      "(C) 50 nm",
+      "(D) 100 µm"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q51. The nuclear pore is characterized by the following EXCEPT",
+    "o": [
+      "(A) Is about 70 nm in diameter",
+      "(B) Is bridged by a thin diaphragm",
+      "(C) Provide a channel for the movement of nucleic acid from the nucleus to the cytoplasm",
+      "(D) Allow the passage of Histon from the cytoplasm to the nucleus",
+      "(E) All the above choices"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q52. Substances that must pass through the nuclear pores to assume their normal roles in cell functions include",
+    "o": [
+      "(A) Histones",
+      "(B) Ribosomal RNA",
+      "(C) Messenger RNA",
+      "(D) Transfer RNA",
+      "(E) All of the above"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q53. Hetrochromatin is",
+    "o": [
+      "(A) Highly coiled chromatin",
+      "(B) Stain darkly with basic dyes",
+      "(C) Present in the nuclei of metabolically inactive cell",
+      "(D) All of the above"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q54. Euchromatin is",
+    "o": [
+      "(A) Uncoiled chromatin",
+      "(B) Present in the nuclei of active cell as it is active in transcription",
+      "(C) Stains poorly and is difficult to distinguish even by EM",
+      "(D) All of the above"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q55. All the following statements about the nucleolus is True EXCEPT",
+    "o": [
+      "(A) Is the site of ribosomal RNA synthesis",
+      "(B) Is absent in cells actively secreting protein",
+      "(C) Is associated with hetrochromatin",
+      "(D) Disappears during mitosis and reappear after mitosis"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q56. The nucleolus is characterized by all the following EXCEPT",
+    "o": [
+      "(A) The fibrillar component representing early stages of rRNA synthesis",
+      "(B) The granular component representing late stage of rRNA synthesis",
+      "(C) Associated with hetrochromatin",
+      "(D) Associated with nuclear lamina"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q57. DNA contains the following nitrogenous base EXCEPT",
+    "o": [
+      "(A) Adenin",
+      "(B) Thiamine",
+      "(C) Guanine",
+      "(D) Uracil",
+      "(E) Cytosine"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q58. A cell has condensed chromosomes and each consists of two parallel chromatids attached to one another by a centromere. What stage of cell cycle is it?",
+    "o": [
+      "(A) Interphase",
+      "(B) Prophase",
+      "(C) Metaphase",
+      "(D) Anaphase",
+      "(E) Telophase"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q59. Structures dispersed and then recognized during each cell cycle include",
+    "o": [
+      "(A) The nucleolus",
+      "(B) The nuclear envelope",
+      "(C) The mitotic spindle",
+      "(D) All of the above"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q60. For continually of dividing cells, which phase would not be present?",
+    "o": [
+      "(A) G1 of interphase",
+      "(B) G2 of interphase",
+      "(C) Go of interphase",
+      "(D) S of interphase",
+      "(E) Prophase"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q61. Barr body is",
+    "o": [
+      "(A) X-chromosome in male",
+      "(B) X-Y chromosomes in male",
+      "(C) X-X chromosomes in female",
+      "(D) Inactive X-chromosome in female",
+      "(E) Y-chromosome in male"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q62. Chiasma is formed in what stage of prophase I meiosis ?",
+    "o": [
+      "(A) Leptotene",
+      "(B) Zygotene",
+      "(C) Pachytene",
+      "(D) Diplotene",
+      "(E) Diakinesis"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q63. The centrioles are duplicated during",
+    "o": [
+      "(A) S-stage",
+      "(B) G1-stage",
+      "(C) G2-stage",
+      "(D) Interphase"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q64. What stage of mitosis in which the nucleolus and nuclear membrane disappear ?",
+    "o": [
+      "(A) Interphase",
+      "(B) Anaphase",
+      "(C) Telophase",
+      "(D) Prophase",
+      "(E) Metaphase"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q65. The number of chromosomes at the end of telophase stage of mitosis are",
+    "o": [
+      "(A) 23 S-chromosomes",
+      "(B) 22 autosomes",
+      "(C) 46 S-chromosomes",
+      "(D) 46 d-chromosomes"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q66. All the following nuclear changes indicating cell degeneration EXCEPT",
+    "o": [
+      "(A) Pyknosis",
+      "(B) Karyorrhexis",
+      "(C) Karyotyping",
+      "(D) Karyolysis"
+    ],
+    "a": "C"
+  }
+]

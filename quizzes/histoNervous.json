@@ -1,0 +1,369 @@
+[
+  {
+    "q": "Q1. All the following statements about the Nissl bodies are True EXCEPT",
+    "o": [
+      "(A) They are basophilic",
+      "(B) They are composed of free ribosomes and rER-associated ribosomes",
+      "(C) They are found in axon hillock",
+      "(D) They are important in protein synthesis",
+      "(E) They undergo chromatolysis following injury to the axon"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q2. In the neuron, the mitochondria may be found in",
+    "o": [
+      "(A) The perikaryon (nerve cell body)",
+      "(B) Axon",
+      "(C) Dendrites",
+      "(D) Schwann cell",
+      "(E) All of the above choices"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q3. The axon hillock of the soma is devoid of",
+    "o": [
+      "(A) Mitochondria",
+      "(B) Nissl granules",
+      "(C) Golgi complex",
+      "(D) Neurofilaments and microtubules"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q4. The dendrites' are similar in structure to the nerve cell body EXCEPT that it lacks",
+    "o": [
+      "(A) Golgi complex",
+      "(B) Mitochondria",
+      "(C) Nissl bodies",
+      "(D) Neurofilaments",
+      "(E) Neurotubules"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q5. The following are all characteristics of a dendrite EXCEPT",
+    "o": [
+      "(A) Usually multiple and short",
+      "(B) Has irregular contour",
+      "(C) Lacks Nissl granules",
+      "(D) Conduct nerve impulse to the nerve cell body"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q6. Myelin has all of the following features EXCEPT that",
+    "o": [
+      "(A) Its sheaths are formed by the juxtaposition of the plasma membrane layers of Schwann cells",
+      "(B) Its sheaths are interrupted by node of Ranvier",
+      "(C) It has no effect on the speed of impulse conduction",
+      "(D) It is present in both the peripheral and central nervous systems"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q7. Osmic acid is specific to show",
+    "o": [
+      "(A) Axon",
+      "(B) Myelin sheath",
+      "(C) Dendrites",
+      "(D) Cell body",
+      "(E) Synapse region"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q8. Node of Ranvier is",
+    "o": [
+      "(A) Is the narrow space between 2 adjacent Schwann cells",
+      "(B) Has no myelin covering",
+      "(C) Is covered by neurolemmal sheath",
+      "(D) All of the above choices"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q9. Myelination in the CNS is done by",
+    "o": [
+      "(A) Schwann cells",
+      "(B) Oligodendrocytes",
+      "(C) Microglia",
+      "(D) Astrocyte",
+      "(E) Satellite cells"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q10. Which of the following cells in the CNS are similar in function to Schwann cells",
+    "o": [
+      "(A) Fibrous astrocytes",
+      "(B) Protoplasmic astrocytes",
+      "(C) Satellite cells",
+      "(D) Oligodendroglia or oligodendrocytes",
+      "(E) Ependymal cells"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q11. Immediately external to the myelin sheath of a nerve fiber is",
+    "o": [
+      "(A) Axolemma",
+      "(B) Axon hillock",
+      "(C) Endothelium",
+      "(D) Schwann cell (neurolemmal sheath)",
+      "(E) None of the above choices"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q12. Axoplasm contains",
+    "o": [
+      "(A) Mitochondria",
+      "(B) Microtubules",
+      "(C) Microfilaments",
+      "(D) All of the above",
+      "(E) None of the above"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q13. Cellular process that conduct nerve impulse toward the nerve cell body is called",
+    "o": [
+      "(A) Axon",
+      "(B) Synapse",
+      "(C) Dendrites",
+      "(D) None of the above choices"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q14. Myelinated nerve fibers",
+    "o": [
+      "(A) Are surrounded by folds of Schwann cells",
+      "(B) Have node of Ranvier",
+      "(C) Conduct impulse faster than non-myelinated nerve fibers",
+      "(D) Are common in white matter of the CNS",
+      "(E) All of the above choices"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q15. Anterior horn cells are example of",
+    "o": [
+      "(A) Bipolar nerve cells",
+      "(B) Multipolar neurons",
+      "(C) Pseudounipolar neurons",
+      "(D) None of the above"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q16. Pseudounipolar nerve cells are present in",
+    "o": [
+      "(A) Sympathetic ganglion",
+      "(B) Optic nerve",
+      "(C) Spinal ganglion",
+      "(D) Cerebellum",
+      "(E) Cerebral cortex"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q17. Olfactory epithelium",
+    "o": [
+      "(A) Presents in the nasal cavity",
+      "(B) Contains bipolar nerve cell",
+      "(C) Contains pyriform multipolar nerve cells",
+      "(D) Choices A & B",
+      "(E) Choices A & C"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q18. The spinal ganglia are characterized by the following EXCEPT",
+    "o": [
+      "(A) Present in the dorsal root of spinal nerves",
+      "(B) Motor in function",
+      "(C) Formed of pseudounipolar neurons",
+      "(D) The nerve cells are large and spherical with central nuclei",
+      "(E) The nerve cells are completely surrounded by satellite cells"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q19. All the following features of the sympathetic ganglion are True EXCEPT",
+    "o": [
+      "(A) Formed of multipolar neurons",
+      "(B) The nerve cells are randomly distributed throughout the ganglia",
+      "(C) The satellite cells are few",
+      "(D) Their nerve fibers are thick and myelinated"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q20. Nervous tissue is derived from",
+    "o": [
+      "(A) Ectoderm",
+      "(B) Mesoderm",
+      "(C) Endoderm",
+      "(D) None of the above"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q21. Perineurium",
+    "o": [
+      "(A) Is surrounding the nerve trunk",
+      "(B) Is surrounding individual bundles of nerves",
+      "(C) Is surrounding individual nerve fibers",
+      "(D) Is formed mostly of elastic fibers"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q22. A component common seen in both autonomic and dorsal root ganglia is",
+    "o": [
+      "(A) Pseudounipolar neurons",
+      "(B) Satellite cells",
+      "(C) Motor and receptive functions",
+      "(D) Multipolar neurons"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q23. Synapse",
+    "o": [
+      "(A) Allow transmission of a nerve impulse in only one direction",
+      "(B) May occur between an axon and a neuron",
+      "(C) It is formed of 3 structural components, pre and postsynaptic membranes and cleft that separate them",
+      "(D) Neurosecretory vesicles are present in the presynaptic side",
+      "(E) All of the above choices"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q24. Synapse may be found connecting",
+    "o": [
+      "(A) Axon to axon",
+      "(B) Axon to dendrite",
+      "(C) Axon to nerve cell body",
+      "(D) Dendrites to dendrites",
+      "(E) All of the above"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q25. The synaptic cleft width is",
+    "o": [
+      "(A) 2 nm",
+      "(B) 20 nm",
+      "(C) 20 un",
+      "(D) 200 nm"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q26. Synaptic vesicles",
+    "o": [
+      "(A) Located near the presynaptic terminal",
+      "(B) Manufactured and packaged in the nerve cell body",
+      "(C) They release their content by exocytosis into the synaptic cleft",
+      "(D) All of the above choices"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q27. The cytoplasm near the presynaptic membrane contains all the following structures EXCEPT",
+    "o": [
+      "(A) Mitochondria",
+      "(B) Golgi complex",
+      "(C) SER",
+      "(D) Synaptic vesicles"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q28. Supporting cells of the CNS are the following EXCEPT",
+    "o": [
+      "(A) Astrocytes",
+      "(B) Oligodendroglia",
+      "(C) Schwann cells",
+      "(D) Microglia",
+      "(E) Ependymal cells"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q29. Microglia are",
+    "o": [
+      "(A) Found in both gray and white matter",
+      "(B) Mesodermal in origin",
+      "(C) Derived from monocytes",
+      "(D) Phagocytic in function",
+      "(E) All of the above choices"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q30. All the following statements about protoplasmic astrocytes are True EXCEPT",
+    "o": [
+      "(A) Are present in the white matter of the CNS",
+      "(B) Have numerous, thick and branching process",
+      "(C) Some of their branches clasping a nearby blood vessels (vascular feet)",
+      "(D) Vascular feet transport blood borne nutrient to neurons"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q31. Ependymal cells are",
+    "o": [
+      "(A) Columnar cells",
+      "(B) Lining the central canal of the spinal cord",
+      "(C) Have ciliated free border during foetal life",
+      "(D) Form the epithelial covering of the choroid plexuses",
+      "(E) All of the above choices"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q32. Oligodendrocytes",
+    "o": [
+      "(A) Are the most prominent glial cells in gray matter",
+      "(B) Have perivascular end feet",
+      "(C) Are mesodermal in origin",
+      "(D) Are responsible for myelination in the CNS"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q33. Wallerian degeneration Includes",
+    "o": [
+      "(A) Axons undergo rapid degeneration",
+      "(B) Myelin breaks down into droplets",
+      "(C) Hypertrophy of the Schwann cells",
+      "(D) All of the above changes"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q34. When an axon is Injured, the trauma is reflected in the cell body which shows",
+    "o": [
+      "(A) Swelling of the nerve cell",
+      "(B) Chromatolysis",
+      "(C) Nucleus become eccentric and pyknotic",
+      "(D) All of the above choices"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q35. Cell types derived from the neural crest include",
+    "o": [
+      "(A) Satellite cells of the spinal ganglia",
+      "(B) Schwann cells",
+      "(C) Postganglionic neurons of the sympathetic ganglia",
+      "(D) All of the above"
+    ],
+    "a": "D"
+  }
+]

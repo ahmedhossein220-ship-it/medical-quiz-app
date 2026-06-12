@@ -44,6 +44,19 @@ SUBJECTS = {
         "Embryology": "quizzes/embryo.json",
         "Upper Limb": "quizzes/upperlimb.json",
         "Lower Limb": "quizzes/lowerlimb.json",
+    },
+    
+    "Histology": {
+
+        "Intro Cytology": "quizzes/IntroCytology.json",
+        "Epithelium": "quizzes/histoEpithelium.json",
+        "Cartilage & Bone": "quizzes/histoCartilageBone.json",
+        "Blood": "quizzes/histoBlood.json",
+        "Vascular": "quizzes/histoVascular.json",
+        "Muscle": "quizzes/histoMuscle.json",
+        "Nervous": "quizzes/histoNervous.json",
+        "Respiratory": "quizzes/histoRespiratory.json",
+        "Lymphoid": "quizzes/histoLymphoid.json",
     }
 }
 

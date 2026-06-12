@@ -1,0 +1,429 @@
+[
+  {
+    "q": "Q1. The epithelium is characterized by the following EXCEPT",
+    "o": [
+      "(A) It lines cavities and covers surfaces",
+      "(B) It consists of cells mainly with little intercellular substances",
+      "(C) It is subjected to continuous degeneration and regeneration",
+      "(D) Lack nerve and blood supply",
+      "(E) The cells lie on a basement membrane"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q2. All the following are the primary functions of epithelium EXCEPT",
+    "o": [
+      "(A) Calcium storage",
+      "(B) Absorption",
+      "(C) Contractility",
+      "(D) Protection",
+      "(E) Secretion"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q3. The living epithelium of the respiratory tract, the digestive tract is derived from which of the following embryonic germ layer?",
+    "o": [
+      "(A) Ectoderm",
+      "(B) Endoderm",
+      "(C) Mesoderm",
+      "(D) None of the above"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q4. Criteria used in naming epithelial types include",
+    "o": [
+      "(A) Shape of cells in the surface layer",
+      "(B) Number of layers of epithelial cells",
+      "(C) Presence or absence of cilia",
+      "(D) All of the above",
+      "(E) None of the above"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q5. Simple squamous epithelium can be found in all of the following EXCEPT",
+    "o": [
+      "(A) Lung alveoli",
+      "(B) Gall bladder",
+      "(C) Bowman's capsule",
+      "(D) Lining the blood vesicles",
+      "(E) Lining the pleura"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q6. Endothelium is the lining epithelium of",
+    "o": [
+      "(A) Pleura",
+      "(B) Alveoli",
+      "(C) Blood vessels",
+      "(D) Pericardial cavity",
+      "(E) Loop f Henle of the kidney"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q7. Mesothelium is the lining epithelium of",
+    "o": [
+      "(A) Pleural cavity",
+      "(B) Lung alveoli",
+      "(C) Thyroid follicle",
+      "(D) Collecting tubules of the kidney",
+      "(E) Blood vessels"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q8. Simple cuboidal epithelium is found in",
+    "o": [
+      "(A) Large blood vessels",
+      "(B) Thyroid follicles",
+      "(C) Gall bladder",
+      "(D) Urinary bladder",
+      "(E) Small intestine"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q9. The function/s of simple columnar epithelium is / are",
+    "o": [
+      "(A) Secretory",
+      "(B) Absorptive",
+      "(C) Protective",
+      "(D) All of the above choices",
+      "(E) None of the above choices"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q10. Secretory absorptive columnar epithelium is characterized by the following EXCEPT",
+    "o": [
+      "(A) Cells held firmly together by junctional complex",
+      "(B) Apical brush border",
+      "(C) Terminal web",
+      "(D) Abundant sER",
+      "(E) Abundant rER"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q11. In absorptive columnar cell, the striated brush border seen by L/M is",
+    "o": [
+      "(A) Cilia",
+      "(B) Microvilli",
+      "(C) Sterocilia",
+      "(D) Flagella",
+      "(E) Apical folds"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q12. Cells with absorptive properties will have an epithelial lining",
+    "o": [
+      "(A) With cilia",
+      "(B) Without glycocalyx",
+      "(C) Keratinized",
+      "(D) Microvilli",
+      "(E) Sterocilia"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q13. Microvilli have the following characters EXCEPT",
+    "o": [
+      "(A) Facilitate absorption",
+      "(B) Include sterocilia",
+      "(C) Contain doublets of microtubules",
+      "(D) Contain actin microfilament",
+      "(E) Covered by glycocalyx"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q14. Sterocilia are",
+    "o": [
+      "(A) Long microvilli",
+      "(B) Short microvilli",
+      "(C) Motile cilia",
+      "(D) Short cilia",
+      "(E) Immotile cilia"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q15. Pseudo-stratified columnar ciliated epithelium can be found in",
+    "o": [
+      "(A) The ovary",
+      "(B) The oral cavity",
+      "(C) The blood vessels",
+      "(D) Respiratory tract",
+      "(E) Urinary passage"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q16. All the following statements about pseudostratified columnar ciliated epithelium are False EXCEPT",
+    "o": [
+      "(A) May be keratinized",
+      "(B) Is highly vascular",
+      "(C) All cells resting on a basement membrane",
+      "(D) It is a type of stratified epithelium",
+      "(E) Commonly found in the urinary passage"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q17. The epithelium that lines all body openings on the skin is",
+    "o": [
+      "(A) Stratified columnar epithelium",
+      "(B) Stratified squamous epithelium",
+      "(C) Pseudostratified columnar ciliated epithelium",
+      "(D) Stratified cuboidal epithelium",
+      "(E) Transitional epithelium"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q18. Stratified squamous epithelium",
+    "o": [
+      "(A) Consists of a single layer of flattened cells with flat nuclei",
+      "(B) May be ciliated",
+      "(C) Has rich blood supply by blood capillaries running between cells",
+      "(D) It is protective rather than secretory",
+      "(E) It lack basal lamina"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q19. Transitional epithelium is found in",
+    "o": [
+      "(A) Gall bladder",
+      "(B) Urinary bladder",
+      "(C) Uterus",
+      "(D) Fallopian tube",
+      "(E) Proximal convoluted tubules"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q20. All the following statements about the transitional epithelium are False EXCEPT",
+    "o": [
+      "(A) May be keratinized",
+      "(B) May contain goblet cells",
+      "(C) Rich with mucous-like intercellular substance",
+      "(D) Found lining the gall bladder",
+      "(E) Has no basal lamina"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q21. All the following statements about the transitional epithelium are False EXCEPT",
+    "o": [
+      "(A) Represent a transitional tissues between stratified squamous and stratified cuboidal epithelium",
+      "(B) The upper most layer exhibit binucleated cells",
+      "(C) Often has sterocilia as a surface modification",
+      "(D) Often associated with the respiratory tract"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q22. Exocrine glands",
+    "o": [
+      "(A) Discharge their secretion via ducts",
+      "(B) Discharge secretory product by diffusion into the blood",
+      "(C) Secretes products known as hormones",
+      "(D) Are only unicellular glands"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q23. The mechanism by which cells secrete a compound that acts upon neighboring target cells is called",
+    "o": [
+      "(A) Neurocrine",
+      "(B) Paracrine",
+      "(C) Endocrine",
+      "(D) Exocrine"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q24. Myoepithelial cells are",
+    "o": [
+      "(A) Connected to each other by tight junction",
+      "(B) Rich with myosin filaments only",
+      "(C) Located between the basal lamina and the basal surface of the secretory cells",
+      "(D) Found in the thyroid gland"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q25. The basal lamina which separates and connects epithelial cells to connective tissues",
+    "o": [
+      "(A) Consists of two layers; lamina luc lamina densa",
+      "(B) Contain glycocalyx",
+      "(C) Composed mainly of type V collagen",
+      "(D) Produced by the underlying CT",
+      "(E) Can be found between adjacent epithelial cells"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q26. The basement membrane is formed of all the following EXCEPT",
+    "o": [
+      "(A) Lamina lucida",
+      "(B) Lamina densa",
+      "(C) Fibroreticular layer",
+      "(D) Macula densa"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q27. In zonula occludense, the distance between 2 cell membrane is",
+    "o": [
+      "(A) 0 nm",
+      "(B) 20 nm",
+      "(C) 20 µm",
+      "(D) 200 nm",
+      "(E) 200 µm"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q28. All the following statements about the zonula occludense are True EXCEPT",
+    "o": [
+      "(A) Most apical component of junctional complex",
+      "(B) It is tight junction",
+      "(C) Found in columnar cells of small intestine",
+      "(D) Allow chemical communication between epithelial cells",
+      "(E) Formed by fusion of the outer leaflets of adjacent trilaminar unit membrane"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q29. In zonula adherens, the distance between 2 cell membranes is",
+    "o": [
+      "(A) 0 nm",
+      "(B) 2 nm",
+      "(C) 20 nm",
+      "(D) 20 µm",
+      "(E) 200 nm"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q30. All the following statements about zonula adherens are True EXCEPT",
+    "o": [
+      "(A) It is a component of junctional complex",
+      "(B) Characterized by the presence of plaque on the cytoplasmic surface on the opposing plasma membrane",
+      "(C) Sometimes called belt desmosome",
+      "(D) The adjacent cell membrane are separated by 20 nm space"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q31. Macular adherense (desmosome) characterized by the following EXCEPT",
+    "o": [
+      "(A) Dense plaque is present on the cytoplasmic surface of the opposing plasma membrane",
+      "(B) Bundles of tonofilaments are anchored on the plaques",
+      "(C) The adjacent cells are separated by 15-30 nm space",
+      "(D) Facilitate metabolic coupling between ad acent cells"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q32. Classical description of a junctional complex include",
+    "o": [
+      "(A) Zonula occludense",
+      "(B) Zonula adherense",
+      "(C) Macula adherense",
+      "(D) All of the above",
+      "(E) None of the above"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q33. Hemidesmosome is characterized by the following EXCEPT",
+    "o": [
+      "(A) Located on the inner surface of basal plasma membrane in contact with the basal lamina",
+      "(B) Help to attach epithelial cells to the basal lamina",
+      "(C) One component of classic junctional complex",
+      "(D) Associated with stratified squamous epithelium"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q34. Gap junction is characterized by the following EXCEPT",
+    "o": [
+      "(A) Exist only between epithelial cells",
+      "(B) Opposing plasma membrane are separated by a 2 nm space or gap",
+      "(C) The gap is bridged by connexin",
+      "(D) Permit the passage of ions and small molecules",
+      "(E) Important in intercellular communication and coordination"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q35. Holocrine secretion",
+    "o": [
+      "(A) Occurs in sebaceous gland",
+      "(B) Occurs in endocrine gland",
+      "(C) Involve no loss of cytoplasm",
+      "(D) Involve destruction of the apical parts of the cell"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q36. Each of the following statements about merocrine gland is correct EXCEPT",
+    "o": [
+      "(A) May be endocrine gland",
+      "(B) May be exocrine gland",
+      "(C) Their cells contain a well-developed Golgi complex and rER",
+      "(D) The secretory cells lose their apical cytoplasm during secretion"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q37. Simple branched tubular gland",
+    "o": [
+      "(A) Are endocrine gland",
+      "(B) Have a branched duct system",
+      "(C) Have a branched secretory portion",
+      "(D) None of the above"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q38. Taste bud is an example of",
+    "o": [
+      "(A) Myoepithelium",
+      "(B) Absorptive epithelium",
+      "(C) Neuroepithelium",
+      "(D) Secretory epithelium",
+      "(E) Surface epithelium"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q39. Epithelial cells specialized for ion transport is characterized by the following EXCEPT",
+    "o": [
+      "(A) Infolded basal plasma membrane",
+      "(B) Numerous mitochondria",
+      "(C) Found in the kidney tubules",
+      "(D) All of the above choices",
+      "(E) None of the above choices"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q40. Which type of collagen is a component of the basement membrane ?",
+    "o": [
+      "(A) Type III",
+      "(B) Type IV",
+      "(C) Type V",
+      "(D) None of the above"
+    ],
+    "a": "B"
+  }
+]

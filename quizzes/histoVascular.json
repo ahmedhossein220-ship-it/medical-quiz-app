@@ -1,0 +1,274 @@
+[
+  {
+    "q": "Q1. Each of the following statements about sinusoidal capillaries is True EXCEPT",
+    "o": [
+      "(A) They have usually wide lumens",
+      "(B) They have abundant fenestration",
+      "(C) They usually follow tortuous courses (twisting)",
+      "(D) They usually have a continuous basal lamina",
+      "(E) They often have phagocytic cells inserted between the endothelial cell"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q2. Each of the following statements about fenestrated capillaries is correct EXCEPT",
+    "o": [
+      "(A) They have a continuous basal lamina",
+      "(B) They are typically have a much wider lumen than continuous capillaries",
+      "(C) They may have thin diaphragms covering their pores",
+      "(D) They have a role in allowing the transfer of large molecules between the blood and tissues",
+      "(E) They may be found in the kidney"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q3. The thickest layer in the wall of the vein is the",
+    "o": [
+      "(A) Tunica medium",
+      "(B) Tunica adventitia",
+      "(C) Tunica intima",
+      "(D) Subendothelial C.T"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q4. Pericytes",
+    "o": [
+      "(A) Are specialized cardiac muscle cell",
+      "(B) Are located to the outside of capillaries",
+      "(C) Are specialized smooth muscle cells",
+      "(D) Are multinucleated"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q5. Continuous capillaries",
+    "o": [
+      "(A) Are found in the brain, muscle, CT and lung",
+      "(B) Have well-developed basal lamina",
+      "(C) Their endothelial cells contain pinocytic vesicles",
+      "(D) The endothelial cells fused by tight junction",
+      "(E) All of the above"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q6. Capillaries can function all of the following EXCEPT",
+    "o": [
+      "(A) Converting angiotensin I→ angiotensin II",
+      "(B) Inactivating a variety of bioactive compound e.g. serotonin",
+      "(C) Exchange of gases",
+      "(D) Help clot formation"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q7. Vasa vasorum",
+    "o": [
+      "(A) Small lymphatic vessels",
+      "(B) Found in tunica intima of large arteries",
+      "(C) Found in tunica media of large arteries",
+      "(D) Found in tunica adventitia of large arteries",
+      "(E) Nourish cells in the tunica intima"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q8. Large vein of the abdominal cavity e.g. IV cava possesses",
+    "o": [
+      "(A) Thick tunica media",
+      "(B) Longitudinal smooth muscle in tunica adventitia",
+      "(C) Well developed IEL",
+      "(D) Transverse skeletal muscle in tunica adventitia"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q9. Aorta has",
+    "o": [
+      "(A) Their endothelium has rod-like inclusions (Weibel-Palade) bodies",
+      "(B) Ill-defined internal elastic lamina",
+      "(C) Thick tunica media formed of fenestrated elastic membranes",
+      "(D) Thin tunica adventitia",
+      "(E) All of the above"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q10. Internal elastic lamina is well distinct in",
+    "o": [
+      "(A) Large arteries e.g. aorta",
+      "(B) Large vein",
+      "(C) Medium sized vein",
+      "(D) Basilar artery",
+      "(E) Inferior vena cava"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q11. Diameter of capillaries is",
+    "o": [
+      "(A) 100 µm",
+      "(B) 40 µm",
+      "(C) 8 - 10 µm",
+      "(D) 4 - 6 µm"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q12. Medium-sized artery differ from medium-sized vein in the following EXCEPT",
+    "o": [
+      "(A) Has a well-developed IEL",
+      "(B) Has thicker tunica media",
+      "(C) Has thicker tunical adventitia",
+      "(D) Has external elastic lamina"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q13. Endothelial cells are characterized by the following EXCEPT",
+    "o": [
+      "(A) They are simple squamous",
+      "(B) Endodermal in origin",
+      "(C) Generally are joined by tight junction",
+      "(D) Their cytoplasm rich with pinocytic vesicles",
+      "(E) Have sparse organelles"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q14. Exchange of gases and other substances across capillary wall occurs through",
+    "o": [
+      "(A) Fenestra",
+      "(B) Intercellular junction",
+      "(C) Pinocytic vesicles",
+      "(D) Diffusion and active transport",
+      "(E) All of the above"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q15. The tunica intima characterized by the following EXCEPT",
+    "o": [
+      "(A) It represents the most outer layer of blood vessels",
+      "(B) A layer of simple squamous epithelium (endothelium)",
+      "(C) Has a subendothelial layer",
+      "(D) May be separated from the media by IEL in arteries"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q16. Which of the following association is NOT correct",
+    "o": [
+      "(A) Continuous capillaries - muscle tissues",
+      "(B) Fenestrated capillaries with diaphragm -> intestine",
+      "(C) Fenestrated capillaries without diaphragm - renal glomeruli",
+      "(D) Sinusoid capillaries -> brain"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q17. A deficiency in Weibel-Palade granules would result in",
+    "o": [
+      "(A) A type of immune deficiency",
+      "(B) A type of hemophilia",
+      "(C) A type of C.T disorder",
+      "(D) Increased platelets adhesion",
+      "(E) None of the above"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q18. Which of the following association is NOT correct",
+    "o": [
+      "(A) Basilar artery with well-developed IEL",
+      "(B) Umbilical artery with developed IEL",
+      "(C) Coronary artery with developed IEL",
+      "(D) Aorta with ill-defined IEL"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q19. Muscular or distributing arteries",
+    "o": [
+      "(A) Exhibit a well-defined IEL",
+      "(B) May have skeletal muscle fibers in the tunica adventitia",
+      "(C) Contain 5-10 layers of smooth muscle in tunica media",
+      "(D) May contain vasa vasorum in the tunica intima"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q20. The endothelial cells of continuous capillaries",
+    "o": [
+      "(A) Lack plamalemmal vesicles",
+      "(B) Have a thin coat of smooth muscle fibers",
+      "(C) Are lined with macrophages",
+      "(D) Lack microfilaments",
+      "(E) Can be joined to one another by tight junctions"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q21. Capillaries found in the CNS are example of",
+    "o": [
+      "(A) Continuous capillaries",
+      "(B) Fenestrated capillaries + diaphragm",
+      "(C) Sinusoidal capillaries",
+      "(D) Fenestrated without diaphragm"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q22. Glomera (complex anastomosis between arteriole and venule)",
+    "o": [
+      "(A) Are capillaries found in renal corpuscle (glomerulus)",
+      "(B) Are found mainly in the face",
+      "(C) Contain no-smooth muscle",
+      "(D) Play an important role in regulating circulation in various organ"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q23. Arteriovenous anastomosis play an important role in:",
+    "o": [
+      "(A) Menstruation",
+      "(B) Erection",
+      "(C) Thromboregulation",
+      "(D) Regulation of b.p.",
+      "(E) All of the above"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q24. Lymphatic vessels",
+    "o": [
+      "(A) Resemble arteries more than vein",
+      "(B) Lack valves",
+      "(C) Have sharp borders between their tunica",
+      "(D) Contain longitudinal smooth muscle in their tunica media"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q25. Metarterioles",
+    "o": [
+      "(A) Function to control blood flow into arterioles",
+      "(B) Possess a complete layer of smooth muscle cells in their tunica media",
+      "(C) Possess precapillary sphincter",
+      "(D) Possess valves to regulate the direction of blood flow"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q26. The tunica adventitia of muscular arteries is characterized by all of the following EXCEPT that it",
+    "o": [
+      "(A) Contain large amount of type III collagen",
+      "(B) Separated from the tunica media by ext. EL",
+      "(C) Receives nourishment from the vasa vasorum",
+      "(D) May contain lymphatics and nerves",
+      "(E) Contain longitudinally arranged and collagen fibers"
+    ],
+    "a": "A"
+  }
+]

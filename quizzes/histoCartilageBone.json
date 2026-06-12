@@ -1,0 +1,878 @@
+[
+  {
+    "q": "Q1. All the following are characteristics of perichondrium EXCEPT",
+    "o": [
+      "(A) Is vascular",
+      "(B) Cover every cartilage surfaces",
+      "(C) Formed of 2 layers; outer fibrous and inner chondrogenic",
+      "(D) The outer layer is formed of dense irregular white C.T",
+      "(E) Essential for growth and maintenance of cartilage"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q2. Oxygen and nutrient reach the chondrocytes from the perichondrium via",
+    "o": [
+      "(A) Canaliculi",
+      "(B) Fine capillaries",
+      "(C) Sharpeys fibers",
+      "(D) Diffusion"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q3. Young chondrocytes (chondroblast)",
+    "o": [
+      "(A) Do not divide",
+      "(B) Can divide and can secrete matrix",
+      "(C) Live without nutrition",
+      "(D) Have phagocytic function"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q4. Chondrocytes synthesis and secrete",
+    "o": [
+      "(A) Type II collagen",
+      "(B) Chondroitin sulfate as an examples of GAGs (glucosaminoglycan)",
+      "(C) Proteoglycan",
+      "(D) All of the above"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q5. All the following statements about chondrocytes are True EXCEPT",
+    "o": [
+      "(A) Have a well-developed rER",
+      "(B) Have a well-developed Golgi complex",
+      "(C) Can synthesize and secrete fibers and ground substances",
+      "(D) Produce energy by anaerobic glycolysis",
+      "(E) Normally with age can change into osteocyte"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q6. The matrix of hyaline cartilage contains",
+    "o": [
+      "(A) Blood capillaries",
+      "(B) Nerve fibers",
+      "(C) Collagenous fibrils",
+      "(D) Lymphatic vessels"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q7. Type II collagen present in",
+    "o": [
+      "(A) Hyaline cartilage",
+      "(B) Yellow elastic cartilage",
+      "(C) White fibrocartilage",
+      "(D) Both A & B",
+      "(E) Both A & C"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q8. Type I collagen fibers are found in",
+    "o": [
+      "(A) White fibrocartilage",
+      "(B) Yellow elastic fibrocartilage",
+      "(C) Matrix of hyaline cartilage",
+      "(D) Choices A & B above"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q9. Chondrocytes",
+    "o": [
+      "(A) Immature cells are rounded with little or no surface projections",
+      "(B) Mature chondrocytes contain few organelles",
+      "(C) They are connected to each other by gap junction",
+      "(D) The area immediately surrounding the chondrocyte is rich in glycosaminoglycans and low in collagen"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q10. Which one of the following statement regarding hyaline cartilage is True ?",
+    "o": [
+      "(A) It is vascular",
+      "(B) It is located at the articular ends of long bone",
+      "(C) It contains type I collagen",
+      "(D) It undergoes appositional growth only"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q11. Hyaline cartilage",
+    "o": [
+      "(A) Contains lymphatic vessels and nerve fibers",
+      "(B) Is vascularized",
+      "(C) Always converts to bone in the adult",
+      "(D) Contain chondrocytes that exhibit a high metabolic activity",
+      "(E) Serve as a temporary skeleton in the embryo"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q12. Articular cartilage differs from hyaline cartilage in that it",
+    "o": [
+      "(A) Lacks perichondrium",
+      "(B) Lacks blood vessels",
+      "(C) Lacks nerve supply",
+      "(D) Lacks lymphatic vessels"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q13. Yellow elastic cartilage similar to hyaline cartilage in structure EXCEPT that it",
+    "o": [
+      "(A) Has abundant amount of fine elastic fibers",
+      "(B) Has perichondrium",
+      "(C) Has type II collagen",
+      "(D) It grows by both appositional and interstitial growth"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q14. Yellow elastic cartilage is present in the following EXCEPT",
+    "o": [
+      "(A) Trachea",
+      "(B) Ear pinna",
+      "(C) Epiglottis",
+      "(D) Cuneiform cartilage of the larynx",
+      "(E) Eustachian tubes"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q15. The intervertebral disc is formed of",
+    "o": [
+      "(A) Hyaline cartilage",
+      "(B) White fibrocartilage",
+      "(C) Yellow elastic fibrocartilage",
+      "(D) Cancellous bone"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q16. Growth of the cartilage is",
+    "o": [
+      "(A) Appositional only",
+      "(B) Interstitial only",
+      "(C) Choices A & B",
+      "(D) None of the above"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q17. Appositional growth of the cartilage",
+    "o": [
+      "(A) Results from mitotic division of chondrocytes inside",
+      "(B) Results from the differentiation of perichondrial cells (chondroblast) into chondrocytes",
+      "(C) Occurs in the epiphyseal plate of long bone",
+      "(D) Increase tissue mass by expanding the cartilage matrix from inside"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q18. Fibrocartilage can be defined as a combination of",
+    "o": [
+      "(A) Hyaline cartilage and bone",
+      "(B) Hyaline cartilage and dense C.T",
+      "(C) Elastic cartilage and bone",
+      "(D) Elastic cartilage and dense C.T",
+      "(E) Hyaline cartilage and loose C.T"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q19. Fibrocartilage similar to articular cartilage in",
+    "o": [
+      "(A) Absence of perichondrium",
+      "(B) Presence of cells in lacunae",
+      "(C) Presence of collagen fibers in the matrix",
+      "(D) All of the above choices",
+      "(E) Choices B & C"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q20. White fibrocartilage can be found in the following sites EXCEPT",
+    "o": [
+      "(A) Intervertebral disc",
+      "(B) Symphysis pubis",
+      "(C) Semilunar cartilage of knee joint",
+      "(D) Acetabulum",
+      "(E) Epiglottis"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q21. Periosteum",
+    "o": [
+      "(A) Facilitate nutrition of bone",
+      "(B) Appositional bone growth",
+      "(C) The production of osteoblast",
+      "(D) Initiating bone repair",
+      "(E) All of the above choices"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q22. All of the following facilitate nutrition and oxygen supply to osteocytes inside their lacunae EXCEPT",
+    "o": [
+      "(A) Gap junction",
+      "(B) Haversian canal",
+      "(C) Bony canaliculi",
+      "(D) Sharpey's fibers"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q23. The collagen fibers in bone matrix is type",
+    "o": [
+      "(A) I",
+      "(B) II",
+      "(C) III",
+      "(D) IV",
+      "(E) V"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q24. Osteogenic cells or osteopregenitor cells have the following features EXCEPT",
+    "o": [
+      "(A) Are derived from embryonic mesenchyma",
+      "(B) Can differentiate to osteoclast",
+      "(C) Can be found in both periosteum and endosteum",
+      "(D) With low oxygen may change to chondrogenic cells"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q25. Source of osteoblasts is",
+    "o": [
+      "(A) Chondrocytes",
+      "(B) Osteogenic cells",
+      "(C) Osteoclasts",
+      "(D) Monocytes that migrate from blood",
+      "(E) Osteocytes"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q26. Osteoblasts are characterized by the following statements EXCEPT",
+    "o": [
+      "(A) Exhibit high alkaline phosphatase activity",
+      "(B) Have a well-developed rER and Golgi complex",
+      "(C) Synthesize and secrete all the organic components of matrix",
+      "(D) Connected to each other by tight junction"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q27. Which bone cells that have parathyroid hormone receptors on their cell membrane ?",
+    "o": [
+      "(A) Osteoprogenitor cells",
+      "(B) Osteoblast",
+      "(C) Osteocyte",
+      "(D) Osteoclast"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q28. Which bone cells that are present inside lacunae",
+    "o": [
+      "(A) Osteoprogenitor cells",
+      "(B) Osteoblast",
+      "(C) Osteocyte",
+      "(D) Osteoclast"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q29. Bony canaliculi",
+    "o": [
+      "(A) Connect Haversian canal to one another",
+      "(B) Are cytoplasmic extensions of osteoblast",
+      "(C) Are channel-like structures which houses the cytoplasmic process of osteocyte",
+      "(D) Are bony trabeculae or spicules"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q30. Osteoblasts synthesize all the following EXCEPT",
+    "o": [
+      "(A) Type I collagen",
+      "(B) Glycosaminoglycan including chondroitin-4 sulphate and chondroitin-6 phosphate",
+      "(C) Hydroxyapatite crystals",
+      "(D) Glycoprotein"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q31. All the following are the components of bone matrix EXCEPT",
+    "o": [
+      "(A) Type II collagen",
+      "(B) Hydroxyapatite crystals",
+      "(C) Phosphoprotein and glycoprotein",
+      "(D) Proteoglycan",
+      "(E) Glycosaminoglycan"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q32. Cell lies in the Howships lacuna is",
+    "o": [
+      "(A) Osteogenic cell",
+      "(B) Osteocyte",
+      "(C) Osteoclast",
+      "(D) Osteocyte"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q33. When osteoblasts are trapped inside lacunae they are called",
+    "o": [
+      "(A) Osteoclast",
+      "(B) Osteocyte",
+      "(C) Chondroblast",
+      "(D) Chondrocyte",
+      "(E) Osteogenic cells"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q34. Which bone cells considered as a component of mononuclear phagocytic system?",
+    "o": [
+      "(A) Osteoblast",
+      "(B) Osteoclast",
+      "(C) Osteocyte",
+      "(D) Osteoprogenitor cells"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q35. All the following structures are found in bone EXCEPT",
+    "o": [
+      "(A) Hydroxyapatite crystals",
+      "(B) Howships lacunae",
+      "(C) Sharpey's fibers",
+      "(D) Volkmann's canal",
+      "(E) Type II collagen"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q36. Osteoclasts",
+    "o": [
+      "(A) Are multinucleated cells",
+      "(B) Are found inside lacunae in the matrix of the bone",
+      "(C) Basophilic cytoplasm",
+      "(D) Derived from osteoblast",
+      "(E) Their function bone formation"],
+    "a": "A"
+  },
+  {
+    "q": "Q37. All the following statements about osteoclast are True EXCEPT",
+    "o": [
+      "(A) Has acidophilic cytoplasm",
+      "(B) Has ruffled border",
+      "(C) Concerned with bone resorption",
+      "(D) Derived from the fusion of many osteocytes"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q38. Concerning E/M of the osteoclast, what zone of it that is rich with lysosomes ?",
+    "o": [
+      "(A) Ruffled border",
+      "(B) Clear zone",
+      "(C) Vesicular zone",
+      "(D) Basal zone"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q39. The bone-resorbing activity of osteoclast is regulated by",
+    "o": [
+      "(A) Parathyroid hormone",
+      "(B) Calcitonin hormone",
+      "(C) Osteoclast stimulating factor",
+      "(D) Choices A & B",
+      "(E) Choices B & C"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q40. Haversian system or osteon is formed of",
+    "o": [
+      "(A) Concentric bone lamellae",
+      "(B) Haversian canal",
+      "(C) Osteocytes arranged between adjacent lamellae",
+      "(D) Choices A & C only",
+      "(E) Choices A & B & C"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q41. Each of the following statements about Volkmann's canal is correct EXCEPT",
+    "o": [
+      "(A) They are surrounded by concentric bony lamellae",
+      "(B) They form connections between Haversian canals",
+      "(C) They carry the neurovascular supply",
+      "(D) They are found in compact bone",
+      "(E) Connects the periosteum and endosteum"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q42. Concerning Sharpeys fibers, all the following statements are True EXCEPT",
+    "o": [
+      "(A) They are found at the site of attachment of tendons to bone",
+      "(B) Periosteal collagenous fibers",
+      "(C) Periosteal elastic fibers",
+      "(D) Anchor the periosteum to the bone"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q43. Endosteum is formed of",
+    "o": [
+      "(A) Outer fibers and inner cellular",
+      "(B) Outer cellular and inner fibrous",
+      "(C) Only cellular layer",
+      "(D) Only fibrous layer"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q44. Long bone grows in width by",
+    "o": [
+      "(A) Interstitial growth",
+      "(B) Appositional growth",
+      "(C) Linear growth",
+      "(D) Sutural growth"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q45. Which stage of intracartilagenous ossification in which the bone marrow cells appear",
+    "o": [
+      "(A) Stage of proliferation",
+      "(B) Stage of maturation and hypertrophy",
+      "(C) Stage of calcification.",
+      "(D) Stage of ossification"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q46. Which of the following statements about intramembranous ossification is NOT correct",
+    "o": [
+      "A) Most of flat bone are formed by this type of apposition",
+      "B) Mesenchymal cells differentiate into osteocytes that produce osteoid matrix",
+      "C) Mesenchymal tissues that do not undergo ossification develop into periosteum and endosteum",
+      "D) Undifferentiated mesenchymal cells give rise to bone marrow cells"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q47. Immature (woven) bone is characterized by",
+    "o": [
+      "A) High proportion of osteocytes",
+      "B) Easily penetrated by X-ray",
+      "C) Low mineral content",
+      "D) Irregularly arranged collagen",
+      "E) All of the above choices"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q48. Articular cartilage",
+    "o": [
+      "A) Is hyaline cartilage without a perichondrium",
+      "B) Is found lining joints of long bone",
+      "C) Absorbs the mechanical pressure of joint",
+      "D) Does not contribute to bone formation",
+      "E) Has all of the above characteristics"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q49. All the following statements are True about Haversian system (osteons) EXCEPT that",
+    "o": [
+      "(A) The central canal is surrounded by concentric lamellae",
+      "(B) In each lameila, collagen fibers run parallel to each other",
+      "(C) The central canal contains B.V. and nerves",
+      "(D) Endosteum lines the inner surface",
+      "(E) Osteoblasts are found between the lamellae"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q50. Each of the following statements about epiphyseal plate is correct EXCEPT",
+    "o": [
+      "(A) It is responsible for lengthening of long bones",
+      "(B) It appears after the formation of secondary ossification centers",
+      "(C) It is composed mainly of elastic cartilage",
+      "(D) They exhibit the various stages of endochondral bone formation"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q1. The origin of C.T is",
+    "o": [
+      "(A) Mesodermal",
+      "(B) Endodermal",
+      "(C) Ectodermal",
+      "(D) None of the above"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q2. All the following statements about pericyte is correct EXCEPT",
+    "o": [
+      "(A) Are located mostly along capillaries and small venules",
+      "(B) Can differentiate into macrophages in adult C.T",
+      "(C) Play an important role in healing of wounds as they can differentiate to endothelial cells and smooth muscle cells",
+      "(D) Regulate blood flow through the capillaries"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q3. Fibroblasts are responsible for the formation of",
+    "o": [
+      "(A) Procollagen",
+      "(B) Elastin",
+      "(C) Amorphous and carbohydrate component of intercellular substances",
+      "(D) All of the above choices"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q4. With E/M, fibroblasts have all the following features EXCEPT",
+    "o": [
+      "(A) Abundant rER",
+      "(B) Abundant sER",
+      "(C) Well-developed Golgi complex",
+      "(D) Secretory vesicles"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q5. The cell type mainly responsible for producing and maintaining all the components of C.T intercellular matrix is",
+    "o": [
+      "(A) Mast cells",
+      "(B) Plasma cells",
+      "(C) Fibroblast",
+      "(D) Macrophage"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q6. C.T cells often found along blood capillaries are",
+    "o": [
+      "(A) Fibrocytes",
+      "(B) Lymphocytes",
+      "(C) Histiocytes",
+      "(E) Pericytes"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q7. Procollagen, proelastin and glycosaminoglycan are all secreted by",
+    "o": [
+      "(A) Plasma cells",
+      "(B) Adipose cells",
+      "(C) Fibroblasts",
+      "(D) Macrophages"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q8. Mast cells have all the following features EXCEPT",
+    "o": [
+      "(A) Hetrochromatin arranged in a spoke-wheel pattern",
+      "(B) Abundant electron-dense cytoplasmic granules",
+      "(C) Well-developed Golgi complex",
+      "(D) Several mitochondria",
+      "(E) Surface receptors for IgE antibodies"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q9. Metachromasia is a character of",
+    "o": [
+      "(A) Macrophage",
+      "(B) Adipose cells",
+      "(C) Mast cells",
+      "(D) Neutrophils",
+      "(E) Plasma cells"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q10. The main function of mast cells is the secretion of the following",
+    "o": [
+      "(A) Eosinophil chemotactic factor (ECF)",
+      "(B) Histamine",
+      "(C) Heparin",
+      "(D) Neutrophil chemotactic factor (NCF)",
+      "(E) All of the above"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q11. Plasma cells are derived from",
+    "o": [
+      "(A) Fibroblasts",
+      "(B) T-lymphocytes",
+      "(C) B-lymphocytes",
+      "(D) Mast cells"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q12. All the following statements about plasma cells are correct EXCEPT",
+    "o": [
+      "(A) The nucleus has a cart-wheel appearance",
+      "(B) A well-developed rER",
+      "(C) Large juxtanuclear Golgi complex and a pair of centrioles",
+      "(D) Secrete antibodies",
+      "(E) Are commonly found in peripheral blood"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q13. The main ultrastructural feature of macrophage by E/M is the presence of",
+    "o": [
+      "(A) Mitochondria",
+      "(B) Lysosomes",
+      "(C) SER",
+      "(D) Perioxisomes",
+      "(E) Secretory granules"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q14. Macrophages are derived from",
+    "o": [
+      "(A) Endothelial cells",
+      "(B) Fibroblast",
+      "(C) Monocytes",
+      "(D) Plasma cells"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q15. Foreign body giant cells are coalesced",
+    "o": [
+      "(A) Macrophages",
+      "(B) Lymphocytes",
+      "(C) Adipose cells",
+      "(D) Fibroblasts"
+    ],
+    "a": "A"
+  },
+  {
+    "q": "Q16. The following cells are free C.T cells EXCEPT",
+    "o": [
+      "(A) Mast cells",
+      "(B) Fat or adipose cells",
+      "(C) Plasma cells",
+      "(D) Neutrophils",
+      "(E) Macrophages"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q17. Macrophages",
+    "o": [
+      "(A) Are normally multinucleated cells",
+      "(B) Synthesize and release immunoglobulins",
+      "(C) Are phagocytic cells derived from monocytes",
+      "(D) Have a prominent sER",
+      "(E) Produce the extracellular matrix of loose C.T"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q18. Sudan III is a specific stain to show",
+    "o": [
+      "(A) Plasma cells",
+      "(B) Fat cells",
+      "(C) Mast cells",
+      "(D) Pigment cells",
+      "(E) Macrophages"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q19. Adipose cells",
+    "o": [
+      "(A) Possess a flattened nucleus",
+      "(B) Possess a thin rim of cytoplasm",
+      "(C) Fat globules",
+      "(D) All of the above"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q20. Elastic fibers",
+    "o": [
+      "(A) Can be stretched to 150% of their length and spring back to the original size",
+      "(B) Formed of elastin and microfibrillar protein",
+      "(C) Synthesized by fibroblast",
+      "(D) Tend to become calcified with age",
+      "(E) All of the above"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q21. Silver stain is specific to show",
+    "o": [
+      "A) Collagen fibers",
+      "(B) Elastic fibers",
+      "(C) Reticular fibers",
+      "(D) None of the above"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q22. Reticular fibers are thin collagen fibers composed mainly of",
+    "o": [
+      "(A) Type I",
+      "(B) Type II",
+      "(C) Type III",
+      "(D) Type IV",
+      "(E) Type V"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q23. The functions of C.T include",
+    "o": [
+      "(A) Immunologic protection",
+      "(B) Tissue repair after injury",
+      "(C) Structural support",
+      "(D) Fat storage",
+      "(E) All of the above"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q24. Loose C.T contain all the following EXCEPT",
+    "o": [
+      "(A) Extracellular matrix",
+      "(B) C.T fibers e.g. collagen, elastic and reticular fibers",
+      "(C) C.T cells e.g. fibroblasts, macrophages, mast cells and plasma cells",
+      "(D) All of the above",
+      "(E) None of the above"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q25. A section in the tendon shows all the following features EXCEPT",
+    "o": [
+      "(A) Collagen fibers packed into parallel bundles",
+      "(B) Fibrocytes scattered in rows inbetween the bundles",
+      "(C) Minimal intercellular substance",
+      "(D) Poor blood supply",
+      "(E) Many macrophages and mast cells"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q26. The reticular layer of the dermis of the skin is formed of",
+    "o": [
+      "(A) Reticular C.T",
+      "(B) Dense regular white C.T",
+      "(C) Dense irregular white C.T",
+      "(D) Elastic C.T"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q27. Regular dense white collagenous fiber is present in",
+    "o": [
+      "(A) Capsule of some organs",
+      "(B) Tendons",
+      "(C) Pericheadrim",
+      "(D) Periosteum",
+      "(E) All of the above"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q28. Which of the following statements about white adipose tissue is NOT correct ?",
+    "o": [
+      "(A) It is termed unilocular adipose tissues",
+      "(B) The lipid droplets are surrounded by a membrane",
+      "(C) Are highly vascular",
+      "(D) Contain many autonomic nerve fibers"
+    ],
+    "a": "B"
+  },
+  {
+    "q": "Q29. All the following are features of multilocular adipose tissue EXCEPT",
+    "o": [
+      "(A) Its cells contain several fat droplets",
+      "(B) Its cells contain large number of mitochondria",
+      "(C) It is widely distributed throughout the body",
+      "(D) It has a large number of blood capillaries"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q30. Brown adipose tissue is found mostly in infant for",
+    "o": [
+      "(A) Binding organs together",
+      "(B) Storage of fat",
+      "(C) Production of heat by oxidative phosphorylation",
+      "(D) All of the above choices"
+    ],
+    "a": "C"
+  },
+  {
+    "q": "Q31. Subcutaneous fat is absent in",
+    "o": [
+      "(A) Eye lid",
+      "(B) External ear",
+      "(C) Scrotum",
+      "(D) Penis",
+      "(E) All of the above"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q32. Mucous C.T is present in the following EXCEPT",
+    "o": [
+      "(A) Umbilical cord",
+      "(B) Nucleus pulposis of the intervertebral disks",
+      "(C) Pulp of young teeth",
+      "(D) Vitreous humour of the eye",
+      "(E) Mucosa of the small intestine"
+    ],
+    "a": "E"
+  },
+  {
+    "q": "Q33. Elastic C.T is common In",
+    "o": [
+      "(A) Vocal cords",
+      "(B) Suspensory ligament of the penis",
+      "(C) Ligamentum flava of the vertebral column",
+      "(D) All of the above"
+    ],
+    "a": "D"
+  },
+  {
+    "q": "Q34. All of the following are characteristic of reticular C.T EXCEPT",
+    "o": [
+      "(A) Formed of reticular cells and fibers type III collagen",
+      "(B) Found mainly in the hematopoietic tissues e.g bone marrow",
+      "(C) Contains abundant ground substance",
+      "(D) Stained with silver"
+    ],
+    "a": "C"
+  }
+]
